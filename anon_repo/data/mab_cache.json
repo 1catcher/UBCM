@@ -1,0 +1,7202 @@
+{
+ "[\"CR\", 0, 5, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Baldwin Wallace University",
+  "tokens": 532,
+  "prompt_tokens": 600
+ },
+ "[\"CR\", 0, 0, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 655,
+  "prompt_tokens": 719
+ },
+ "[\"CR\", 0, 0, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 655,
+  "prompt_tokens": 719
+ },
+ "[\"CR\", 0, 5, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Baldwin Wallace University",
+  "tokens": 6105,
+  "prompt_tokens": 5431
+ },
+ "[\"CR\", 0, 5, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Baldwin Wallace University",
+  "tokens": 4163,
+  "prompt_tokens": 3737
+ },
+ "[\"CR\", 0, 0, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Belgium",
+  "tokens": 6105,
+  "prompt_tokens": 5426
+ },
+ "[\"CR\", 0, 5, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Baldwin Wallace University",
+  "tokens": 532,
+  "prompt_tokens": 600
+ },
+ "[\"CR\", 0, 0, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Belgium",
+  "tokens": 4163,
+  "prompt_tokens": 3732
+ },
+ "[\"CR\", 0, 0, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Belgium",
+  "tokens": 6105,
+  "prompt_tokens": 5426
+ },
+ "[\"CR\", 0, 10, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "atheism",
+  "tokens": 4163,
+  "prompt_tokens": 3732
+ },
+ "[\"CR\", 0, 10, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 343,
+  "prompt_tokens": 449
+ },
+ "[\"CR\", 0, 10, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 343,
+  "prompt_tokens": 449
+ },
+ "[\"CR\", 0, 15, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4163,
+  "prompt_tokens": 3731
+ },
+ "[\"CR\", 0, 15, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 1665,
+  "prompt_tokens": 1551
+ },
+ "[\"CR\", 0, 15, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 6105,
+  "prompt_tokens": 5425
+ },
+ "[\"CR\", 0, 15, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 1665,
+  "prompt_tokens": 1551
+ },
+ "[\"CR\", 0, 15, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 6105,
+  "prompt_tokens": 5425
+ },
+ "[\"CR\", 0, 20, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Persian",
+  "tokens": 797,
+  "prompt_tokens": 817
+ },
+ "[\"CR\", 0, 20, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Persian",
+  "tokens": 6105,
+  "prompt_tokens": 5429
+ },
+ "[\"CR\", 0, 25, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Adel al-Jubeir",
+  "tokens": 4163,
+  "prompt_tokens": 3739
+ },
+ "[\"CR\", 0, 20, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Persian",
+  "tokens": 6105,
+  "prompt_tokens": 5429
+ },
+ "[\"CR\", 0, 10, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "atheism",
+  "tokens": 6105,
+  "prompt_tokens": 5426
+ },
+ "[\"CR\", 0, 25, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Adel al-Jubeir",
+  "tokens": 480,
+  "prompt_tokens": 560
+ },
+ "[\"CR\", 0, 25, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Adel al-Jubeir",
+  "tokens": 6105,
+  "prompt_tokens": 5433
+ },
+ "[\"CR\", 0, 25, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Adel al-Jubeir",
+  "tokens": 480,
+  "prompt_tokens": 560
+ },
+ "[\"CR\", 0, 30, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 989,
+  "prompt_tokens": 1031
+ },
+ "[\"CR\", 0, 30, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4144,
+  "prompt_tokens": 3728
+ },
+ "[\"CR\", 0, 10, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "atheism",
+  "tokens": 6105,
+  "prompt_tokens": 5426
+ },
+ "[\"CR\", 0, 30, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "New York City",
+  "tokens": 6105,
+  "prompt_tokens": 5440
+ },
+ "[\"CR\", 0, 25, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Adel al-Jubeir",
+  "tokens": 6105,
+  "prompt_tokens": 5433
+ },
+ "[\"CR\", 0, 35, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "The Fairly OddParents",
+  "tokens": 4163,
+  "prompt_tokens": 3734
+ },
+ "[\"CR\", 0, 35, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "The Fairly OddParents",
+  "tokens": 6105,
+  "prompt_tokens": 5428
+ },
+ "[\"CR\", 0, 30, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 989,
+  "prompt_tokens": 1031
+ },
+ "[\"CR\", 0, 30, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "New York City",
+  "tokens": 6105,
+  "prompt_tokens": 5440
+ },
+ "[\"CR\", 0, 35, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "The Fairly OddParents",
+  "tokens": 6105,
+  "prompt_tokens": 5428
+ },
+ "[\"CR\", 0, 40, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4163,
+  "prompt_tokens": 3734
+ },
+ "[\"CR\", 0, 35, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 998,
+  "prompt_tokens": 948
+ },
+ "[\"CR\", 0, 35, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 998,
+  "prompt_tokens": 948
+ },
+ "[\"CR\", 0, 40, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Philippe, Duke of Orléans",
+  "tokens": 636,
+  "prompt_tokens": 696
+ },
+ "[\"CR\", 0, 40, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Philippe, Duke of Orléans",
+  "tokens": 6105,
+  "prompt_tokens": 5428
+ },
+ "[\"CR\", 0, 40, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Philippe, Duke of Orléans",
+  "tokens": 636,
+  "prompt_tokens": 696
+ },
+ "[\"CR\", 0, 45, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 244,
+  "prompt_tokens": 383
+ },
+ "[\"CR\", 0, 5, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Baldwin Wallace University",
+  "tokens": 6105,
+  "prompt_tokens": 5431
+ },
+ "[\"CR\", 0, 45, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 244,
+  "prompt_tokens": 383
+ },
+ "[\"CR\", 0, 20, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 797,
+  "prompt_tokens": 817
+ },
+ "[\"CR\", 0, 45, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "London",
+  "tokens": 4163,
+  "prompt_tokens": 3734
+ },
+ "[\"CR\", 0, 40, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Philippe, Duke of Orléans",
+  "tokens": 6105,
+  "prompt_tokens": 5428
+ },
+ "[\"CR\", 0, 50, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Mansourah, Algeria",
+  "tokens": 4144,
+  "prompt_tokens": 3721
+ },
+ "[\"CR\", 0, 50, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 424,
+  "prompt_tokens": 530
+ },
+ "[\"CR\", 0, 50, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 424,
+  "prompt_tokens": 530
+ },
+ "[\"CR\", 0, 55, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Sweden",
+  "tokens": 4163,
+  "prompt_tokens": 3730
+ },
+ "[\"CR\", 0, 55, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 151,
+  "prompt_tokens": 269
+ },
+ "[\"CR\", 0, 55, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 151,
+  "prompt_tokens": 269
+ },
+ "[\"CR\", 0, 20, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4163,
+  "prompt_tokens": 3735
+ },
+ "[\"CR\", 0, 55, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Sweden",
+  "tokens": 6105,
+  "prompt_tokens": 5424
+ },
+ "[\"CR\", 0, 50, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Mansourah, Algeria",
+  "tokens": 6105,
+  "prompt_tokens": 5433
+ },
+ "[\"CR\", 0, 60, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 36,
+  "prompt_tokens": 177
+ },
+ "[\"CR\", 0, 60, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4163,
+  "prompt_tokens": 3733
+ },
+ "[\"CR\", 0, 45, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "London",
+  "tokens": 6105,
+  "prompt_tokens": 5428
+ },
+ "[\"CR\", 0, 50, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Mansourah, Algeria",
+  "tokens": 6105,
+  "prompt_tokens": 5433
+ },
+ "[\"CR\", 0, 60, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Berlin",
+  "tokens": 6105,
+  "prompt_tokens": 5427
+ },
+ "[\"CR\", 0, 55, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Sweden",
+  "tokens": 6105,
+  "prompt_tokens": 5424
+ },
+ "[\"CR\", 0, 60, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 36,
+  "prompt_tokens": 177
+ },
+ "[\"CR\", 0, 65, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Narendra Modi",
+  "tokens": 433,
+  "prompt_tokens": 498
+ },
+ "[\"CR\", 0, 65, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Narendra Modi",
+  "tokens": 6105,
+  "prompt_tokens": 5427
+ },
+ "[\"CR\", 0, 65, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Narendra Modi",
+  "tokens": 4163,
+  "prompt_tokens": 3733
+ },
+ "[\"CR\", 0, 65, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Narendra Modi",
+  "tokens": 433,
+  "prompt_tokens": 498
+ },
+ "[\"CR\", 0, 60, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Berlin",
+  "tokens": 6105,
+  "prompt_tokens": 5427
+ },
+ "[\"CR\", 0, 70, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 759,
+  "prompt_tokens": 835
+ },
+ "[\"CR\", 0, 70, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4144,
+  "prompt_tokens": 3717
+ },
+ "[\"CR\", 0, 70, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 759,
+  "prompt_tokens": 835
+ },
+ "[\"CR\", 0, 45, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "London",
+  "tokens": 6105,
+  "prompt_tokens": 5428
+ },
+ "[\"CR\", 0, 70, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Botevgrad",
+  "tokens": 6105,
+  "prompt_tokens": 5429
+ },
+ "[\"CR\", 0, 75, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "interdenominational organization",
+  "tokens": 4163,
+  "prompt_tokens": 3733
+ },
+ "[\"CR\", 0, 70, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Botevgrad",
+  "tokens": 6105,
+  "prompt_tokens": 5429
+ },
+ "[\"CR\", 0, 75, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 326,
+  "prompt_tokens": 404
+ },
+ "[\"CR\", 0, 65, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Narendra Modi",
+  "tokens": 6105,
+  "prompt_tokens": 5427
+ },
+ "[\"CR\", 0, 75, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 326,
+  "prompt_tokens": 404
+ },
+ "[\"CR\", 0, 80, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Antarctica",
+  "tokens": 915,
+  "prompt_tokens": 891
+ },
+ "[\"CR\", 0, 80, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Antarctica",
+  "tokens": 915,
+  "prompt_tokens": 891
+ },
+ "[\"CR\", 0, 80, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Antarctica",
+  "tokens": 6105,
+  "prompt_tokens": 5427
+ },
+ "[\"CR\", 0, 75, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "interdenominational organization",
+  "tokens": 6105,
+  "prompt_tokens": 5427
+ },
+ "[\"CR\", 0, 75, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "interdenominational organization",
+  "tokens": 6105,
+  "prompt_tokens": 5427
+ },
+ "[\"CR\", 0, 90, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "English and French",
+  "tokens": 4163,
+  "prompt_tokens": 3734
+ },
+ "[\"CR\", 0, 85, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 752,
+  "prompt_tokens": 793
+ },
+ "[\"CR\", 0, 85, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 752,
+  "prompt_tokens": 793
+ },
+ "[\"CR\", 0, 90, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "English and French",
+  "tokens": 541,
+  "prompt_tokens": 617
+ },
+ "[\"CR\", 0, 90, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "English, French",
+  "tokens": 6105,
+  "prompt_tokens": 5428
+ },
+ "[\"CR\", 0, 90, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "English, French",
+  "tokens": 541,
+  "prompt_tokens": 617
+ },
+ "[\"CR\", 0, 85, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 6105,
+  "prompt_tokens": 5427
+ },
+ "[\"CR\", 0, 90, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "English, French",
+  "tokens": 6105,
+  "prompt_tokens": 5428
+ },
+ "[\"CR\", 0, 80, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Antarctica",
+  "tokens": 4163,
+  "prompt_tokens": 3733
+ },
+ "[\"CR\", 0, 95, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4163,
+  "prompt_tokens": 3732
+ },
+ "[\"CR\", 0, 95, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 304,
+  "prompt_tokens": 379
+ },
+ "[\"CR\", 0, 95, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Mekere Morauta",
+  "tokens": 6105,
+  "prompt_tokens": 5426
+ },
+ "[\"CR\", 0, 95, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 304,
+  "prompt_tokens": 379
+ },
+ "[\"CR\", 1, 0, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4142,
+  "prompt_tokens": 3769
+ },
+ "[\"CR\", 0, 85, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4163,
+  "prompt_tokens": 3733
+ },
+ "[\"CR\", 0, 95, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Mekere Morauta",
+  "tokens": 6105,
+  "prompt_tokens": 5426
+ },
+ "[\"CR\", 1, 0, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 5694,
+  "prompt_tokens": 4605
+ },
+ "[\"CR\", 1, 0, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3856,
+  "prompt_tokens": 3157
+ },
+ "[\"CR\", 0, 80, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Antarctica",
+  "tokens": 6105,
+  "prompt_tokens": 5427
+ },
+ "[\"CR\", 0, 85, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 6105,
+  "prompt_tokens": 5427
+ },
+ "[\"CR\", 1, 10, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3780
+ },
+ "[\"CR\", 1, 0, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8411,
+  "prompt_tokens": 7492
+ },
+ "[\"CR\", 1, 10, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7503
+ },
+ "[\"CR\", 1, 10, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 1449,
+  "prompt_tokens": 1500
+ },
+ "[\"CR\", 1, 0, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Taipei",
+  "tokens": 31524,
+  "prompt_tokens": 27532
+ },
+ "[\"CR\", 1, 10, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 1449,
+  "prompt_tokens": 1500
+ },
+ "[\"CR\", 1, 15, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3780
+ },
+ "[\"CR\", 1, 15, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8411,
+  "prompt_tokens": 7493
+ },
+ "[\"CR\", 1, 5, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "Oceania",
+  "tokens": 3848,
+  "prompt_tokens": 3402
+ },
+ "[\"CR\", 1, 15, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 2146,
+  "prompt_tokens": 1979
+ },
+ "[\"CR\", 1, 15, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 31524,
+  "prompt_tokens": 27533
+ },
+ "[\"CR\", 1, 15, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 2146,
+  "prompt_tokens": 1979
+ },
+ "[\"CR\", 1, 20, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8411,
+  "prompt_tokens": 7498
+ },
+ "[\"CR\", 1, 5, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4142,
+  "prompt_tokens": 3774
+ },
+ "[\"CR\", 1, 5, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "South America",
+  "tokens": 6679,
+  "prompt_tokens": 5600
+ },
+ "[\"CR\", 1, 25, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4142,
+  "prompt_tokens": 3775
+ },
+ "[\"CR\", 1, 10, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Portland",
+  "tokens": 31524,
+  "prompt_tokens": 27533
+ },
+ "[\"CR\", 1, 20, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4142,
+  "prompt_tokens": 3775
+ },
+ "[\"CR\", 1, 25, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8411,
+  "prompt_tokens": 7498
+ },
+ "[\"CR\", 1, 20, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "Indonesia",
+  "tokens": 3862,
+  "prompt_tokens": 3569
+ },
+ "[\"CR\", 1, 20, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "Indonesia",
+  "tokens": 7819,
+  "prompt_tokens": 6792
+ },
+ "[\"CR\", 1, 25, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "English and Italian",
+  "tokens": 3246,
+  "prompt_tokens": 2939
+ },
+ "[\"CR\", 1, 25, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "English and Italian",
+  "tokens": 3246,
+  "prompt_tokens": 2939
+ },
+ "[\"CR\", 1, 30, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4142,
+  "prompt_tokens": 3774
+ },
+ "[\"CR\", 1, 30, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Australian hip hop",
+  "tokens": 2441,
+  "prompt_tokens": 2482
+ },
+ "[\"CR\", 1, 30, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Australian hip hop",
+  "tokens": 2441,
+  "prompt_tokens": 2482
+ },
+ "[\"CR\", 1, 5, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "South America",
+  "tokens": 31524,
+  "prompt_tokens": 27537
+ },
+ "[\"CR\", 1, 35, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4142,
+  "prompt_tokens": 3776
+ },
+ "[\"CR\", 1, 35, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3840,
+  "prompt_tokens": 3488
+ },
+ "[\"CR\", 1, 30, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8411,
+  "prompt_tokens": 7497
+ },
+ "[\"CR\", 1, 40, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3778
+ },
+ "[\"CR\", 1, 35, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Melbourne",
+  "tokens": 7813,
+  "prompt_tokens": 6815
+ },
+ "[\"CR\", 1, 40, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "Paris",
+  "tokens": 8411,
+  "prompt_tokens": 7491
+ },
+ "[\"CR\", 1, 5, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 8411,
+  "prompt_tokens": 7497
+ },
+ "[\"CR\", 1, 35, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8401,
+  "prompt_tokens": 7490
+ },
+ "[\"CR\", 1, 40, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Pune",
+  "tokens": 3321,
+  "prompt_tokens": 3112
+ },
+ "[\"CR\", 1, 45, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8411,
+  "prompt_tokens": 7493
+ },
+ "[\"CR\", 1, 45, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4142,
+  "prompt_tokens": 3770
+ },
+ "[\"CR\", 1, 40, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Pune",
+  "tokens": 31524,
+  "prompt_tokens": 27531
+ },
+ "[\"CR\", 1, 45, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Plovdiv",
+  "tokens": 2898,
+  "prompt_tokens": 2440
+ },
+ "[\"CR\", 1, 45, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Plovdiv",
+  "tokens": 2898,
+  "prompt_tokens": 2440
+ },
+ "[\"CR\", 1, 50, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4142,
+  "prompt_tokens": 3768
+ },
+ "[\"CR\", 1, 50, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8411,
+  "prompt_tokens": 7491
+ },
+ "[\"CR\", 1, 35, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Melbourne",
+  "tokens": 31524,
+  "prompt_tokens": 27539
+ },
+ "[\"CR\", 1, 50, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "North America",
+  "tokens": 2445,
+  "prompt_tokens": 2132
+ },
+ "[\"CR\", 1, 40, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Pune",
+  "tokens": 3321,
+  "prompt_tokens": 3112
+ },
+ "[\"CR\", 1, 20, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "Indonesia",
+  "tokens": 31524,
+  "prompt_tokens": 27538
+ },
+ "[\"CR\", 1, 45, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Plovdiv",
+  "tokens": 31524,
+  "prompt_tokens": 27533
+ },
+ "[\"CR\", 1, 50, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "North America",
+  "tokens": 2445,
+  "prompt_tokens": 2132
+ },
+ "[\"CR\", 1, 55, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4127,
+  "prompt_tokens": 3766
+ },
+ "[\"CR\", 1, 50, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "North America",
+  "tokens": 31524,
+  "prompt_tokens": 27531
+ },
+ "[\"CR\", 1, 60, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4142,
+  "prompt_tokens": 3773
+ },
+ "[\"CR\", 1, 55, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8401,
+  "prompt_tokens": 7493
+ },
+ "[\"CR\", 1, 60, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8411,
+  "prompt_tokens": 7496
+ },
+ "[\"CR\", 1, 25, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "English, Italian",
+  "tokens": 31524,
+  "prompt_tokens": 27538
+ },
+ "[\"CR\", 1, 55, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3837,
+  "prompt_tokens": 3480
+ },
+ "[\"CR\", 1, 60, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "English and Danish",
+  "tokens": 2640,
+  "prompt_tokens": 2420
+ },
+ "[\"CR\", 1, 60, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "English and Danish",
+  "tokens": 2640,
+  "prompt_tokens": 2420
+ },
+ "[\"CR\", 1, 65, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4142,
+  "prompt_tokens": 3772
+ },
+ "[\"CR\", 1, 65, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 108,
+  "prompt_tokens": 246
+ },
+ "[\"CR\", 1, 65, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 108,
+  "prompt_tokens": 246
+ },
+ "[\"CR\", 1, 65, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8411,
+  "prompt_tokens": 7495
+ },
+ "[\"CR\", 1, 70, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4127,
+  "prompt_tokens": 3766
+ },
+ "[\"CR\", 1, 30, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 31524,
+  "prompt_tokens": 27537
+ },
+ "[\"CR\", 1, 65, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Berlin",
+  "tokens": 31524,
+  "prompt_tokens": 27535
+ },
+ "[\"CR\", 1, 55, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7461,
+  "prompt_tokens": 6741
+ },
+ "[\"CR\", 1, 75, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8401,
+  "prompt_tokens": 7488
+ },
+ "[\"CR\", 1, 75, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3342,
+  "prompt_tokens": 3135
+ },
+ "[\"CR\", 1, 60, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "English, Danish",
+  "tokens": 31524,
+  "prompt_tokens": 27536
+ },
+ "[\"CR\", 1, 75, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3342,
+  "prompt_tokens": 3135
+ },
+ "[\"CR\", 1, 70, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8401,
+  "prompt_tokens": 7493
+ },
+ "[\"CR\", 1, 80, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4142,
+  "prompt_tokens": 3773
+ },
+ "[\"CR\", 1, 80, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Ole Johan Vierdal",
+  "tokens": 8411,
+  "prompt_tokens": 7496
+ },
+ "[\"CR\", 1, 75, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4127,
+  "prompt_tokens": 3761
+ },
+ "[\"CR\", 1, 80, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Ole Johan Vierdal",
+  "tokens": 3174,
+  "prompt_tokens": 2843
+ },
+ "[\"CR\", 1, 80, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Ole Johan Vierdal",
+  "tokens": 3174,
+  "prompt_tokens": 2843
+ },
+ "[\"CR\", 1, 85, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8411,
+  "prompt_tokens": 7494
+ },
+ "[\"CR\", 1, 80, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Ole Johan Vierdal",
+  "tokens": 31524,
+  "prompt_tokens": 27536
+ },
+ "[\"CR\", 1, 85, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "British Broadcasting Corporation",
+  "tokens": 2594,
+  "prompt_tokens": 2419
+ },
+ "[\"CR\", 1, 70, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Amposta",
+  "tokens": 7032,
+  "prompt_tokens": 5894
+ },
+ "[\"CR\", 1, 90, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4127,
+  "prompt_tokens": 3771
+ },
+ "[\"CR\", 1, 85, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "British Broadcasting Corporation",
+  "tokens": 2594,
+  "prompt_tokens": 2419
+ },
+ "[\"CR\", 1, 85, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4142,
+  "prompt_tokens": 3771
+ },
+ "[\"CR\", 1, 55, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 31524,
+  "prompt_tokens": 27542
+ },
+ "[\"CR\", 1, 85, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "British Broadcasting Corporation",
+  "tokens": 31524,
+  "prompt_tokens": 27534
+ },
+ "[\"CR\", 1, 95, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4142,
+  "prompt_tokens": 3773
+ },
+ "[\"CR\", 1, 70, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 3846,
+  "prompt_tokens": 3408
+ },
+ "[\"CR\", 1, 90, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3835,
+  "prompt_tokens": 3263
+ },
+ "[\"CR\", 1, 95, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8411,
+  "prompt_tokens": 7496
+ },
+ "[\"CR\", 1, 95, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "United States of America",
+  "tokens": 3852,
+  "prompt_tokens": 3171
+ },
+ "[\"CR\", 1, 95, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Japan",
+  "tokens": 5035,
+  "prompt_tokens": 4142
+ },
+ "[\"CR\", 2, 0, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4129,
+  "prompt_tokens": 3732
+ },
+ "[\"CR\", 1, 70, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 31524,
+  "prompt_tokens": 27542
+ },
+ "[\"CR\", 1, 90, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7175,
+  "prompt_tokens": 6283
+ },
+ "[\"CR\", 2, 0, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "German",
+  "tokens": 3844,
+  "prompt_tokens": 3244
+ },
+ "[\"CR\", 2, 0, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "German",
+  "tokens": 6558,
+  "prompt_tokens": 5501
+ },
+ "[\"CR\", 1, 75, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 31524,
+  "prompt_tokens": 27537
+ },
+ "[\"CR\", 2, 5, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4129,
+  "prompt_tokens": 3729
+ },
+ "[\"CR\", 1, 95, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Japan",
+  "tokens": 31524,
+  "prompt_tokens": 27536
+ },
+ "[\"CR\", 2, 5, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8411,
+  "prompt_tokens": 7492
+ },
+ "[\"CR\", 2, 10, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4147,
+  "prompt_tokens": 3744
+ },
+ "[\"CR\", 2, 10, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8425,
+  "prompt_tokens": 7502
+ },
+ "[\"CR\", 1, 90, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8390,
+  "prompt_tokens": 7486
+ },
+ "[\"CR\", 2, 0, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "German",
+  "tokens": 62914,
+  "prompt_tokens": 54819
+ },
+ "[\"CR\", 2, 10, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Duluth",
+  "tokens": 3850,
+  "prompt_tokens": 3389
+ },
+ "[\"CR\", 2, 5, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3846,
+  "prompt_tokens": 3286
+ },
+ "[\"CR\", 2, 0, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8411,
+  "prompt_tokens": 7495
+ },
+ "[\"CR\", 2, 10, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Duluth",
+  "tokens": 7810,
+  "prompt_tokens": 6849
+ },
+ "[\"CR\", 2, 15, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4129,
+  "prompt_tokens": 3729
+ },
+ "[\"CR\", 2, 15, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3855,
+  "prompt_tokens": 3360
+ },
+ "[\"CR\", 2, 15, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8411,
+  "prompt_tokens": 7492
+ },
+ "[\"CR\", 2, 20, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4129,
+  "prompt_tokens": 3729
+ },
+ "[\"CR\", 2, 5, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 5596,
+  "prompt_tokens": 4690
+ },
+ "[\"CR\", 2, 20, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8411,
+  "prompt_tokens": 7492
+ },
+ "[\"CR\", 2, 20, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "German",
+  "tokens": 3852,
+  "prompt_tokens": 3227
+ },
+ "[\"CR\", 2, 20, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "German",
+  "tokens": 6535,
+  "prompt_tokens": 5478
+ },
+ "[\"CR\", 2, 15, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7831,
+  "prompt_tokens": 6445
+ },
+ "[\"CR\", 2, 25, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4129,
+  "prompt_tokens": 3727
+ },
+ "[\"CR\", 1, 90, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 31524,
+  "prompt_tokens": 27547
+ },
+ "[\"CR\", 2, 25, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Mexico City",
+  "tokens": 3856,
+  "prompt_tokens": 3350
+ },
+ "[\"CR\", 2, 25, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8411,
+  "prompt_tokens": 7490
+ },
+ "[\"CR\", 2, 25, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Mexico City",
+  "tokens": 6726,
+  "prompt_tokens": 6173
+ },
+ "[\"CR\", 2, 30, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "Catholic Church",
+  "tokens": 3861,
+  "prompt_tokens": 3207
+ },
+ "[\"CR\", 2, 30, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Ethiopian Orthodox Tewahedo Church",
+  "tokens": 4147,
+  "prompt_tokens": 3739
+ },
+ "[\"CR\", 2, 30, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Ethiopian Orthodox Tewahedo Church",
+  "tokens": 4836,
+  "prompt_tokens": 3990
+ },
+ "[\"CR\", 2, 35, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4147,
+  "prompt_tokens": 3743
+ },
+ "[\"CR\", 2, 20, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "German",
+  "tokens": 62914,
+  "prompt_tokens": 54816
+ },
+ "[\"CR\", 2, 30, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Ethiopian Orthodox Tewahedo Church",
+  "tokens": 62914,
+  "prompt_tokens": 54811
+ },
+ "[\"CR\", 2, 35, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 187,
+  "prompt_tokens": 323
+ },
+ "[\"CR\", 2, 35, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8425,
+  "prompt_tokens": 7501
+ },
+ "[\"CR\", 2, 5, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 62914,
+  "prompt_tokens": 54816
+ },
+ "[\"CR\", 2, 35, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 187,
+  "prompt_tokens": 323
+ },
+ "[\"CR\", 2, 40, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4147,
+  "prompt_tokens": 3739
+ },
+ "[\"CR\", 2, 40, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "Savannah",
+  "tokens": 3859,
+  "prompt_tokens": 3556
+ },
+ "[\"CR\", 2, 30, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Ethiopian Orthodox Tewahedo Church",
+  "tokens": 8425,
+  "prompt_tokens": 7497
+ },
+ "[\"CR\", 2, 40, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8425,
+  "prompt_tokens": 7497
+ },
+ "[\"CR\", 2, 45, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4129,
+  "prompt_tokens": 3731
+ },
+ "[\"CR\", 2, 40, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Pune",
+  "tokens": 6682,
+  "prompt_tokens": 6127
+ },
+ "[\"CR\", 2, 10, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 62914,
+  "prompt_tokens": 54816
+ },
+ "[\"CR\", 2, 15, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 62914,
+  "prompt_tokens": 54816
+ },
+ "[\"CR\", 2, 25, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "Tartu",
+  "tokens": 62914,
+  "prompt_tokens": 54814
+ },
+ "[\"CR\", 2, 45, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Russellville",
+  "tokens": 8411,
+  "prompt_tokens": 7494
+ },
+ "[\"CR\", 2, 45, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3852,
+  "prompt_tokens": 3060
+ },
+ "[\"CR\", 2, 45, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Russellville",
+  "tokens": 7815,
+  "prompt_tokens": 6394
+ },
+ "[\"CR\", 2, 50, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4147,
+  "prompt_tokens": 3743
+ },
+ "[\"CR\", 2, 50, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8425,
+  "prompt_tokens": 7501
+ },
+ "[\"CR\", 2, 40, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Pune",
+  "tokens": 62914,
+  "prompt_tokens": 54811
+ },
+ "[\"CR\", 2, 50, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3839,
+  "prompt_tokens": 3668
+ },
+ "[\"CR\", 2, 50, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7809,
+  "prompt_tokens": 6817
+ },
+ "[\"CR\", 2, 35, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 62914,
+  "prompt_tokens": 54815
+ },
+ "[\"CR\", 2, 55, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4129,
+  "prompt_tokens": 3740
+ },
+ "[\"CR\", 2, 60, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4147,
+  "prompt_tokens": 3742
+ },
+ "[\"CR\", 2, 60, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3853,
+  "prompt_tokens": 3391
+ },
+ "[\"CR\", 2, 60, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "Tokyo",
+  "tokens": 7817,
+  "prompt_tokens": 6888
+ },
+ "[\"CR\", 2, 45, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Russellville",
+  "tokens": 62914,
+  "prompt_tokens": 54818
+ },
+ "[\"CR\", 2, 60, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "San Jose",
+  "tokens": 62914,
+  "prompt_tokens": 54814
+ },
+ "[\"CR\", 2, 65, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4129,
+  "prompt_tokens": 3733
+ },
+ "[\"CR\", 2, 50, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 62914,
+  "prompt_tokens": 54815
+ },
+ "[\"CR\", 2, 65, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Connachta",
+  "tokens": 3853,
+  "prompt_tokens": 3573
+ },
+ "[\"CR\", 2, 55, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8411,
+  "prompt_tokens": 7503
+ },
+ "[\"CR\", 2, 70, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Guangzhou",
+  "tokens": 4147,
+  "prompt_tokens": 3744
+ },
+ "[\"CR\", 2, 55, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 7812,
+  "prompt_tokens": 6629
+ },
+ "[\"CR\", 2, 60, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8425,
+  "prompt_tokens": 7500
+ },
+ "[\"CR\", 2, 70, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Guangzhou",
+  "tokens": 8425,
+  "prompt_tokens": 7502
+ },
+ "[\"CR\", 2, 65, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Connachta",
+  "tokens": 7826,
+  "prompt_tokens": 6844
+ },
+ "[\"CR\", 2, 55, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 3848,
+  "prompt_tokens": 3321
+ },
+ "[\"CR\", 2, 55, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 62914,
+  "prompt_tokens": 54827
+ },
+ "[\"CR\", 2, 70, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 2182,
+  "prompt_tokens": 2208
+ },
+ "[\"CR\", 2, 70, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 2182,
+  "prompt_tokens": 2208
+ },
+ "[\"CR\", 2, 75, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4147,
+  "prompt_tokens": 3741
+ },
+ "[\"CR\", 2, 75, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8425,
+  "prompt_tokens": 7499
+ },
+ "[\"CR\", 2, 65, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8411,
+  "prompt_tokens": 7496
+ },
+ "[\"CR\", 2, 75, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "North America",
+  "tokens": 3844,
+  "prompt_tokens": 3269
+ },
+ "[\"CR\", 2, 70, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Guangzhou",
+  "tokens": 62914,
+  "prompt_tokens": 54816
+ },
+ "[\"CR\", 2, 80, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4129,
+  "prompt_tokens": 3734
+ },
+ "[\"CR\", 2, 80, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8411,
+  "prompt_tokens": 7497
+ },
+ "[\"CR\", 2, 75, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "North America",
+  "tokens": 4610,
+  "prompt_tokens": 3903
+ },
+ "[\"CR\", 2, 80, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3840,
+  "prompt_tokens": 3284
+ },
+ "[\"CR\", 2, 85, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8411,
+  "prompt_tokens": 7494
+ },
+ "[\"CR\", 2, 80, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7809,
+  "prompt_tokens": 6404
+ },
+ "[\"CR\", 2, 85, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4129,
+  "prompt_tokens": 3731
+ },
+ "[\"CR\", 2, 75, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "North America",
+  "tokens": 62914,
+  "prompt_tokens": 54813
+ },
+ "[\"CR\", 2, 90, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8411,
+  "prompt_tokens": 7488
+ },
+ "[\"CR\", 2, 90, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Asia",
+  "tokens": 3844,
+  "prompt_tokens": 3268
+ },
+ "[\"CR\", 2, 90, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Asia",
+  "tokens": 7819,
+  "prompt_tokens": 6378
+ },
+ "[\"CR\", 2, 90, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4129,
+  "prompt_tokens": 3725
+ },
+ "[\"CR\", 2, 95, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4129,
+  "prompt_tokens": 3733
+ },
+ "[\"CR\", 2, 95, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8411,
+  "prompt_tokens": 7496
+ },
+ "[\"CR\", 2, 95, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3846,
+  "prompt_tokens": 3383
+ },
+ "[\"CR\", 2, 65, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 62914,
+  "prompt_tokens": 54820
+ },
+ "[\"CR\", 2, 95, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7810,
+  "prompt_tokens": 6826
+ },
+ "[\"CR\", 3, 0, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4135,
+  "prompt_tokens": 3769
+ },
+ "[\"CR\", 2, 85, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3852,
+  "prompt_tokens": 3285
+ },
+ "[\"CR\", 2, 90, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Asia",
+  "tokens": 62914,
+  "prompt_tokens": 54812
+ },
+ "[\"CR\", 3, 0, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "United States of America",
+  "tokens": 7826,
+  "prompt_tokens": 6459
+ },
+ "[\"CR\", 2, 80, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 62914,
+  "prompt_tokens": 54821
+ },
+ "[\"CR\", 3, 5, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4122,
+  "prompt_tokens": 3765
+ },
+ "[\"CR\", 3, 0, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3867,
+  "prompt_tokens": 3189
+ },
+ "[\"CR\", 3, 5, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8389,
+  "prompt_tokens": 7460
+ },
+ "[\"CR\", 3, 5, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3846,
+  "prompt_tokens": 3284
+ },
+ "[\"CR\", 2, 85, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 62914,
+  "prompt_tokens": 54818
+ },
+ "[\"CR\", 3, 10, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4135,
+  "prompt_tokens": 3774
+ },
+ "[\"CR\", 3, 5, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7820,
+  "prompt_tokens": 6415
+ },
+ "[\"CR\", 2, 85, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 7814,
+  "prompt_tokens": 6547
+ },
+ "[\"CR\", 3, 10, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8410,
+  "prompt_tokens": 7477
+ },
+ "[\"CR\", 3, 15, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4135,
+  "prompt_tokens": 3773
+ },
+ "[\"CR\", 3, 0, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8410,
+  "prompt_tokens": 7472
+ },
+ "[\"CR\", 3, 15, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8389,
+  "prompt_tokens": 7456
+ },
+ "[\"CR\", 3, 10, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3850,
+  "prompt_tokens": 3356
+ },
+ "[\"CR\", 3, 15, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3851,
+  "prompt_tokens": 3184
+ },
+ "[\"CR\", 3, 10, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 5620,
+  "prompt_tokens": 4796
+ },
+ "[\"CR\", 2, 95, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 62914,
+  "prompt_tokens": 54820
+ },
+ "[\"CR\", 3, 20, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8389,
+  "prompt_tokens": 7464
+ },
+ "[\"CR\", 3, 15, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7826,
+  "prompt_tokens": 6282
+ },
+ "[\"CR\", 3, 20, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4135,
+  "prompt_tokens": 3781
+ },
+ "[\"CR\", 3, 15, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Long Beach",
+  "tokens": 254803,
+  "prompt_tokens": 221487
+ },
+ "[\"CR\", 3, 20, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3847,
+  "prompt_tokens": 3610
+ },
+ "[\"CR\", 3, 25, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4135,
+  "prompt_tokens": 3775
+ },
+ "[\"CR\", 3, 25, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8389,
+  "prompt_tokens": 7458
+ },
+ "[\"CR\", 3, 0, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 254803,
+  "prompt_tokens": 221483
+ },
+ "[\"CR\", 3, 20, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7812,
+  "prompt_tokens": 7090
+ },
+ "[\"CR\", 3, 30, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8410,
+  "prompt_tokens": 7470
+ },
+ "[\"CR\", 3, 25, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3846,
+  "prompt_tokens": 3336
+ },
+ "[\"CR\", 3, 10, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "Africa",
+  "tokens": 254803,
+  "prompt_tokens": 221488
+ },
+ "[\"CR\", 3, 5, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 254803,
+  "prompt_tokens": 221491
+ },
+ "[\"CR\", 3, 30, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Spain",
+  "tokens": 3858,
+  "prompt_tokens": 3502
+ },
+ "[\"CR\", 3, 30, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Spain",
+  "tokens": 7819,
+  "prompt_tokens": 7076
+ },
+ "[\"CR\", 3, 35, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4135,
+  "prompt_tokens": 3774
+ },
+ "[\"CR\", 3, 35, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8410,
+  "prompt_tokens": 7477
+ },
+ "[\"CR\", 3, 25, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7817,
+  "prompt_tokens": 6614
+ },
+ "[\"CR\", 3, 30, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4135,
+  "prompt_tokens": 3767
+ },
+ "[\"CR\", 3, 35, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3846,
+  "prompt_tokens": 3556
+ },
+ "[\"CR\", 3, 35, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7807,
+  "prompt_tokens": 7211
+ },
+ "[\"CR\", 3, 40, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4135,
+  "prompt_tokens": 3771
+ },
+ "[\"CR\", 3, 40, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Picard",
+  "tokens": 3845,
+  "prompt_tokens": 3186
+ },
+ "[\"CR\", 3, 40, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8410,
+  "prompt_tokens": 7474
+ },
+ "[\"CR\", 3, 40, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Picard",
+  "tokens": 7809,
+  "prompt_tokens": 6482
+ },
+ "[\"CR\", 3, 45, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4135,
+  "prompt_tokens": 3771
+ },
+ "[\"CR\", 3, 20, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 254803,
+  "prompt_tokens": 221495
+ },
+ "[\"CR\", 3, 45, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8410,
+  "prompt_tokens": 7474
+ },
+ "[\"CR\", 3, 45, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3864,
+  "prompt_tokens": 3807
+ },
+ "[\"CR\", 3, 45, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7818,
+  "prompt_tokens": 7567
+ },
+ "[\"CR\", 3, 50, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4135,
+  "prompt_tokens": 3772
+ },
+ "[\"CR\", 3, 50, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8410,
+  "prompt_tokens": 7475
+ },
+ "[\"CR\", 3, 50, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 254803,
+  "prompt_tokens": 0
+ },
+ "[\"CR\", 3, 55, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4122,
+  "prompt_tokens": 3770
+ },
+ "[\"CR\", 3, 50, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3852,
+  "prompt_tokens": 3276
+ },
+ "[\"CR\", 3, 50, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7821,
+  "prompt_tokens": 6793
+ },
+ "[\"CR\", 3, 55, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8389,
+  "prompt_tokens": 7465
+ },
+ "[\"CR\", 3, 55, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3837,
+  "prompt_tokens": 3352
+ },
+ "[\"CR\", 3, 60, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4135,
+  "prompt_tokens": 3769
+ },
+ "[\"CR\", 3, 60, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8410,
+  "prompt_tokens": 7472
+ },
+ "[\"CR\", 3, 60, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3856,
+  "prompt_tokens": 3157
+ },
+ "[\"CR\", 3, 60, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7827,
+  "prompt_tokens": 6236
+ },
+ "[\"CR\", 3, 55, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7798,
+  "prompt_tokens": 6648
+ },
+ "[\"CR\", 3, 65, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4135,
+  "prompt_tokens": 3771
+ },
+ "[\"CR\", 3, 45, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "London",
+  "tokens": 254803,
+  "prompt_tokens": 221485
+ },
+ "[\"CR\", 3, 65, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8410,
+  "prompt_tokens": 7474
+ },
+ "[\"CR\", 3, 35, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 254803,
+  "prompt_tokens": 221488
+ },
+ "[\"CR\", 3, 65, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3851,
+  "prompt_tokens": 3472
+ },
+ "[\"CR\", 3, 65, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7819,
+  "prompt_tokens": 7247
+ },
+ "[\"CR\", 3, 25, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 254803,
+  "prompt_tokens": 221489
+ },
+ "[\"CR\", 3, 70, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8410,
+  "prompt_tokens": 7474
+ },
+ "[\"CR\", 3, 70, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4135,
+  "prompt_tokens": 3771
+ },
+ "[\"CR\", 3, 70, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7829,
+  "prompt_tokens": 6637
+ },
+ "[\"CR\", 3, 70, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3859,
+  "prompt_tokens": 3376
+ },
+ "[\"CR\", 3, 75, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8410,
+  "prompt_tokens": 7476
+ },
+ "[\"CR\", 3, 75, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4135,
+  "prompt_tokens": 3773
+ },
+ "[\"CR\", 3, 30, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Spain",
+  "tokens": 254803,
+  "prompt_tokens": 221481
+ },
+ "[\"CR\", 3, 75, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3842,
+  "prompt_tokens": 3302
+ },
+ "[\"CR\", 3, 80, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4135,
+  "prompt_tokens": 3769
+ },
+ "[\"CR\", 3, 55, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 254803,
+  "prompt_tokens": 221496
+ },
+ "[\"CR\", 3, 80, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8410,
+  "prompt_tokens": 7472
+ },
+ "[\"CR\", 3, 40, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 254803,
+  "prompt_tokens": 221485
+ },
+ "[\"CR\", 3, 80, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3852,
+  "prompt_tokens": 3796
+ },
+ "[\"CR\", 3, 80, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7804,
+  "prompt_tokens": 7305
+ },
+ "[\"CR\", 3, 85, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4135,
+  "prompt_tokens": 3771
+ },
+ "[\"CR\", 3, 85, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "politician",
+  "tokens": 3850,
+  "prompt_tokens": 3624
+ },
+ "[\"CR\", 3, 75, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7824,
+  "prompt_tokens": 6470
+ },
+ "[\"CR\", 3, 60, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 254803,
+  "prompt_tokens": 221483
+ },
+ "[\"CR\", 3, 90, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4135,
+  "prompt_tokens": 3774
+ },
+ "[\"CR\", 3, 90, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8410,
+  "prompt_tokens": 7477
+ },
+ "[\"CR\", 3, 85, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "politician",
+  "tokens": 7818,
+  "prompt_tokens": 7321
+ },
+ "[\"CR\", 3, 90, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3859,
+  "prompt_tokens": 3571
+ },
+ "[\"CR\", 3, 65, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 254803,
+  "prompt_tokens": 221485
+ },
+ "[\"CR\", 3, 90, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7829,
+  "prompt_tokens": 6901
+ },
+ "[\"CR\", 3, 70, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 254803,
+  "prompt_tokens": 221485
+ },
+ "[\"CR\", 3, 85, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8410,
+  "prompt_tokens": 7474
+ },
+ "[\"CR\", 3, 95, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7805,
+  "prompt_tokens": 6682
+ },
+ "[\"CR\", 3, 95, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3853,
+  "prompt_tokens": 3442
+ },
+ "[\"CR\", 3, 95, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8410,
+  "prompt_tokens": 7470
+ },
+ "[\"CR\", 4, 0, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "pesäpallo",
+  "tokens": 4177,
+  "prompt_tokens": 3737
+ },
+ "[\"CR\", 3, 95, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4135,
+  "prompt_tokens": 3767
+ },
+ "[\"CR\", 4, 0, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "pesäpallo",
+  "tokens": 6105,
+  "prompt_tokens": 5418
+ },
+ "[\"CR\", 4, 0, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "pesäpallo",
+  "tokens": 725,
+  "prompt_tokens": 701
+ },
+ "[\"CR\", 4, 0, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "pesäpallo",
+  "tokens": 725,
+  "prompt_tokens": 701
+ },
+ "[\"CR\", 4, 5, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Thomas Kyd",
+  "tokens": 4177,
+  "prompt_tokens": 3739
+ },
+ "[\"CR\", 3, 75, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 254803,
+  "prompt_tokens": 221487
+ },
+ "[\"CR\", 4, 5, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Thomas Kyd",
+  "tokens": 244,
+  "prompt_tokens": 375
+ },
+ "[\"CR\", 4, 5, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Thomas Kyd",
+  "tokens": 6105,
+  "prompt_tokens": 5420
+ },
+ "[\"CR\", 4, 5, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Thomas Kyd",
+  "tokens": 244,
+  "prompt_tokens": 375
+ },
+ "[\"CR\", 4, 10, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Giuseppe Conte",
+  "tokens": 4163,
+  "prompt_tokens": 3728
+ },
+ "[\"CR\", 4, 5, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Thomas Kyd",
+  "tokens": 6105,
+  "prompt_tokens": 5420
+ },
+ "[\"CR\", 4, 10, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Giuseppe Conte",
+  "tokens": 6105,
+  "prompt_tokens": 5422
+ },
+ "[\"CR\", 4, 10, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Giuseppe Conte",
+  "tokens": 313,
+  "prompt_tokens": 403
+ },
+ "[\"CR\", 4, 10, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Giuseppe Conte",
+  "tokens": 313,
+  "prompt_tokens": 403
+ },
+ "[\"CR\", 3, 80, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 254803,
+  "prompt_tokens": 221483
+ },
+ "[\"CR\", 4, 10, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Giuseppe Conte",
+  "tokens": 6105,
+  "prompt_tokens": 5422
+ },
+ "[\"CR\", 4, 15, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Africa",
+  "tokens": 514,
+  "prompt_tokens": 548
+ },
+ "[\"CR\", 4, 15, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Africa",
+  "tokens": 4177,
+  "prompt_tokens": 3735
+ },
+ "[\"CR\", 4, 15, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Africa",
+  "tokens": 514,
+  "prompt_tokens": 548
+ },
+ "[\"CR\", 4, 15, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Africa",
+  "tokens": 6105,
+  "prompt_tokens": 5416
+ },
+ "[\"CR\", 4, 20, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Peter Diamandis",
+  "tokens": 4177,
+  "prompt_tokens": 3737
+ },
+ "[\"CR\", 4, 20, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Peter Diamandis",
+  "tokens": 6105,
+  "prompt_tokens": 5418
+ },
+ "[\"CR\", 4, 20, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Peter Diamandis",
+  "tokens": 450,
+  "prompt_tokens": 506
+ },
+ "[\"CR\", 4, 20, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Peter Diamandis",
+  "tokens": 450,
+  "prompt_tokens": 506
+ },
+ "[\"CR\", 4, 0, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "pesäpallo",
+  "tokens": 6105,
+  "prompt_tokens": 5418
+ },
+ "[\"CR\", 4, 15, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Africa",
+  "tokens": 6105,
+  "prompt_tokens": 5416
+ },
+ "[\"CR\", 4, 25, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Beaumont",
+  "tokens": 4177,
+  "prompt_tokens": 3736
+ },
+ "[\"CR\", 4, 20, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Peter Diamandis",
+  "tokens": 6105,
+  "prompt_tokens": 5418
+ },
+ "[\"CR\", 4, 25, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Beaumont",
+  "tokens": 6105,
+  "prompt_tokens": 5417
+ },
+ "[\"CR\", 4, 25, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Beaumont",
+  "tokens": 282,
+  "prompt_tokens": 380
+ },
+ "[\"CR\", 4, 25, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Beaumont",
+  "tokens": 282,
+  "prompt_tokens": 380
+ },
+ "[\"CR\", 4, 25, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Beaumont",
+  "tokens": 6105,
+  "prompt_tokens": 5417
+ },
+ "[\"CR\", 4, 30, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Japan",
+  "tokens": 553,
+  "prompt_tokens": 601
+ },
+ "[\"CR\", 4, 30, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Japan",
+  "tokens": 553,
+  "prompt_tokens": 601
+ },
+ "[\"CR\", 4, 30, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Japan",
+  "tokens": 4177,
+  "prompt_tokens": 3735
+ },
+ "[\"CR\", 4, 30, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Japan",
+  "tokens": 6105,
+  "prompt_tokens": 5416
+ },
+ "[\"CR\", 4, 30, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Japan",
+  "tokens": 6105,
+  "prompt_tokens": 5416
+ },
+ "[\"CR\", 3, 85, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 254803,
+  "prompt_tokens": 221485
+ },
+ "[\"CR\", 4, 35, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "German",
+  "tokens": 4163,
+  "prompt_tokens": 3726
+ },
+ "[\"CR\", 4, 35, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "German",
+  "tokens": 971,
+  "prompt_tokens": 939
+ },
+ "[\"CR\", 4, 35, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "German",
+  "tokens": 971,
+  "prompt_tokens": 939
+ },
+ "[\"CR\", 4, 40, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Ankara",
+  "tokens": 4163,
+  "prompt_tokens": 3729
+ },
+ "[\"CR\", 4, 35, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "German",
+  "tokens": 6105,
+  "prompt_tokens": 5420
+ },
+ "[\"CR\", 4, 35, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "German",
+  "tokens": 6105,
+  "prompt_tokens": 5420
+ },
+ "[\"CR\", 4, 40, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Ankara",
+  "tokens": 6105,
+  "prompt_tokens": 5423
+ },
+ "[\"CR\", 4, 40, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Ankara",
+  "tokens": 1220,
+  "prompt_tokens": 1199
+ },
+ "[\"CR\", 4, 40, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Ankara",
+  "tokens": 1220,
+  "prompt_tokens": 1199
+ },
+ "[\"CR\", 4, 45, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Pius XII",
+  "tokens": 4177,
+  "prompt_tokens": 3739
+ },
+ "[\"CR\", 4, 40, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Ankara",
+  "tokens": 6105,
+  "prompt_tokens": 5423
+ },
+ "[\"CR\", 4, 45, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Pius XII",
+  "tokens": 244,
+  "prompt_tokens": 375
+ },
+ "[\"CR\", 4, 45, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Pius XII",
+  "tokens": 244,
+  "prompt_tokens": 375
+ },
+ "[\"CR\", 4, 45, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Pius XII",
+  "tokens": 6105,
+  "prompt_tokens": 5420
+ },
+ "[\"CR\", 4, 50, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Oceania",
+  "tokens": 4177,
+  "prompt_tokens": 3736
+ },
+ "[\"CR\", 4, 45, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Pius XII",
+  "tokens": 6105,
+  "prompt_tokens": 5420
+ },
+ "[\"CR\", 4, 50, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Oceania",
+  "tokens": 465,
+  "prompt_tokens": 503
+ },
+ "[\"CR\", 4, 50, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Oceania",
+  "tokens": 6105,
+  "prompt_tokens": 5417
+ },
+ "[\"CR\", 4, 50, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Oceania",
+  "tokens": 465,
+  "prompt_tokens": 503
+ },
+ "[\"CR\", 4, 55, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Czech Republic",
+  "tokens": 4177,
+  "prompt_tokens": 3738
+ },
+ "[\"CR\", 4, 50, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Oceania",
+  "tokens": 6105,
+  "prompt_tokens": 5417
+ },
+ "[\"CR\", 4, 55, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Czech Republic",
+  "tokens": 433,
+  "prompt_tokens": 495
+ },
+ "[\"CR\", 4, 55, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Czech Republic",
+  "tokens": 433,
+  "prompt_tokens": 495
+ },
+ "[\"CR\", 4, 55, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Czech Republic",
+  "tokens": 6105,
+  "prompt_tokens": 5419
+ },
+ "[\"CR\", 4, 60, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "rap rock",
+  "tokens": 4177,
+  "prompt_tokens": 3739
+ },
+ "[\"CR\", 4, 55, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Czech Republic",
+  "tokens": 6105,
+  "prompt_tokens": 5419
+ },
+ "[\"CR\", 4, 60, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "rap rock",
+  "tokens": 6105,
+  "prompt_tokens": 5420
+ },
+ "[\"CR\", 4, 60, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "rap rock",
+  "tokens": 469,
+  "prompt_tokens": 542
+ },
+ "[\"CR\", 4, 60, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "rap rock",
+  "tokens": 469,
+  "prompt_tokens": 542
+ },
+ "[\"CR\", 4, 60, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "rap rock",
+  "tokens": 6105,
+  "prompt_tokens": 5420
+ },
+ "[\"CR\", 4, 65, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "rugby",
+  "tokens": 6105,
+  "prompt_tokens": 5418
+ },
+ "[\"CR\", 4, 65, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "rugby",
+  "tokens": 726,
+  "prompt_tokens": 702
+ },
+ "[\"CR\", 4, 65, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "rugby",
+  "tokens": 726,
+  "prompt_tokens": 702
+ },
+ "[\"CR\", 4, 65, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "rugby",
+  "tokens": 4177,
+  "prompt_tokens": 3737
+ },
+ "[\"CR\", 4, 70, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Canadair",
+  "tokens": 4177,
+  "prompt_tokens": 3737
+ },
+ "[\"CR\", 4, 65, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "rugby",
+  "tokens": 6105,
+  "prompt_tokens": 5418
+ },
+ "[\"CR\", 4, 70, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Canadair",
+  "tokens": 169,
+  "prompt_tokens": 276
+ },
+ "[\"CR\", 4, 70, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Canadair",
+  "tokens": 6105,
+  "prompt_tokens": 5418
+ },
+ "[\"CR\", 4, 70, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Canadair",
+  "tokens": 169,
+  "prompt_tokens": 276
+ },
+ "[\"CR\", 4, 75, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Oscar Wilde",
+  "tokens": 4177,
+  "prompt_tokens": 3740
+ },
+ "[\"CR\", 3, 90, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 254803,
+  "prompt_tokens": 221488
+ },
+ "[\"CR\", 4, 75, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Oscar Wilde",
+  "tokens": 418,
+  "prompt_tokens": 538
+ },
+ "[\"CR\", 4, 75, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Oscar Wilde",
+  "tokens": 6105,
+  "prompt_tokens": 5421
+ },
+ "[\"CR\", 4, 75, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Oscar Wilde",
+  "tokens": 6105,
+  "prompt_tokens": 5421
+ },
+ "[\"CR\", 4, 75, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Oscar Wilde",
+  "tokens": 418,
+  "prompt_tokens": 538
+ },
+ "[\"CR\", 4, 70, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Canadair",
+  "tokens": 6105,
+  "prompt_tokens": 5418
+ },
+ "[\"CR\", 4, 80, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "goaltender",
+  "tokens": 6105,
+  "prompt_tokens": 5416
+ },
+ "[\"CR\", 4, 80, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "goaltender",
+  "tokens": 4177,
+  "prompt_tokens": 3735
+ },
+ "[\"CR\", 4, 80, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "goaltender",
+  "tokens": 263,
+  "prompt_tokens": 360
+ },
+ "[\"CR\", 4, 80, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "goaltender",
+  "tokens": 263,
+  "prompt_tokens": 360
+ },
+ "[\"CR\", 4, 80, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "goaltender",
+  "tokens": 6105,
+  "prompt_tokens": 5416
+ },
+ "[\"CR\", 4, 85, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Rajanpur",
+  "tokens": 245,
+  "prompt_tokens": 342
+ },
+ "[\"CR\", 4, 85, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Rajanpur",
+  "tokens": 245,
+  "prompt_tokens": 342
+ },
+ "[\"CR\", 4, 85, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Rajanpur",
+  "tokens": 4177,
+  "prompt_tokens": 3735
+ },
+ "[\"CR\", 4, 90, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "basketball",
+  "tokens": 714,
+  "prompt_tokens": 691
+ },
+ "[\"CR\", 4, 90, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "basketball",
+  "tokens": 714,
+  "prompt_tokens": 691
+ },
+ "[\"CR\", 4, 90, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "basketball",
+  "tokens": 6105,
+  "prompt_tokens": 5418
+ },
+ "[\"CR\", 4, 85, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Rajanpur",
+  "tokens": 6105,
+  "prompt_tokens": 5416
+ },
+ "[\"CR\", 4, 90, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "basketball",
+  "tokens": 4163,
+  "prompt_tokens": 3724
+ },
+ "[\"CR\", 4, 85, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Rajanpur",
+  "tokens": 6105,
+  "prompt_tokens": 5416
+ },
+ "[\"CR\", 4, 90, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "basketball",
+  "tokens": 6105,
+  "prompt_tokens": 5418
+ },
+ "[\"CR\", 4, 95, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "point guard",
+  "tokens": 293,
+  "prompt_tokens": 391
+ },
+ "[\"CR\", 4, 95, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4177,
+  "prompt_tokens": 3738
+ },
+ "[\"CR\", 4, 95, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "point guard",
+  "tokens": 293,
+  "prompt_tokens": 391
+ },
+ "[\"CR\", 4, 95, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "point guard",
+  "tokens": 6105,
+  "prompt_tokens": 5419
+ },
+ "[\"CR\", 4, 95, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "point guard",
+  "tokens": 6105,
+  "prompt_tokens": 5419
+ },
+ "[\"CR\", 5, 0, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3776
+ },
+ "[\"CR\", 5, 0, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "basketball",
+  "tokens": 8424,
+  "prompt_tokens": 7499
+ },
+ "[\"CR\", 5, 0, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "basketball",
+  "tokens": 3376,
+  "prompt_tokens": 2774
+ },
+ "[\"CR\", 5, 0, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "basketball",
+  "tokens": 3376,
+  "prompt_tokens": 2774
+ },
+ "[\"CR\", 5, 5, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3772
+ },
+ "[\"CR\", 5, 10, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3774
+ },
+ "[\"CR\", 5, 10, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7497
+ },
+ "[\"CR\", 5, 5, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7495
+ },
+ "[\"CR\", 5, 10, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Kingdom of Ireland",
+  "tokens": 1672,
+  "prompt_tokens": 1515
+ },
+ "[\"CR\", 3, 95, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 254803,
+  "prompt_tokens": 221481
+ },
+ "[\"CR\", 5, 10, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Kingdom of Ireland",
+  "tokens": 1672,
+  "prompt_tokens": 1515
+ },
+ "[\"CR\", 5, 5, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Rupnagar",
+  "tokens": 3581,
+  "prompt_tokens": 3165
+ },
+ "[\"CR\", 5, 5, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Rupnagar",
+  "tokens": 3581,
+  "prompt_tokens": 3165
+ },
+ "[\"CR\", 5, 0, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "basketball",
+  "tokens": 31524,
+  "prompt_tokens": 27529
+ },
+ "[\"CR\", 5, 15, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7498
+ },
+ "[\"CR\", 5, 15, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Italy",
+  "tokens": 1619,
+  "prompt_tokens": 1470
+ },
+ "[\"CR\", 5, 15, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3775
+ },
+ "[\"CR\", 5, 15, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Italy",
+  "tokens": 1619,
+  "prompt_tokens": 1470
+ },
+ "[\"CR\", 5, 10, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Kingdom of Ireland",
+  "tokens": 31524,
+  "prompt_tokens": 27527
+ },
+ "[\"CR\", 5, 20, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "shooting guard",
+  "tokens": 8424,
+  "prompt_tokens": 7494
+ },
+ "[\"CR\", 5, 20, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "shooting guard",
+  "tokens": 2100,
+  "prompt_tokens": 1936
+ },
+ "[\"CR\", 5, 20, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3771
+ },
+ "[\"CR\", 5, 20, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "shooting guard",
+  "tokens": 2100,
+  "prompt_tokens": 1936
+ },
+ "[\"CR\", 5, 25, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3774
+ },
+ "[\"CR\", 5, 25, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7497
+ },
+ "[\"CR\", 5, 25, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "United States of America",
+  "tokens": 1783,
+  "prompt_tokens": 1609
+ },
+ "[\"CR\", 5, 25, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "United States of America",
+  "tokens": 1783,
+  "prompt_tokens": 1609
+ },
+ "[\"CR\", 5, 20, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "shooting guard",
+  "tokens": 31524,
+  "prompt_tokens": 27524
+ },
+ "[\"CR\", 5, 30, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3772
+ },
+ "[\"CR\", 5, 30, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Apple Inc.",
+  "tokens": 1115,
+  "prompt_tokens": 1046
+ },
+ "[\"CR\", 5, 35, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3774
+ },
+ "[\"CR\", 5, 30, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Apple Inc.",
+  "tokens": 1115,
+  "prompt_tokens": 1046
+ },
+ "[\"CR\", 5, 25, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "United States of America",
+  "tokens": 31524,
+  "prompt_tokens": 27527
+ },
+ "[\"CR\", 5, 30, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7495
+ },
+ "[\"CR\", 5, 30, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Apple Inc.",
+  "tokens": 31524,
+  "prompt_tokens": 27525
+ },
+ "[\"CR\", 5, 35, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "baseball",
+  "tokens": 3376,
+  "prompt_tokens": 2772
+ },
+ "[\"CR\", 5, 35, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "baseball",
+  "tokens": 3376,
+  "prompt_tokens": 2772
+ },
+ "[\"CR\", 5, 35, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "baseball",
+  "tokens": 8424,
+  "prompt_tokens": 7497
+ },
+ "[\"CR\", 5, 40, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "American Broadcasting Company",
+  "tokens": 8424,
+  "prompt_tokens": 7498
+ },
+ "[\"CR\", 5, 40, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3775
+ },
+ "[\"CR\", 5, 35, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "baseball",
+  "tokens": 31524,
+  "prompt_tokens": 27527
+ },
+ "[\"CR\", 5, 40, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "American Broadcasting Company",
+  "tokens": 480,
+  "prompt_tokens": 518
+ },
+ "[\"CR\", 5, 40, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "American Broadcasting Company",
+  "tokens": 480,
+  "prompt_tokens": 518
+ },
+ "[\"CR\", 5, 40, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "American Broadcasting Company",
+  "tokens": 31524,
+  "prompt_tokens": 27528
+ },
+ "[\"CR\", 5, 45, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Ford Motor Company",
+  "tokens": 1433,
+  "prompt_tokens": 1343
+ },
+ "[\"CR\", 5, 45, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Ford Motor Company",
+  "tokens": 1433,
+  "prompt_tokens": 1343
+ },
+ "[\"CR\", 5, 45, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3774
+ },
+ "[\"CR\", 5, 45, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7497
+ },
+ "[\"CR\", 5, 50, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "defensive end",
+  "tokens": 4153,
+  "prompt_tokens": 3771
+ },
+ "[\"CR\", 5, 15, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Italy",
+  "tokens": 31524,
+  "prompt_tokens": 27528
+ },
+ "[\"CR\", 5, 50, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "defensive end",
+  "tokens": 1886,
+  "prompt_tokens": 1763
+ },
+ "[\"CR\", 5, 45, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Ford Motor Company",
+  "tokens": 31524,
+  "prompt_tokens": 27527
+ },
+ "[\"CR\", 5, 50, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "defensive end",
+  "tokens": 1886,
+  "prompt_tokens": 1763
+ },
+ "[\"CR\", 5, 50, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "defensive end",
+  "tokens": 8424,
+  "prompt_tokens": 7494
+ },
+ "[\"CR\", 5, 55, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Finnish",
+  "tokens": 1689,
+  "prompt_tokens": 1495
+ },
+ "[\"CR\", 5, 55, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Finnish",
+  "tokens": 1689,
+  "prompt_tokens": 1495
+ },
+ "[\"CR\", 5, 55, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Finnish",
+  "tokens": 4153,
+  "prompt_tokens": 3774
+ },
+ "[\"CR\", 5, 55, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Finnish",
+  "tokens": 8424,
+  "prompt_tokens": 7497
+ },
+ "[\"CR\", 5, 50, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "defensive end",
+  "tokens": 31524,
+  "prompt_tokens": 27524
+ },
+ "[\"CR\", 5, 60, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "John Evelyn",
+  "tokens": 1516,
+  "prompt_tokens": 1543
+ },
+ "[\"CR\", 5, 60, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3773
+ },
+ "[\"CR\", 5, 55, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Finnish",
+  "tokens": 31524,
+  "prompt_tokens": 27527
+ },
+ "[\"CR\", 5, 60, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "John Evelyn",
+  "tokens": 1516,
+  "prompt_tokens": 1543
+ },
+ "[\"CR\", 5, 60, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7496
+ },
+ "[\"CR\", 5, 65, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Catholic Church",
+  "tokens": 4153,
+  "prompt_tokens": 3775
+ },
+ "[\"CR\", 5, 70, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Allen Ginsberg",
+  "tokens": 4153,
+  "prompt_tokens": 3774
+ },
+ "[\"CR\", 5, 65, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Catholic Church",
+  "tokens": 4743,
+  "prompt_tokens": 4065
+ },
+ "[\"CR\", 5, 65, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Catholic Church",
+  "tokens": 8424,
+  "prompt_tokens": 7498
+ },
+ "[\"CR\", 5, 65, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Catholic Church",
+  "tokens": 31524,
+  "prompt_tokens": 27528
+ },
+ "[\"CR\", 5, 65, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Catholic Church",
+  "tokens": 3871,
+  "prompt_tokens": 3300
+ },
+ "[\"CR\", 5, 70, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Allen Ginsberg",
+  "tokens": 8424,
+  "prompt_tokens": 7497
+ },
+ "[\"CR\", 5, 70, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Allen Ginsberg",
+  "tokens": 1425,
+  "prompt_tokens": 1470
+ },
+ "[\"CR\", 5, 70, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Allen Ginsberg",
+  "tokens": 1425,
+  "prompt_tokens": 1470
+ },
+ "[\"CR\", 5, 75, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3776
+ },
+ "[\"CR\", 5, 75, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Epic Games",
+  "tokens": 45,
+  "prompt_tokens": 176
+ },
+ "[\"CR\", 5, 75, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Epic Games",
+  "tokens": 45,
+  "prompt_tokens": 176
+ },
+ "[\"CR\", 5, 75, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7499
+ },
+ "[\"CR\", 5, 70, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Allen Ginsberg",
+  "tokens": 31524,
+  "prompt_tokens": 27527
+ },
+ "[\"CR\", 5, 75, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Epic Games",
+  "tokens": 31524,
+  "prompt_tokens": 27529
+ },
+ "[\"CR\", 5, 80, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3774
+ },
+ "[\"CR\", 5, 80, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Israel",
+  "tokens": 3354,
+  "prompt_tokens": 3158
+ },
+ "[\"CR\", 5, 80, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Israel",
+  "tokens": 3354,
+  "prompt_tokens": 3158
+ },
+ "[\"CR\", 5, 80, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7497
+ },
+ "[\"CR\", 5, 85, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Bob Bradley",
+  "tokens": 1735,
+  "prompt_tokens": 1645
+ },
+ "[\"CR\", 5, 85, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Bob Bradley",
+  "tokens": 1735,
+  "prompt_tokens": 1645
+ },
+ "[\"CR\", 5, 85, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3774
+ },
+ "[\"CR\", 5, 85, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7497
+ },
+ "[\"CR\", 5, 90, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3774
+ },
+ "[\"CR\", 5, 80, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Israel",
+  "tokens": 31524,
+  "prompt_tokens": 27527
+ },
+ "[\"CR\", 5, 85, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Bob Bradley",
+  "tokens": 31524,
+  "prompt_tokens": 27527
+ },
+ "[\"CR\", 5, 90, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "United States of America",
+  "tokens": 1608,
+  "prompt_tokens": 1459
+ },
+ "[\"CR\", 5, 90, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7497
+ },
+ "[\"CR\", 5, 90, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "United States of America",
+  "tokens": 1608,
+  "prompt_tokens": 1459
+ },
+ "[\"CR\", 5, 95, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3777
+ },
+ "[\"CR\", 5, 95, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7500
+ },
+ "[\"CR\", 5, 90, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "United States of America",
+  "tokens": 31524,
+  "prompt_tokens": 27527
+ },
+ "[\"CR\", 5, 95, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "India",
+  "tokens": 1714,
+  "prompt_tokens": 1562
+ },
+ "[\"CR\", 5, 95, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "India",
+  "tokens": 1714,
+  "prompt_tokens": 1562
+ },
+ "[\"CR\", 6, 0, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Ancient Greek",
+  "tokens": 8425,
+  "prompt_tokens": 7493
+ },
+ "[\"CR\", 6, 0, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4147,
+  "prompt_tokens": 3735
+ },
+ "[\"CR\", 6, 0, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Ancient Greek",
+  "tokens": 3867,
+  "prompt_tokens": 3353
+ },
+ "[\"CR\", 6, 0, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Ancient Greek",
+  "tokens": 4289,
+  "prompt_tokens": 3684
+ },
+ "[\"CR\", 6, 5, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4158,
+  "prompt_tokens": 3749
+ },
+ "[\"CR\", 6, 5, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8438,
+  "prompt_tokens": 7504
+ },
+ "[\"CR\", 6, 5, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Carnatic music",
+  "tokens": 3864,
+  "prompt_tokens": 3494
+ },
+ "[\"CR\", 6, 0, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Ancient Greek",
+  "tokens": 62914,
+  "prompt_tokens": 54807
+ },
+ "[\"CR\", 6, 5, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Carnatic music",
+  "tokens": 4745,
+  "prompt_tokens": 4251
+ },
+ "[\"CR\", 6, 10, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4158,
+  "prompt_tokens": 3747
+ },
+ "[\"CR\", 6, 10, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8438,
+  "prompt_tokens": 7502
+ },
+ "[\"CR\", 5, 5, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 31524,
+  "prompt_tokens": 27525
+ },
+ "[\"CR\", 6, 10, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "London",
+  "tokens": 3862,
+  "prompt_tokens": 3705
+ },
+ "[\"CR\", 6, 10, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "London",
+  "tokens": 6775,
+  "prompt_tokens": 6204
+ },
+ "[\"CR\", 5, 95, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "India",
+  "tokens": 31524,
+  "prompt_tokens": 27530
+ },
+ "[\"CR\", 6, 10, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "London",
+  "tokens": 62914,
+  "prompt_tokens": 54806
+ },
+ "[\"CR\", 6, 15, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Natalie Portman",
+  "tokens": 1749,
+  "prompt_tokens": 1655
+ },
+ "[\"CR\", 6, 15, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Natalie Portman",
+  "tokens": 1749,
+  "prompt_tokens": 1655
+ },
+ "[\"CR\", 6, 15, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4158,
+  "prompt_tokens": 3743
+ },
+ "[\"CR\", 6, 15, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8438,
+  "prompt_tokens": 7498
+ },
+ "[\"CR\", 6, 15, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Natalie Portman",
+  "tokens": 62914,
+  "prompt_tokens": 54802
+ },
+ "[\"CR\", 6, 20, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4158,
+  "prompt_tokens": 3746
+ },
+ "[\"CR\", 6, 20, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "Asia",
+  "tokens": 3853,
+  "prompt_tokens": 3145
+ },
+ "[\"CR\", 6, 25, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Os Lusíadas",
+  "tokens": 4158,
+  "prompt_tokens": 3748
+ },
+ "[\"CR\", 6, 20, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "Asia",
+  "tokens": 4525,
+  "prompt_tokens": 3672
+ },
+ "[\"CR\", 6, 20, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8425,
+  "prompt_tokens": 7491
+ },
+ "[\"CR\", 6, 25, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Os Lusíadas",
+  "tokens": 8438,
+  "prompt_tokens": 7503
+ },
+ "[\"CR\", 6, 25, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Os Lusíadas",
+  "tokens": 3619,
+  "prompt_tokens": 3557
+ },
+ "[\"CR\", 6, 25, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Os Lusíadas",
+  "tokens": 3619,
+  "prompt_tokens": 3557
+ },
+ "[\"CR\", 6, 30, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4158,
+  "prompt_tokens": 3748
+ },
+ "[\"CR\", 6, 30, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8425,
+  "prompt_tokens": 7493
+ },
+ "[\"CR\", 6, 30, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "English",
+  "tokens": 3471,
+  "prompt_tokens": 2950
+ },
+ "[\"CR\", 6, 35, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4158,
+  "prompt_tokens": 3747
+ },
+ "[\"CR\", 6, 20, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "Asia",
+  "tokens": 62914,
+  "prompt_tokens": 54805
+ },
+ "[\"CR\", 6, 25, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Os Lusíadas",
+  "tokens": 62914,
+  "prompt_tokens": 54807
+ },
+ "[\"CR\", 6, 30, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "English",
+  "tokens": 3471,
+  "prompt_tokens": 2950
+ },
+ "[\"CR\", 6, 35, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Montana State University - Bozeman",
+  "tokens": 3877,
+  "prompt_tokens": 3281
+ },
+ "[\"CR\", 6, 35, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8425,
+  "prompt_tokens": 7492
+ },
+ "[\"CR\", 6, 30, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "English",
+  "tokens": 62914,
+  "prompt_tokens": 54807
+ },
+ "[\"CR\", 6, 35, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Montana State University - Bozeman",
+  "tokens": 5107,
+  "prompt_tokens": 4234
+ },
+ "[\"CR\", 6, 40, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4158,
+  "prompt_tokens": 3749
+ },
+ "[\"CR\", 6, 40, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Multatuli",
+  "tokens": 3128,
+  "prompt_tokens": 3115
+ },
+ "[\"CR\", 6, 40, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8425,
+  "prompt_tokens": 7494
+ },
+ "[\"CR\", 6, 45, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4158,
+  "prompt_tokens": 3749
+ },
+ "[\"CR\", 6, 45, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Blizzard Entertainment",
+  "tokens": 99,
+  "prompt_tokens": 234
+ },
+ "[\"CR\", 6, 40, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Multatuli",
+  "tokens": 3128,
+  "prompt_tokens": 3115
+ },
+ "[\"CR\", 5, 60, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 31524,
+  "prompt_tokens": 27526
+ },
+ "[\"CR\", 6, 45, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8438,
+  "prompt_tokens": 7504
+ },
+ "[\"CR\", 6, 45, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Blizzard Entertainment",
+  "tokens": 99,
+  "prompt_tokens": 234
+ },
+ "[\"CR\", 6, 35, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Montana State University - Bozeman",
+  "tokens": 62914,
+  "prompt_tokens": 54806
+ },
+ "[\"CR\", 6, 50, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8425,
+  "prompt_tokens": 7492
+ },
+ "[\"CR\", 6, 50, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4158,
+  "prompt_tokens": 3747
+ },
+ "[\"CR\", 6, 50, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Church of Scotland",
+  "tokens": 3872,
+  "prompt_tokens": 3209
+ },
+ "[\"CR\", 6, 50, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Church of Scotland",
+  "tokens": 6356,
+  "prompt_tokens": 5352
+ },
+ "[\"CR\", 6, 55, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4147,
+  "prompt_tokens": 3739
+ },
+ "[\"CR\", 6, 40, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Multatuli",
+  "tokens": 62914,
+  "prompt_tokens": 54808
+ },
+ "[\"CR\", 6, 50, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "Catholic Church",
+  "tokens": 62914,
+  "prompt_tokens": 54806
+ },
+ "[\"CR\", 6, 55, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Catholic Church",
+  "tokens": 8425,
+  "prompt_tokens": 7497
+ },
+ "[\"CR\", 6, 55, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Catholic Church",
+  "tokens": 3868,
+  "prompt_tokens": 3215
+ },
+ "[\"CR\", 6, 55, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Catholic Church",
+  "tokens": 4850,
+  "prompt_tokens": 4005
+ },
+ "[\"CR\", 6, 60, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "cricket",
+  "tokens": 7037,
+  "prompt_tokens": 5621
+ },
+ "[\"CR\", 6, 55, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Catholic Church",
+  "tokens": 62914,
+  "prompt_tokens": 54811
+ },
+ "[\"CR\", 6, 60, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "cricket",
+  "tokens": 3867,
+  "prompt_tokens": 3140
+ },
+ "[\"CR\", 6, 65, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4147,
+  "prompt_tokens": 3736
+ },
+ "[\"CR\", 6, 60, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8425,
+  "prompt_tokens": 7492
+ },
+ "[\"CR\", 6, 65, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "United States of America",
+  "tokens": 3074,
+  "prompt_tokens": 2669
+ },
+ "[\"CR\", 6, 65, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8425,
+  "prompt_tokens": 7494
+ },
+ "[\"CR\", 6, 65, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "United States of America",
+  "tokens": 3074,
+  "prompt_tokens": 2669
+ },
+ "[\"CR\", 6, 70, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4158,
+  "prompt_tokens": 3751
+ },
+ "[\"CR\", 6, 60, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "cricket",
+  "tokens": 62914,
+  "prompt_tokens": 54806
+ },
+ "[\"CR\", 6, 65, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "United States of America",
+  "tokens": 62914,
+  "prompt_tokens": 54808
+ },
+ "[\"CR\", 6, 70, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8425,
+  "prompt_tokens": 7496
+ },
+ "[\"CR\", 6, 70, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Lamar Alexander",
+  "tokens": 819,
+  "prompt_tokens": 861
+ },
+ "[\"CR\", 6, 70, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Lamar Alexander",
+  "tokens": 819,
+  "prompt_tokens": 861
+ },
+ "[\"CR\", 6, 60, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4158,
+  "prompt_tokens": 3747
+ },
+ "[\"CR\", 6, 75, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4158,
+  "prompt_tokens": 3746
+ },
+ "[\"CR\", 6, 75, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8438,
+  "prompt_tokens": 7501
+ },
+ "[\"CR\", 6, 75, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "University of Edinburgh",
+  "tokens": 84,
+  "prompt_tokens": 216
+ },
+ "[\"CR\", 6, 75, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "University of Edinburgh",
+  "tokens": 84,
+  "prompt_tokens": 216
+ },
+ "[\"CR\", 6, 80, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4158,
+  "prompt_tokens": 3747
+ },
+ "[\"CR\", 6, 80, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8438,
+  "prompt_tokens": 7502
+ },
+ "[\"CR\", 6, 80, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Persian",
+  "tokens": 3445,
+  "prompt_tokens": 2922
+ },
+ "[\"CR\", 6, 85, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4158,
+  "prompt_tokens": 3748
+ },
+ "[\"CR\", 6, 45, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Blizzard Entertainment",
+  "tokens": 62914,
+  "prompt_tokens": 54808
+ },
+ "[\"CR\", 6, 80, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Persian",
+  "tokens": 3445,
+  "prompt_tokens": 2922
+ },
+ "[\"CR\", 6, 80, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Persian",
+  "tokens": 62914,
+  "prompt_tokens": 54806
+ },
+ "[\"CR\", 6, 70, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Lamar Alexander",
+  "tokens": 62914,
+  "prompt_tokens": 54810
+ },
+ "[\"CR\", 6, 85, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8438,
+  "prompt_tokens": 7503
+ },
+ "[\"CR\", 6, 85, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "James Badge Dale",
+  "tokens": 2094,
+  "prompt_tokens": 2124
+ },
+ "[\"CR\", 6, 85, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "James Badge Dale",
+  "tokens": 2094,
+  "prompt_tokens": 2124
+ },
+ "[\"CR\", 6, 90, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4158,
+  "prompt_tokens": 3746
+ },
+ "[\"CR\", 6, 90, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8438,
+  "prompt_tokens": 7501
+ },
+ "[\"CR\", 6, 5, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 62914,
+  "prompt_tokens": 54808
+ },
+ "[\"CR\", 6, 75, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "University of Edinburgh",
+  "tokens": 62914,
+  "prompt_tokens": 54805
+ },
+ "[\"CR\", 6, 90, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "linebacker",
+  "tokens": 3862,
+  "prompt_tokens": 3459
+ },
+ "[\"CR\", 6, 95, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8438,
+  "prompt_tokens": 7501
+ },
+ "[\"CR\", 6, 90, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "linebacker",
+  "tokens": 4376,
+  "prompt_tokens": 3930
+ },
+ "[\"CR\", 6, 95, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4158,
+  "prompt_tokens": 3746
+ },
+ "[\"CR\", 6, 95, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Google",
+  "tokens": 67,
+  "prompt_tokens": 190
+ },
+ "[\"CR\", 6, 95, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Google",
+  "tokens": 67,
+  "prompt_tokens": 190
+ },
+ "[\"CR\", 6, 85, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "James Badge Dale",
+  "tokens": 62914,
+  "prompt_tokens": 54807
+ },
+ "[\"CR\", 6, 95, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Google",
+  "tokens": 62914,
+  "prompt_tokens": 54805
+ },
+ "[\"CR\", 7, 0, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3776
+ },
+ "[\"CR\", 7, 5, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3776
+ },
+ "[\"CR\", 7, 5, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Methodism",
+  "tokens": 3863,
+  "prompt_tokens": 3165
+ },
+ "[\"CR\", 7, 0, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7477
+ },
+ "[\"CR\", 7, 0, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Federal University of Rio de Janeiro",
+  "tokens": 3875,
+  "prompt_tokens": 3334
+ },
+ "[\"CR\", 7, 5, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7477
+ },
+ "[\"CR\", 7, 0, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Federal University of Rio de Janeiro",
+  "tokens": 7854,
+  "prompt_tokens": 6656
+ },
+ "[\"CR\", 7, 5, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Methodism",
+  "tokens": 7842,
+  "prompt_tokens": 6269
+ },
+ "[\"CR\", 7, 10, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3778
+ },
+ "[\"CR\", 7, 10, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Russia",
+  "tokens": 3871,
+  "prompt_tokens": 3343
+ },
+ "[\"CR\", 7, 15, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3778
+ },
+ "[\"CR\", 7, 10, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Russia",
+  "tokens": 7830,
+  "prompt_tokens": 6607
+ },
+ "[\"CR\", 7, 15, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7479
+ },
+ "[\"CR\", 7, 10, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7479
+ },
+ "[\"CR\", 7, 15, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "The Church of Jesus Christ of Latter-day Saints",
+  "tokens": 3866,
+  "prompt_tokens": 3198
+ },
+ "[\"CR\", 7, 20, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3778
+ },
+ "[\"CR\", 7, 5, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Methodism",
+  "tokens": 254803,
+  "prompt_tokens": 221476
+ },
+ "[\"CR\", 7, 15, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "The Church of Jesus Christ of Latter-day Saints",
+  "tokens": 7836,
+  "prompt_tokens": 6294
+ },
+ "[\"CR\", 7, 20, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7479
+ },
+ "[\"CR\", 6, 90, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "linebacker",
+  "tokens": 62914,
+  "prompt_tokens": 54805
+ },
+ "[\"CR\", 7, 15, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "The Church of Jesus Christ of Latter-day Saints",
+  "tokens": 254803,
+  "prompt_tokens": 221478
+ },
+ "[\"CR\", 7, 25, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7477
+ },
+ "[\"CR\", 7, 20, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "United States of America",
+  "tokens": 3869,
+  "prompt_tokens": 3359
+ },
+ "[\"CR\", 7, 20, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "United States of America",
+  "tokens": 7838,
+  "prompt_tokens": 6632
+ },
+ "[\"CR\", 7, 25, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "United States of America",
+  "tokens": 3873,
+  "prompt_tokens": 3344
+ },
+ "[\"CR\", 7, 25, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3776
+ },
+ "[\"CR\", 7, 30, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3773
+ },
+ "[\"CR\", 7, 30, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7474
+ },
+ "[\"CR\", 7, 25, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "United States of America",
+  "tokens": 7843,
+  "prompt_tokens": 6618
+ },
+ "[\"CR\", 7, 30, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Madonna",
+  "tokens": 3863,
+  "prompt_tokens": 3537
+ },
+ "[\"CR\", 7, 25, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "United States of America",
+  "tokens": 254803,
+  "prompt_tokens": 221476
+ },
+ "[\"CR\", 7, 20, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "United States of America",
+  "tokens": 254803,
+  "prompt_tokens": 221478
+ },
+ "[\"CR\", 7, 30, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Madonna",
+  "tokens": 4675,
+  "prompt_tokens": 4250
+ },
+ "[\"CR\", 7, 35, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3778
+ },
+ "[\"CR\", 7, 35, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7479
+ },
+ "[\"CR\", 7, 40, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3776
+ },
+ "[\"CR\", 7, 35, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "British Broadcasting Corporation",
+  "tokens": 3861,
+  "prompt_tokens": 3280
+ },
+ "[\"CR\", 7, 30, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Madonna",
+  "tokens": 254803,
+  "prompt_tokens": 221473
+ },
+ "[\"CR\", 7, 35, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "British Broadcasting Corporation",
+  "tokens": 6929,
+  "prompt_tokens": 5764
+ },
+ "[\"CR\", 7, 40, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7477
+ },
+ "[\"CR\", 7, 0, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 254803,
+  "prompt_tokens": 221476
+ },
+ "[\"CR\", 7, 35, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "British Broadcasting Corporation",
+  "tokens": 254803,
+  "prompt_tokens": 221478
+ },
+ "[\"CR\", 7, 45, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3775
+ },
+ "[\"CR\", 7, 10, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 254803,
+  "prompt_tokens": 221478
+ },
+ "[\"CR\", 7, 45, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "French",
+  "tokens": 8424,
+  "prompt_tokens": 7476
+ },
+ "[\"CR\", 7, 40, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Stephen Hillenburg",
+  "tokens": 3870,
+  "prompt_tokens": 3502
+ },
+ "[\"CR\", 7, 40, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Stephen Hillenburg",
+  "tokens": 7835,
+  "prompt_tokens": 7017
+ },
+ "[\"CR\", 7, 45, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "French",
+  "tokens": 3867,
+  "prompt_tokens": 3275
+ },
+ "[\"CR\", 7, 50, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3783
+ },
+ "[\"CR\", 7, 50, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8410,
+  "prompt_tokens": 7472
+ },
+ "[\"CR\", 7, 50, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "association football",
+  "tokens": 3857,
+  "prompt_tokens": 3207
+ },
+ "[\"CR\", 7, 45, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "French",
+  "tokens": 7829,
+  "prompt_tokens": 6568
+ },
+ "[\"CR\", 7, 50, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "association football",
+  "tokens": 7825,
+  "prompt_tokens": 6370
+ },
+ "[\"CR\", 7, 55, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3780
+ },
+ "[\"CR\", 7, 55, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8410,
+  "prompt_tokens": 7469
+ },
+ "[\"CR\", 7, 40, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Stephen Hillenburg",
+  "tokens": 254803,
+  "prompt_tokens": 221476
+ },
+ "[\"CR\", 7, 45, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "French",
+  "tokens": 254803,
+  "prompt_tokens": 221475
+ },
+ "[\"CR\", 7, 50, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "association football",
+  "tokens": 254803,
+  "prompt_tokens": 221483
+ },
+ "[\"CR\", 7, 60, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7477
+ },
+ "[\"CR\", 7, 55, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Denmark",
+  "tokens": 3859,
+  "prompt_tokens": 3700
+ },
+ "[\"CR\", 7, 65, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4135,
+  "prompt_tokens": 3768
+ },
+ "[\"CR\", 7, 60, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Bridget Jones's Diary",
+  "tokens": 3088,
+  "prompt_tokens": 3098
+ },
+ "[\"CR\", 7, 65, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8410,
+  "prompt_tokens": 7471
+ },
+ "[\"CR\", 7, 60, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Bridget Jones's Diary",
+  "tokens": 3088,
+  "prompt_tokens": 3098
+ },
+ "[\"CR\", 7, 60, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Bridget Jones's Diary",
+  "tokens": 254803,
+  "prompt_tokens": 221476
+ },
+ "[\"CR\", 7, 60, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3776
+ },
+ "[\"CR\", 7, 55, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Denmark",
+  "tokens": 7842,
+  "prompt_tokens": 7001
+ },
+ "[\"CR\", 7, 70, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3779
+ },
+ "[\"CR\", 7, 70, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7480
+ },
+ "[\"CR\", 7, 65, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "Andrew Barr",
+  "tokens": 3863,
+  "prompt_tokens": 3457
+ },
+ "[\"CR\", 7, 75, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3775
+ },
+ "[\"CR\", 7, 70, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Ireland",
+  "tokens": 3862,
+  "prompt_tokens": 3323
+ },
+ "[\"CR\", 7, 75, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7476
+ },
+ "[\"CR\", 7, 70, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Ireland",
+  "tokens": 7829,
+  "prompt_tokens": 6595
+ },
+ "[\"CR\", 7, 65, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "Andrew Barr",
+  "tokens": 7771,
+  "prompt_tokens": 7089
+ },
+ "[\"CR\", 7, 75, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "quarterback",
+  "tokens": 3865,
+  "prompt_tokens": 3377
+ },
+ "[\"CR\", 7, 80, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3776
+ },
+ "[\"CR\", 7, 75, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "quarterback",
+  "tokens": 7833,
+  "prompt_tokens": 6722
+ },
+ "[\"CR\", 7, 80, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "London",
+  "tokens": 8424,
+  "prompt_tokens": 7477
+ },
+ "[\"CR\", 7, 70, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Ireland",
+  "tokens": 254803,
+  "prompt_tokens": 221479
+ },
+ "[\"CR\", 7, 85, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3776
+ },
+ "[\"CR\", 7, 80, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "London",
+  "tokens": 3855,
+  "prompt_tokens": 3661
+ },
+ "[\"CR\", 7, 85, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8424,
+  "prompt_tokens": 7477
+ },
+ "[\"CR\", 7, 80, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "London",
+  "tokens": 7821,
+  "prompt_tokens": 7287
+ },
+ "[\"CR\", 7, 55, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 254803,
+  "prompt_tokens": 221480
+ },
+ "[\"CR\", 7, 85, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Flensburg",
+  "tokens": 3872,
+  "prompt_tokens": 3610
+ },
+ "[\"CR\", 7, 85, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Flensburg",
+  "tokens": 7835,
+  "prompt_tokens": 7213
+ },
+ "[\"CR\", 7, 90, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4135,
+  "prompt_tokens": 3767
+ },
+ "[\"CR\", 7, 90, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 8410,
+  "prompt_tokens": 7470
+ },
+ "[\"CR\", 7, 95, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 4153,
+  "prompt_tokens": 3779
+ },
+ "[\"CR\", 7, 90, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Universal City",
+  "tokens": 3866,
+  "prompt_tokens": 3178
+ },
+ "[\"CR\", 7, 85, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Flensburg",
+  "tokens": 254803,
+  "prompt_tokens": 221476
+ },
+ "[\"CR\", 7, 90, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Universal City",
+  "tokens": 7835,
+  "prompt_tokens": 6288
+ },
+ "[\"CR\", 7, 95, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "United Kingdom",
+  "tokens": 8424,
+  "prompt_tokens": 7480
+ },
+ "[\"CR\", 7, 90, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Universal City",
+  "tokens": 254803,
+  "prompt_tokens": 221481
+ },
+ "[\"CR\", 7, 95, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "United Kingdom",
+  "tokens": 3869,
+  "prompt_tokens": 3343
+ },
+ "[\"CR\", 7, 95, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "United Kingdom",
+  "tokens": 7840,
+  "prompt_tokens": 6613
+ },
+ "[\"CR\", 7, 65, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 254803,
+  "prompt_tokens": 221482
+ },
+ "[\"AR\", 0, 0, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "France",
+  "tokens": 7886,
+  "prompt_tokens": 6759
+ },
+ "[\"AR\", 0, 0, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "France",
+  "tokens": 3397,
+  "prompt_tokens": 3011
+ },
+ "[\"AR\", 0, 0, \"uniform\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "France",
+  "tokens": 15892,
+  "prompt_tokens": 13114
+ },
+ "[\"AR\", 0, 5, \"uniform\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "William the Conqueror",
+  "tokens": 3397,
+  "prompt_tokens": 3014
+ },
+ "[\"AR\", 0, 5, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "William the Conqueror",
+  "tokens": 7886,
+  "prompt_tokens": 6762
+ },
+ "[\"AR\", 0, 5, \"uniform\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "William the Conqueror",
+  "tokens": 15892,
+  "prompt_tokens": 13117
+ },
+ "[\"CR\", 7, 95, \"full\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "United Kingdom",
+  "tokens": 254803,
+  "prompt_tokens": 221479
+ },
+ "[\"AR\", 0, 0, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "France",
+  "tokens": 3864,
+  "prompt_tokens": 3377
+ },
+ "[\"AR\", 0, 0, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "France",
+  "tokens": 7848,
+  "prompt_tokens": 6803
+ },
+ "[\"AR\", 0, 0, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "France",
+  "tokens": 15871,
+  "prompt_tokens": 13613
+ },
+ "[\"AR\", 0, 5, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Duke William II of Normandy (William the Conqueror)",
+  "tokens": 3871,
+  "prompt_tokens": 3451
+ },
+ "[\"AR\", 0, 10, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3397,
+  "prompt_tokens": 3013
+ },
+ "[\"AR\", 0, 5, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "William the Conqueror",
+  "tokens": 6952,
+  "prompt_tokens": 6096
+ },
+ "[\"AR\", 0, 5, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "William II of Normandy (William the Conqueror)",
+  "tokens": 6952,
+  "prompt_tokens": 6096
+ },
+ "[\"AR\", 0, 10, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7886,
+  "prompt_tokens": 6761
+ },
+ "[\"AR\", 0, 10, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "911",
+  "tokens": 3880,
+  "prompt_tokens": 3515
+ },
+ "[\"AR\", 0, 10, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15892,
+  "prompt_tokens": 13116
+ },
+ "[\"AR\", 0, 10, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "911",
+  "tokens": 6867,
+  "prompt_tokens": 6040
+ },
+ "[\"AR\", 0, 15, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "Normandy",
+  "tokens": 3397,
+  "prompt_tokens": 3014
+ },
+ "[\"AR\", 0, 10, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "911",
+  "tokens": 6867,
+  "prompt_tokens": 6040
+ },
+ "[\"AR\", 0, 15, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "Normandy",
+  "tokens": 7886,
+  "prompt_tokens": 6762
+ },
+ "[\"AR\", 0, 15, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "Normandy",
+  "tokens": 15892,
+  "prompt_tokens": 13117
+ },
+ "[\"AR\", 0, 20, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3397,
+  "prompt_tokens": 3020
+ },
+ "[\"AR\", 0, 15, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Normandy, in northern France.",
+  "tokens": 3891,
+  "prompt_tokens": 3410
+ },
+ "[\"AR\", 0, 20, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Alexius Komnenos",
+  "tokens": 3884,
+  "prompt_tokens": 3237
+ },
+ "[\"AR\", 0, 20, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Alexius Komnenos",
+  "tokens": 7891,
+  "prompt_tokens": 6565
+ },
+ "[\"AR\", 0, 15, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "northern France (Normandy)",
+  "tokens": 15879,
+  "prompt_tokens": 13505
+ },
+ "[\"AR\", 0, 15, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Normandy, in northern France",
+  "tokens": 7889,
+  "prompt_tokens": 6868
+ },
+ "[\"CR\", 7, 75, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 254803,
+  "prompt_tokens": 221475
+ },
+ "[\"CR\", 7, 80, \"full\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 254803,
+  "prompt_tokens": 221476
+ },
+ "[\"AR\", 0, 20, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15892,
+  "prompt_tokens": 13123
+ },
+ "[\"AR\", 0, 20, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "Alexius Komnenos",
+  "tokens": 15883,
+  "prompt_tokens": 13045
+ },
+ "[\"AR\", 0, 25, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3397,
+  "prompt_tokens": 3015
+ },
+ "[\"AR\", 0, 25, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Robert Guiscard",
+  "tokens": 3898,
+  "prompt_tokens": 3570
+ },
+ "[\"AR\", 0, 20, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7886,
+  "prompt_tokens": 6768
+ },
+ "[\"AR\", 0, 25, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15892,
+  "prompt_tokens": 13118
+ },
+ "[\"AR\", 0, 25, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Robert Guiscard",
+  "tokens": 7888,
+  "prompt_tokens": 7025
+ },
+ "[\"AR\", 0, 25, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7886,
+  "prompt_tokens": 6763
+ },
+ "[\"AR\", 0, 30, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3397,
+  "prompt_tokens": 3013
+ },
+ "[\"AR\", 0, 25, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "Robert Guiscard",
+  "tokens": 15869,
+  "prompt_tokens": 13844
+ },
+ "[\"AR\", 0, 30, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15892,
+  "prompt_tokens": 13116
+ },
+ "[\"AR\", 0, 30, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Deabolis",
+  "tokens": 3871,
+  "prompt_tokens": 3664
+ },
+ "[\"AR\", 0, 30, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7886,
+  "prompt_tokens": 6761
+ },
+ "[\"AR\", 0, 35, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3397,
+  "prompt_tokens": 3010
+ },
+ "[\"AR\", 0, 35, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15892,
+  "prompt_tokens": 13113
+ },
+ "[\"AR\", 0, 35, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7886,
+  "prompt_tokens": 6758
+ },
+ "[\"AR\", 0, 30, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "Deabolis",
+  "tokens": 15883,
+  "prompt_tokens": 14227
+ },
+ "[\"AR\", 0, 30, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Deabolis",
+  "tokens": 7890,
+  "prompt_tokens": 7220
+ },
+ "[\"AR\", 0, 35, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Duke Richard II of Normandy",
+  "tokens": 3897,
+  "prompt_tokens": 3587
+ },
+ "[\"AR\", 0, 40, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3397,
+  "prompt_tokens": 3013
+ },
+ "[\"AR\", 0, 40, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7886,
+  "prompt_tokens": 6761
+ },
+ "[\"AR\", 0, 35, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Duke Richard II of Normandy",
+  "tokens": 7894,
+  "prompt_tokens": 6912
+ },
+ "[\"AR\", 0, 35, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "Duke Richard II of Normandy",
+  "tokens": 15895,
+  "prompt_tokens": 13616
+ },
+ "[\"AR\", 0, 40, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Robert of Jumièges",
+  "tokens": 3893,
+  "prompt_tokens": 3243
+ },
+ "[\"AR\", 0, 45, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3397,
+  "prompt_tokens": 3015
+ },
+ "[\"AR\", 0, 40, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Robert of Jumièges",
+  "tokens": 7849,
+  "prompt_tokens": 6418
+ },
+ "[\"AR\", 0, 40, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15892,
+  "prompt_tokens": 13116
+ },
+ "[\"AR\", 0, 40, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "Robert of Jumièges",
+  "tokens": 15885,
+  "prompt_tokens": 13082
+ },
+ "[\"AR\", 0, 50, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3397,
+  "prompt_tokens": 3010
+ },
+ "[\"AR\", 0, 45, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7886,
+  "prompt_tokens": 6763
+ },
+ "[\"AR\", 0, 50, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15892,
+  "prompt_tokens": 13113
+ },
+ "[\"AR\", 0, 50, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7886,
+  "prompt_tokens": 6758
+ },
+ "[\"AR\", 0, 50, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "King Malcolm III of Scotland",
+  "tokens": 3883,
+  "prompt_tokens": 3534
+ },
+ "[\"AR\", 0, 45, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15892,
+  "prompt_tokens": 13118
+ },
+ "[\"AR\", 0, 50, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "King Malcolm III of Scotland",
+  "tokens": 7895,
+  "prompt_tokens": 6862
+ },
+ "[\"AR\", 0, 55, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3397,
+  "prompt_tokens": 3010
+ },
+ "[\"AR\", 0, 45, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "Modern English",
+  "tokens": 15889,
+  "prompt_tokens": 13324
+ },
+ "[\"AR\", 0, 55, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7886,
+  "prompt_tokens": 6758
+ },
+ "[\"AR\", 0, 55, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Hereford",
+  "tokens": 1558,
+  "prompt_tokens": 1507
+ },
+ "[\"AR\", 0, 50, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "King Malcolm III of Scotland",
+  "tokens": 15885,
+  "prompt_tokens": 13615
+ },
+ "[\"AR\", 0, 55, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Hereford",
+  "tokens": 1558,
+  "prompt_tokens": 1507
+ },
+ "[\"AR\", 0, 55, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "Hereford",
+  "tokens": 1558,
+  "prompt_tokens": 1507
+ },
+ "[\"AR\", 0, 60, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3397,
+  "prompt_tokens": 3019
+ },
+ "[\"AR\", 0, 55, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15892,
+  "prompt_tokens": 13113
+ },
+ "[\"AR\", 0, 60, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "William of Montreuil",
+  "tokens": 7862,
+  "prompt_tokens": 6653
+ },
+ "[\"AR\", 0, 60, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7886,
+  "prompt_tokens": 6767
+ },
+ "[\"AR\", 0, 60, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "William of Montreuil",
+  "tokens": 3859,
+  "prompt_tokens": 3397
+ },
+ "[\"AR\", 0, 60, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15892,
+  "prompt_tokens": 13122
+ },
+ "[\"AR\", 0, 60, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "William of Montreuil",
+  "tokens": 15879,
+  "prompt_tokens": 13410
+ },
+ "[\"AR\", 0, 65, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3397,
+  "prompt_tokens": 3013
+ },
+ "[\"AR\", 0, 65, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7886,
+  "prompt_tokens": 6761
+ },
+ "[\"AR\", 0, 70, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3397,
+  "prompt_tokens": 3013
+ },
+ "[\"AR\", 0, 65, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15892,
+  "prompt_tokens": 13116
+ },
+ "[\"AR\", 0, 65, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "A storm",
+  "tokens": 3898,
+  "prompt_tokens": 3378
+ },
+ "[\"AR\", 0, 65, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "A storm dispersed the fleet.",
+  "tokens": 15886,
+  "prompt_tokens": 13064
+ },
+ "[\"AR\", 0, 70, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7886,
+  "prompt_tokens": 6761
+ },
+ "[\"AR\", 0, 70, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15892,
+  "prompt_tokens": 13116
+ },
+ "[\"AR\", 0, 70, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "silver",
+  "tokens": 3891,
+  "prompt_tokens": 3331
+ },
+ "[\"AR\", 0, 65, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "A storm dispersed his fleet.",
+  "tokens": 7891,
+  "prompt_tokens": 6645
+ },
+ "[\"AR\", 0, 75, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3397,
+  "prompt_tokens": 3009
+ },
+ "[\"AR\", 0, 70, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "silver",
+  "tokens": 7885,
+  "prompt_tokens": 6495
+ },
+ "[\"AR\", 0, 70, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "silver",
+  "tokens": 15879,
+  "prompt_tokens": 13145
+ },
+ "[\"AR\", 0, 75, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Maciot de Bethencourt",
+  "tokens": 3897,
+  "prompt_tokens": 3168
+ },
+ "[\"AR\", 0, 75, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "Maciot de Bethencourt",
+  "tokens": 15872,
+  "prompt_tokens": 12985
+ },
+ "[\"AR\", 0, 75, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7886,
+  "prompt_tokens": 6757
+ },
+ "[\"AR\", 0, 75, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Maciot de Bethencourt",
+  "tokens": 7882,
+  "prompt_tokens": 6390
+ },
+ "[\"AR\", 0, 80, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3397,
+  "prompt_tokens": 3013
+ },
+ "[\"AR\", 0, 80, \"uniform\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "Early Gothic",
+  "tokens": 15892,
+  "prompt_tokens": 13116
+ },
+ "[\"AR\", 0, 80, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7886,
+  "prompt_tokens": 6761
+ },
+ "[\"AR\", 0, 75, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15892,
+  "prompt_tokens": 13112
+ },
+ "[\"AR\", 0, 85, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3397,
+  "prompt_tokens": 3012
+ },
+ "[\"AR\", 0, 80, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Early Gothic",
+  "tokens": 3868,
+  "prompt_tokens": 3404
+ },
+ "[\"AR\", 0, 80, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Early Gothic",
+  "tokens": 7892,
+  "prompt_tokens": 6796
+ },
+ "[\"AR\", 0, 85, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15892,
+  "prompt_tokens": 13115
+ },
+ "[\"AR\", 0, 80, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "Early Gothic",
+  "tokens": 15881,
+  "prompt_tokens": 13358
+ },
+ "[\"AR\", 0, 85, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7886,
+  "prompt_tokens": 6760
+ },
+ "[\"AR\", 0, 85, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "1562 to 1598",
+  "tokens": 3890,
+  "prompt_tokens": 3374
+ },
+ "[\"AR\", 0, 90, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7886,
+  "prompt_tokens": 6764
+ },
+ "[\"AR\", 0, 90, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3397,
+  "prompt_tokens": 3016
+ },
+ "[\"AR\", 0, 85, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "1562 to 1598",
+  "tokens": 7881,
+  "prompt_tokens": 6612
+ },
+ "[\"AR\", 0, 85, \"ubcm\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "1562 to 1598",
+  "tokens": 15874,
+  "prompt_tokens": 13279
+ },
+ "[\"AR\", 0, 90, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15892,
+  "prompt_tokens": 13119
+ },
+ "[\"AR\", 0, 45, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Modern English",
+  "tokens": 3892,
+  "prompt_tokens": 3335
+ },
+ "[\"AR\", 0, 90, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "11th century",
+  "tokens": 3884,
+  "prompt_tokens": 3235
+ },
+ "[\"AR\", 0, 90, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "11th century",
+  "tokens": 7861,
+  "prompt_tokens": 6468
+ },
+ "[\"AR\", 0, 90, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "11th century",
+  "tokens": 15880,
+  "prompt_tokens": 13000
+ },
+ "[\"AR\", 0, 95, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "Carolingian artistic tradition",
+  "tokens": 3397,
+  "prompt_tokens": 3017
+ },
+ "[\"AR\", 0, 95, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "singing",
+  "tokens": 3895,
+  "prompt_tokens": 3472
+ },
+ "[\"AR\", 0, 95, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "singing",
+  "tokens": 7871,
+  "prompt_tokens": 6758
+ },
+ "[\"AR\", 1, 0, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3910,
+  "prompt_tokens": 3973
+ },
+ "[\"AR\", 0, 95, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7886,
+  "prompt_tokens": 6765
+ },
+ "[\"AR\", 0, 95, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "singing",
+  "tokens": 15873,
+  "prompt_tokens": 13167
+ },
+ "[\"AR\", 0, 45, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 7876,
+  "prompt_tokens": 6742
+ },
+ "[\"AR\", 1, 0, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7837,
+  "prompt_tokens": 7643
+ },
+ "[\"AR\", 1, 0, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15780,
+  "prompt_tokens": 15014
+ },
+ "[\"AR\", 0, 95, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "Carolingian artistic tradition",
+  "tokens": 15892,
+  "prompt_tokens": 13120
+ },
+ "[\"AR\", 1, 5, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3910,
+  "prompt_tokens": 3981
+ },
+ "[\"AR\", 1, 5, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15780,
+  "prompt_tokens": 15022
+ },
+ "[\"AR\", 1, 0, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Yes",
+  "tokens": 7877,
+  "prompt_tokens": 7427
+ },
+ "[\"AR\", 1, 5, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7837,
+  "prompt_tokens": 7651
+ },
+ "[\"AR\", 1, 0, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Yes",
+  "tokens": 3871,
+  "prompt_tokens": 3724
+ },
+ "[\"AR\", 1, 0, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "Yes",
+  "tokens": 11908,
+  "prompt_tokens": 11123
+ },
+ "[\"AR\", 1, 10, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3809,
+  "prompt_tokens": 3898
+ },
+ "[\"AR\", 1, 10, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7837,
+  "prompt_tokens": 7661
+ },
+ "[\"AR\", 1, 5, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "YG Entertainment",
+  "tokens": 3887,
+  "prompt_tokens": 3980
+ },
+ "[\"AR\", 1, 10, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15780,
+  "prompt_tokens": 15032
+ },
+ "[\"AR\", 1, 5, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "YG Entertainment",
+  "tokens": 7881,
+  "prompt_tokens": 7617
+ },
+ "[\"AR\", 1, 15, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3910,
+  "prompt_tokens": 3977
+ },
+ "[\"AR\", 1, 15, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7837,
+  "prompt_tokens": 7647
+ },
+ "[\"AR\", 1, 5, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "YG Entertainment",
+  "tokens": 15873,
+  "prompt_tokens": 15268
+ },
+ "[\"AR\", 1, 10, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Kansas Song (We’re From Kansas)",
+  "tokens": 3861,
+  "prompt_tokens": 3332
+ },
+ "[\"AR\", 1, 15, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15780,
+  "prompt_tokens": 15018
+ },
+ "[\"AR\", 1, 10, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Kansas Song (We’re From Kansas)",
+  "tokens": 7858,
+  "prompt_tokens": 6962
+ },
+ "[\"AR\", 1, 10, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "Kansas Song (We’re From Kansas)",
+  "tokens": 15851,
+  "prompt_tokens": 14110
+ },
+ "[\"AR\", 1, 20, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3809,
+  "prompt_tokens": 3890
+ },
+ "[\"AR\", 1, 20, \"uniform\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "Pedro Rodríguez",
+  "tokens": 15780,
+  "prompt_tokens": 15024
+ },
+ "[\"AR\", 1, 15, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3877,
+  "prompt_tokens": 3685
+ },
+ "[\"AR\", 1, 20, \"uniform\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Pedro Rodríguez",
+  "tokens": 7837,
+  "prompt_tokens": 7653
+ },
+ "[\"AR\", 1, 15, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7878,
+  "prompt_tokens": 7196
+ },
+ "[\"AR\", 1, 15, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "9,984",
+  "tokens": 15869,
+  "prompt_tokens": 14568
+ },
+ "[\"AR\", 1, 20, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Pedro Rodríguez",
+  "tokens": 3865,
+  "prompt_tokens": 3924
+ },
+ "[\"AR\", 1, 25, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3910,
+  "prompt_tokens": 3982
+ },
+ "[\"AR\", 1, 25, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15780,
+  "prompt_tokens": 15023
+ },
+ "[\"AR\", 1, 25, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7837,
+  "prompt_tokens": 7652
+ },
+ "[\"AR\", 1, 20, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Pedro Rodríguez",
+  "tokens": 7871,
+  "prompt_tokens": 7528
+ },
+ "[\"AR\", 1, 20, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "Pedro Rodríguez",
+  "tokens": 15867,
+  "prompt_tokens": 14656
+ },
+ "[\"AR\", 1, 30, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3910,
+  "prompt_tokens": 3975
+ },
+ "[\"AR\", 1, 30, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7837,
+  "prompt_tokens": 7645
+ },
+ "[\"AR\", 1, 30, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15780,
+  "prompt_tokens": 15016
+ },
+ "[\"AR\", 1, 35, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3809,
+  "prompt_tokens": 3889
+ },
+ "[\"AR\", 1, 25, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "Lee Hazlewood and Jim Shoulders",
+  "tokens": 3879,
+  "prompt_tokens": 3814
+ },
+ "[\"AR\", 1, 35, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7837,
+  "prompt_tokens": 7652
+ },
+ "[\"AR\", 1, 30, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3894,
+  "prompt_tokens": 3881
+ },
+ "[\"AR\", 1, 30, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "2000",
+  "tokens": 7894,
+  "prompt_tokens": 7609
+ },
+ "[\"AR\", 1, 35, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "1920",
+  "tokens": 15780,
+  "prompt_tokens": 15023
+ },
+ "[\"AR\", 1, 40, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3809,
+  "prompt_tokens": 3888
+ },
+ "[\"AR\", 1, 40, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7837,
+  "prompt_tokens": 7651
+ },
+ "[\"AR\", 1, 40, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15780,
+  "prompt_tokens": 15022
+ },
+ "[\"AR\", 1, 40, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Scotch Collie",
+  "tokens": 3870,
+  "prompt_tokens": 3511
+ },
+ "[\"AR\", 1, 25, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "Lee Hazlewood and Jim Shoulders",
+  "tokens": 7878,
+  "prompt_tokens": 7577
+ },
+ "[\"AR\", 1, 40, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Scotch Collie",
+  "tokens": 7877,
+  "prompt_tokens": 7153
+ },
+ "[\"AR\", 1, 45, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3809,
+  "prompt_tokens": 3889
+ },
+ "[\"AR\", 1, 40, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "Scotch Collie",
+  "tokens": 15861,
+  "prompt_tokens": 13975
+ },
+ "[\"AR\", 1, 45, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "Firth of Forth",
+  "tokens": 7837,
+  "prompt_tokens": 7652
+ },
+ "[\"AR\", 1, 30, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "2000",
+  "tokens": 15884,
+  "prompt_tokens": 15133
+ },
+ "[\"AR\", 1, 25, \"ubcm\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "Lee Hazlewood and Jim Shoulders",
+  "tokens": 15874,
+  "prompt_tokens": 14711
+ },
+ "[\"AR\", 1, 35, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "1920",
+  "tokens": 7870,
+  "prompt_tokens": 7033
+ },
+ "[\"AR\", 1, 45, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "Firth of Forth",
+  "tokens": 15780,
+  "prompt_tokens": 15023
+ },
+ "[\"AR\", 1, 50, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3809,
+  "prompt_tokens": 3906
+ },
+ "[\"AR\", 1, 50, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7837,
+  "prompt_tokens": 7669
+ },
+ "[\"AR\", 1, 45, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Yellowcraigs",
+  "tokens": 3880,
+  "prompt_tokens": 3730
+ },
+ "[\"AR\", 1, 35, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "1920",
+  "tokens": 3880,
+  "prompt_tokens": 3562
+ },
+ "[\"AR\", 1, 50, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "2009 Big 12 Conference",
+  "tokens": 3857,
+  "prompt_tokens": 3653
+ },
+ "[\"AR\", 1, 45, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Yellowcraig",
+  "tokens": 7876,
+  "prompt_tokens": 7347
+ },
+ "[\"AR\", 1, 50, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "2009, Big 12 Conference",
+  "tokens": 7857,
+  "prompt_tokens": 7310
+ },
+ "[\"AR\", 1, 50, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "2009 Big 12 Conference",
+  "tokens": 15853,
+  "prompt_tokens": 14124
+ },
+ "[\"AR\", 1, 45, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "Yellowcraig",
+  "tokens": 15873,
+  "prompt_tokens": 14559
+ },
+ "[\"AR\", 1, 50, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15780,
+  "prompt_tokens": 15040
+ },
+ "[\"AR\", 1, 55, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3809,
+  "prompt_tokens": 3898
+ },
+ "[\"AR\", 1, 35, \"ubcm\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 15856,
+  "prompt_tokens": 14150
+ },
+ "[\"AR\", 1, 55, \"ubcm\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "Marion",
+  "tokens": 7854,
+  "prompt_tokens": 7106
+ },
+ "[\"AR\", 1, 60, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3809,
+  "prompt_tokens": 3906
+ },
+ "[\"AR\", 1, 55, \"ubcm\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "Marion",
+  "tokens": 15856,
+  "prompt_tokens": 14149
+ },
+ "[\"AR\", 1, 60, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Shortest player ever to play in the National Basketball Association.",
+  "tokens": 3865,
+  "prompt_tokens": 3649
+ },
+ "[\"AR\", 1, 60, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7837,
+  "prompt_tokens": 7669
+ },
+ "[\"AR\", 1, 60, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "The shortest player ever to play in the National Basketball Association.",
+  "tokens": 7850,
+  "prompt_tokens": 7324
+ },
+ "[\"AR\", 1, 60, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15780,
+  "prompt_tokens": 15040
+ },
+ "[\"AR\", 1, 60, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "Shortest player ever to play in the National Basketball Association.",
+  "tokens": 15854,
+  "prompt_tokens": 14619
+ },
+ "[\"AR\", 1, 65, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3910,
+  "prompt_tokens": 3981
+ },
+ "[\"AR\", 1, 65, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7837,
+  "prompt_tokens": 7651
+ },
+ "[\"AR\", 1, 65, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15780,
+  "prompt_tokens": 15022
+ },
+ "[\"AR\", 1, 65, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Charmed",
+  "tokens": 7879,
+  "prompt_tokens": 7402
+ },
+ "[\"AR\", 1, 65, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Charmed",
+  "tokens": 3884,
+  "prompt_tokens": 3632
+ },
+ "[\"AR\", 1, 70, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3809,
+  "prompt_tokens": 3898
+ },
+ "[\"AR\", 1, 65, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "Charmed",
+  "tokens": 15875,
+  "prompt_tokens": 14939
+ },
+ "[\"AR\", 1, 70, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15780,
+  "prompt_tokens": 15032
+ },
+ "[\"AR\", 1, 70, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7837,
+  "prompt_tokens": 7661
+ },
+ "[\"AR\", 1, 55, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15780,
+  "prompt_tokens": 15032
+ },
+ "[\"AR\", 1, 70, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "Teen Titans Go!",
+  "tokens": 15854,
+  "prompt_tokens": 14693
+ },
+ "[\"AR\", 1, 75, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3910,
+  "prompt_tokens": 3981
+ },
+ "[\"AR\", 1, 75, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15780,
+  "prompt_tokens": 15022
+ },
+ "[\"AR\", 1, 70, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Teen Titans Go!",
+  "tokens": 7834,
+  "prompt_tokens": 7244
+ },
+ "[\"AR\", 1, 75, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7837,
+  "prompt_tokens": 7651
+ },
+ "[\"AR\", 1, 70, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Teen Titans Go!",
+  "tokens": 3854,
+  "prompt_tokens": 3563
+ },
+ "[\"AR\", 1, 75, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "John John Florence",
+  "tokens": 3881,
+  "prompt_tokens": 3775
+ },
+ "[\"AR\", 1, 80, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3910,
+  "prompt_tokens": 3979
+ },
+ "[\"AR\", 1, 75, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "John John Florence",
+  "tokens": 7880,
+  "prompt_tokens": 7441
+ },
+ "[\"AR\", 1, 80, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7837,
+  "prompt_tokens": 7649
+ },
+ "[\"AR\", 1, 75, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "John John Florence",
+  "tokens": 15872,
+  "prompt_tokens": 15045
+ },
+ "[\"AR\", 1, 80, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15780,
+  "prompt_tokens": 15020
+ },
+ "[\"AR\", 1, 80, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Newport",
+  "tokens": 3887,
+  "prompt_tokens": 3735
+ },
+ "[\"AR\", 1, 55, \"ubcm\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3868,
+  "prompt_tokens": 3500
+ },
+ "[\"AR\", 1, 80, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Newport",
+  "tokens": 7885,
+  "prompt_tokens": 7493
+ },
+ "[\"AR\", 1, 55, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7837,
+  "prompt_tokens": 7661
+ },
+ "[\"AR\", 1, 85, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3809,
+  "prompt_tokens": 3892
+ },
+ "[\"AR\", 1, 80, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "Newport",
+  "tokens": 15871,
+  "prompt_tokens": 14535
+ },
+ "[\"AR\", 1, 85, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15780,
+  "prompt_tokens": 15026
+ },
+ "[\"AR\", 1, 85, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7837,
+  "prompt_tokens": 7655
+ },
+ "[\"AR\", 1, 90, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3910,
+  "prompt_tokens": 3975
+ },
+ "[\"AR\", 1, 90, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7837,
+  "prompt_tokens": 7645
+ },
+ "[\"AR\", 1, 90, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15780,
+  "prompt_tokens": 15016
+ },
+ "[\"AR\", 1, 85, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "April 1, 1949",
+  "tokens": 3857,
+  "prompt_tokens": 3419
+ },
+ "[\"AR\", 1, 85, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "April 1, 1949",
+  "tokens": 7865,
+  "prompt_tokens": 6933
+ },
+ "[\"AR\", 1, 95, \"uniform\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7837,
+  "prompt_tokens": 7641
+ },
+ "[\"AR\", 1, 95, \"uniform\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3910,
+  "prompt_tokens": 3971
+ },
+ "[\"AR\", 1, 85, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "April 1, 1949",
+  "tokens": 15860,
+  "prompt_tokens": 14108
+ },
+ "[\"AR\", 1, 95, \"uniform\", 16000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 15780,
+  "prompt_tokens": 15012
+ },
+ "[\"AR\", 1, 90, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "The Conversation",
+  "tokens": 7881,
+  "prompt_tokens": 6703
+ },
+ "[\"AR\", 1, 90, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "The Conversation",
+  "tokens": 3885,
+  "prompt_tokens": 3368
+ },
+ "[\"AR\", 1, 90, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "The Conversation",
+  "tokens": 15875,
+  "prompt_tokens": 13870
+ },
+ "[\"AR\", 1, 95, \"ubcm\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Fairfax County",
+  "tokens": 3885,
+  "prompt_tokens": 3678
+ },
+ "[\"AR\", 1, 95, \"ubcm\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Fairfax County",
+  "tokens": 7892,
+  "prompt_tokens": 7183
+ },
+ "[\"AR\", 1, 95, \"ubcm\", 16000, \"think\"]": {
+  "correct": 1,
+  "response": "Fairfax County",
+  "tokens": 15887,
+  "prompt_tokens": 14394
+ },
+ "[\"CR\", 0, 0, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Belgium",
+  "tokens": 3861,
+  "prompt_tokens": 3534
+ },
+ "[\"CR\", 0, 0, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Belgium",
+  "tokens": 6105,
+  "prompt_tokens": 5426
+ },
+ "[\"CR\", 0, 5, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Baldwin Wallace University",
+  "tokens": 3861,
+  "prompt_tokens": 3535
+ },
+ "[\"CR\", 0, 5, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Baldwin Wallace University",
+  "tokens": 6105,
+  "prompt_tokens": 5431
+ },
+ "[\"CR\", 0, 10, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "atheism",
+  "tokens": 3858,
+  "prompt_tokens": 3541
+ },
+ "[\"CR\", 0, 10, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "atheism",
+  "tokens": 6105,
+  "prompt_tokens": 5426
+ },
+ "[\"CR\", 0, 15, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3857,
+  "prompt_tokens": 3435
+ },
+ "[\"CR\", 0, 15, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 6105,
+  "prompt_tokens": 5425
+ },
+ "[\"CR\", 0, 20, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Persian",
+  "tokens": 3854,
+  "prompt_tokens": 3505
+ },
+ "[\"CR\", 0, 20, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Persian",
+  "tokens": 6105,
+  "prompt_tokens": 5429
+ },
+ "[\"CR\", 0, 25, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Adel al-Jubeir",
+  "tokens": 3855,
+  "prompt_tokens": 3467
+ },
+ "[\"CR\", 0, 25, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Adel al-Jubeir",
+  "tokens": 6105,
+  "prompt_tokens": 5433
+ },
+ "[\"CR\", 0, 30, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "New York City",
+  "tokens": 3839,
+  "prompt_tokens": 3411
+ },
+ "[\"CR\", 0, 30, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "New York City",
+  "tokens": 6105,
+  "prompt_tokens": 5440
+ },
+ "[\"CR\", 0, 35, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "The Fairly OddParents",
+  "tokens": 3856,
+  "prompt_tokens": 3532
+ },
+ "[\"CR\", 0, 35, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "The Fairly OddParents",
+  "tokens": 6105,
+  "prompt_tokens": 5428
+ },
+ "[\"CR\", 0, 40, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Philippe, Duke of Orléans",
+  "tokens": 3859,
+  "prompt_tokens": 3508
+ },
+ "[\"CR\", 0, 40, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Philippe, Duke of Orléans",
+  "tokens": 6105,
+  "prompt_tokens": 5428
+ },
+ "[\"CR\", 0, 45, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "London",
+  "tokens": 3866,
+  "prompt_tokens": 3565
+ },
+ "[\"CR\", 0, 45, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "London",
+  "tokens": 6105,
+  "prompt_tokens": 5428
+ },
+ "[\"CR\", 0, 50, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Mansourah, Algeria",
+  "tokens": 3851,
+  "prompt_tokens": 3578
+ },
+ "[\"CR\", 0, 50, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Mansourah, Algeria",
+  "tokens": 6105,
+  "prompt_tokens": 5433
+ },
+ "[\"CR\", 0, 55, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Sweden",
+  "tokens": 3856,
+  "prompt_tokens": 3384
+ },
+ "[\"CR\", 0, 55, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Sweden",
+  "tokens": 6105,
+  "prompt_tokens": 5424
+ },
+ "[\"CR\", 0, 60, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Berlin",
+  "tokens": 3860,
+  "prompt_tokens": 3548
+ },
+ "[\"CR\", 0, 60, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Berlin",
+  "tokens": 6105,
+  "prompt_tokens": 5427
+ },
+ "[\"CR\", 0, 65, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Narendra Modi",
+  "tokens": 3859,
+  "prompt_tokens": 3466
+ },
+ "[\"CR\", 0, 65, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Narendra Modi",
+  "tokens": 6105,
+  "prompt_tokens": 5427
+ },
+ "[\"CR\", 0, 70, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Botevgrad",
+  "tokens": 3854,
+  "prompt_tokens": 3493
+ },
+ "[\"CR\", 0, 70, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Botevgrad",
+  "tokens": 6105,
+  "prompt_tokens": 5429
+ },
+ "[\"CR\", 0, 75, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "interdenominational organization",
+  "tokens": 3863,
+  "prompt_tokens": 3529
+ },
+ "[\"CR\", 0, 75, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "interdenominational organization",
+  "tokens": 6105,
+  "prompt_tokens": 5427
+ },
+ "[\"CR\", 0, 80, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Antarctica",
+  "tokens": 3857,
+  "prompt_tokens": 3464
+ },
+ "[\"CR\", 0, 80, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Antarctica",
+  "tokens": 6105,
+  "prompt_tokens": 5427
+ },
+ "[\"CR\", 0, 85, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3850,
+  "prompt_tokens": 3413
+ },
+ "[\"CR\", 0, 85, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 6105,
+  "prompt_tokens": 5427
+ },
+ "[\"CR\", 0, 90, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "English and French",
+  "tokens": 3861,
+  "prompt_tokens": 3515
+ },
+ "[\"CR\", 0, 90, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "English, French",
+  "tokens": 6105,
+  "prompt_tokens": 5428
+ },
+ "[\"CR\", 0, 95, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Mekere Morauta",
+  "tokens": 3846,
+  "prompt_tokens": 3493
+ },
+ "[\"CR\", 0, 95, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Mekere Morauta",
+  "tokens": 6105,
+  "prompt_tokens": 5426
+ },
+ "[\"CR\", 1, 0, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Taipei",
+  "tokens": 3858,
+  "prompt_tokens": 3390
+ },
+ "[\"CR\", 1, 0, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Taipei",
+  "tokens": 7814,
+  "prompt_tokens": 6955
+ },
+ "[\"CR\", 1, 5, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "South America",
+  "tokens": 3843,
+  "prompt_tokens": 3256
+ },
+ "[\"CR\", 1, 5, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "South America",
+  "tokens": 7806,
+  "prompt_tokens": 6758
+ },
+ "[\"CR\", 1, 10, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Portland",
+  "tokens": 3863,
+  "prompt_tokens": 3712
+ },
+ "[\"CR\", 1, 10, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Portland",
+  "tokens": 7822,
+  "prompt_tokens": 7228
+ },
+ "[\"CR\", 1, 15, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3856,
+  "prompt_tokens": 3414
+ },
+ "[\"CR\", 1, 15, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7815,
+  "prompt_tokens": 6859
+ },
+ "[\"CR\", 1, 20, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "Indonesia",
+  "tokens": 3851,
+  "prompt_tokens": 3410
+ },
+ "[\"CR\", 1, 20, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "Indonesia",
+  "tokens": 7806,
+  "prompt_tokens": 6849
+ },
+ "[\"CR\", 1, 25, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Italian",
+  "tokens": 3845,
+  "prompt_tokens": 3545
+ },
+ "[\"CR\", 1, 25, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "English and Italian",
+  "tokens": 7807,
+  "prompt_tokens": 7001
+ },
+ "[\"CR\", 1, 30, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Australian hip hop",
+  "tokens": 3856,
+  "prompt_tokens": 3544
+ },
+ "[\"CR\", 1, 30, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Australian hip hop",
+  "tokens": 7820,
+  "prompt_tokens": 7139
+ },
+ "[\"CR\", 1, 35, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Melbourne",
+  "tokens": 3848,
+  "prompt_tokens": 3431
+ },
+ "[\"CR\", 1, 35, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Melbourne",
+  "tokens": 7805,
+  "prompt_tokens": 7035
+ },
+ "[\"CR\", 1, 40, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Pune",
+  "tokens": 3850,
+  "prompt_tokens": 3776
+ },
+ "[\"CR\", 1, 40, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Pune",
+  "tokens": 7809,
+  "prompt_tokens": 7287
+ },
+ "[\"CR\", 1, 45, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Plovdiv",
+  "tokens": 3851,
+  "prompt_tokens": 3281
+ },
+ "[\"CR\", 1, 45, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Plovdiv",
+  "tokens": 7808,
+  "prompt_tokens": 6749
+ },
+ "[\"CR\", 1, 50, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "North America",
+  "tokens": 3841,
+  "prompt_tokens": 3686
+ },
+ "[\"CR\", 1, 50, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "North America",
+  "tokens": 7805,
+  "prompt_tokens": 7126
+ },
+ "[\"CR\", 1, 55, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3838,
+  "prompt_tokens": 3767
+ },
+ "[\"CR\", 1, 55, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7800,
+  "prompt_tokens": 7380
+ },
+ "[\"CR\", 1, 60, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Danish",
+  "tokens": 3855,
+  "prompt_tokens": 3680
+ },
+ "[\"CR\", 1, 60, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "English, Danish",
+  "tokens": 7824,
+  "prompt_tokens": 7255
+ },
+ "[\"CR\", 1, 65, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Berlin",
+  "tokens": 3859,
+  "prompt_tokens": 3680
+ },
+ "[\"CR\", 1, 65, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Berlin",
+  "tokens": 7824,
+  "prompt_tokens": 7268
+ },
+ "[\"CR\", 1, 70, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Amposta",
+  "tokens": 3834,
+  "prompt_tokens": 3424
+ },
+ "[\"CR\", 1, 70, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Amposta",
+  "tokens": 7796,
+  "prompt_tokens": 6849
+ },
+ "[\"CR\", 1, 75, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "888 7th Avenue",
+  "tokens": 3853,
+  "prompt_tokens": 3433
+ },
+ "[\"CR\", 1, 75, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "888 7th Avenue",
+  "tokens": 7810,
+  "prompt_tokens": 6989
+ },
+ "[\"CR\", 1, 80, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Ole Johan Vierdal",
+  "tokens": 3847,
+  "prompt_tokens": 3717
+ },
+ "[\"CR\", 1, 80, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Ole Johan Vierdal",
+  "tokens": 7813,
+  "prompt_tokens": 7136
+ },
+ "[\"CR\", 1, 85, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "British Broadcasting Corporation",
+  "tokens": 3854,
+  "prompt_tokens": 3428
+ },
+ "[\"CR\", 1, 85, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "British Broadcasting Corporation",
+  "tokens": 7818,
+  "prompt_tokens": 6756
+ },
+ "[\"CR\", 1, 90, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "Marcapata",
+  "tokens": 3832,
+  "prompt_tokens": 3642
+ },
+ "[\"CR\", 1, 90, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "Marcapata",
+  "tokens": 7794,
+  "prompt_tokens": 7192
+ },
+ "[\"CR\", 1, 95, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Japan",
+  "tokens": 3846,
+  "prompt_tokens": 3226
+ },
+ "[\"CR\", 1, 95, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Japan",
+  "tokens": 7813,
+  "prompt_tokens": 6579
+ },
+ "[\"CR\", 2, 0, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "German",
+  "tokens": 3859,
+  "prompt_tokens": 3452
+ },
+ "[\"CR\", 2, 0, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 7823,
+  "prompt_tokens": 6952
+ },
+ "[\"CR\", 2, 5, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3857,
+  "prompt_tokens": 3399
+ },
+ "[\"CR\", 2, 5, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 7827,
+  "prompt_tokens": 6876
+ },
+ "[\"CR\", 2, 10, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Duluth",
+  "tokens": 3847,
+  "prompt_tokens": 3847
+ },
+ "[\"CR\", 2, 10, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Duluth",
+  "tokens": 7811,
+  "prompt_tokens": 7442
+ },
+ "[\"CR\", 2, 15, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "Rurouni Kenshin",
+  "tokens": 3844,
+  "prompt_tokens": 3793
+ },
+ "[\"CR\", 2, 15, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "The Fairly OddParents",
+  "tokens": 7813,
+  "prompt_tokens": 7290
+ },
+ "[\"CR\", 2, 20, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "German",
+  "tokens": 3853,
+  "prompt_tokens": 3497
+ },
+ "[\"CR\", 2, 20, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "German",
+  "tokens": 7824,
+  "prompt_tokens": 7033
+ },
+ "[\"CR\", 2, 25, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Mexico City",
+  "tokens": 3866,
+  "prompt_tokens": 3293
+ },
+ "[\"CR\", 2, 25, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Mexico City",
+  "tokens": 7830,
+  "prompt_tokens": 6781
+ },
+ "[\"CR\", 2, 30, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Ethiopian Orthodox Tewahedo Church",
+  "tokens": 3867,
+  "prompt_tokens": 3230
+ },
+ "[\"CR\", 2, 30, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Ethiopian Orthodox Tewahedo Church",
+  "tokens": 7839,
+  "prompt_tokens": 6681
+ },
+ "[\"CR\", 2, 35, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "New York City",
+  "tokens": 3852,
+  "prompt_tokens": 3776
+ },
+ "[\"CR\", 2, 35, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "New York City",
+  "tokens": 7808,
+  "prompt_tokens": 7465
+ },
+ "[\"CR\", 2, 40, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Pune",
+  "tokens": 3849,
+  "prompt_tokens": 3921
+ },
+ "[\"CR\", 2, 40, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 7814,
+  "prompt_tokens": 7564
+ },
+ "[\"CR\", 2, 45, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3843,
+  "prompt_tokens": 3312
+ },
+ "[\"CR\", 2, 45, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Russellville",
+  "tokens": 7811,
+  "prompt_tokens": 6791
+ },
+ "[\"CR\", 2, 50, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "Berlin",
+  "tokens": 3857,
+  "prompt_tokens": 3490
+ },
+ "[\"CR\", 2, 50, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "Berlin",
+  "tokens": 7827,
+  "prompt_tokens": 7010
+ },
+ "[\"CR\", 2, 55, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3843,
+  "prompt_tokens": 3811
+ },
+ "[\"CR\", 2, 55, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7804,
+  "prompt_tokens": 7389
+ },
+ "[\"CR\", 2, 60, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "San Jose",
+  "tokens": 3860,
+  "prompt_tokens": 3240
+ },
+ "[\"CR\", 2, 60, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "San Jose",
+  "tokens": 7820,
+  "prompt_tokens": 6705
+ },
+ "[\"CR\", 2, 65, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Connachta",
+  "tokens": 3846,
+  "prompt_tokens": 3822
+ },
+ "[\"CR\", 2, 65, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 7804,
+  "prompt_tokens": 7391
+ },
+ "[\"CR\", 2, 70, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Guangzhou",
+  "tokens": 3853,
+  "prompt_tokens": 3756
+ },
+ "[\"CR\", 2, 70, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Guangzhou",
+  "tokens": 7819,
+  "prompt_tokens": 7417
+ },
+ "[\"CR\", 2, 75, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3855,
+  "prompt_tokens": 3755
+ },
+ "[\"CR\", 2, 75, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7816,
+  "prompt_tokens": 7269
+ },
+ "[\"CR\", 2, 80, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Europe",
+  "tokens": 3840,
+  "prompt_tokens": 3702
+ },
+ "[\"CR\", 2, 80, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Europe",
+  "tokens": 7799,
+  "prompt_tokens": 7175
+ },
+ "[\"CR\", 2, 85, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "India",
+  "tokens": 3849,
+  "prompt_tokens": 3245
+ },
+ "[\"CR\", 2, 85, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "India",
+  "tokens": 7815,
+  "prompt_tokens": 6611
+ },
+ "[\"CR\", 2, 90, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "South America",
+  "tokens": 3844,
+  "prompt_tokens": 3613
+ },
+ "[\"CR\", 2, 90, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Asia",
+  "tokens": 7800,
+  "prompt_tokens": 7134
+ },
+ "[\"CR\", 2, 95, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3841,
+  "prompt_tokens": 3884
+ },
+ "[\"CR\", 2, 95, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7802,
+  "prompt_tokens": 7469
+ },
+ "[\"CR\", 3, 0, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3865,
+  "prompt_tokens": 3390
+ },
+ "[\"CR\", 3, 0, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7828,
+  "prompt_tokens": 6644
+ },
+ "[\"CR\", 3, 5, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "English",
+  "tokens": 3848,
+  "prompt_tokens": 3425
+ },
+ "[\"CR\", 3, 5, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "English",
+  "tokens": 7810,
+  "prompt_tokens": 6857
+ },
+ "[\"CR\", 3, 10, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3851,
+  "prompt_tokens": 3570
+ },
+ "[\"CR\", 3, 10, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7806,
+  "prompt_tokens": 7113
+ },
+ "[\"CR\", 3, 15, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3858,
+  "prompt_tokens": 3077
+ },
+ "[\"CR\", 3, 15, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Long Beach",
+  "tokens": 7833,
+  "prompt_tokens": 6268
+ },
+ "[\"CR\", 3, 20, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "Harald V of Norway",
+  "tokens": 3843,
+  "prompt_tokens": 3518
+ },
+ "[\"CR\", 3, 20, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "Alassane Dramane Ouattara",
+  "tokens": 7814,
+  "prompt_tokens": 6915
+ },
+ "[\"CR\", 3, 25, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3838,
+  "prompt_tokens": 3871
+ },
+ "[\"CR\", 3, 25, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7794,
+  "prompt_tokens": 7679
+ },
+ "[\"CR\", 3, 30, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Spain",
+  "tokens": 3860,
+  "prompt_tokens": 3309
+ },
+ "[\"CR\", 3, 30, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Spain",
+  "tokens": 7828,
+  "prompt_tokens": 6726
+ },
+ "[\"CR\", 3, 35, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3851,
+  "prompt_tokens": 4071
+ },
+ "[\"CR\", 3, 35, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7808,
+  "prompt_tokens": 7952
+ },
+ "[\"CR\", 3, 40, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "Picard",
+  "tokens": 3854,
+  "prompt_tokens": 3369
+ },
+ "[\"CR\", 3, 40, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "Picard",
+  "tokens": 7826,
+  "prompt_tokens": 6634
+ },
+ "[\"CR\", 3, 45, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "London",
+  "tokens": 3866,
+  "prompt_tokens": 3807
+ },
+ "[\"CR\", 3, 45, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "London",
+  "tokens": 7833,
+  "prompt_tokens": 7476
+ },
+ "[\"CR\", 3, 50, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "David Potts",
+  "tokens": 3853,
+  "prompt_tokens": 3216
+ },
+ "[\"CR\", 3, 50, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "David Potts",
+  "tokens": 7811,
+  "prompt_tokens": 6626
+ },
+ "[\"CR\", 3, 55, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "London",
+  "tokens": 3843,
+  "prompt_tokens": 3604
+ },
+ "[\"CR\", 3, 55, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "London",
+  "tokens": 7801,
+  "prompt_tokens": 7268
+ },
+ "[\"CR\", 3, 60, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3862,
+  "prompt_tokens": 3175
+ },
+ "[\"CR\", 3, 60, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7833,
+  "prompt_tokens": 6409
+ },
+ "[\"CR\", 3, 65, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3856,
+  "prompt_tokens": 3752
+ },
+ "[\"CR\", 3, 65, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7812,
+  "prompt_tokens": 7371
+ },
+ "[\"CR\", 3, 70, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3853,
+  "prompt_tokens": 3479
+ },
+ "[\"CR\", 3, 70, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7816,
+  "prompt_tokens": 6978
+ },
+ "[\"CR\", 3, 75, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3841,
+  "prompt_tokens": 3630
+ },
+ "[\"CR\", 3, 75, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7799,
+  "prompt_tokens": 7296
+ },
+ "[\"CR\", 3, 80, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3850,
+  "prompt_tokens": 3475
+ },
+ "[\"CR\", 3, 80, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "American English",
+  "tokens": 7813,
+  "prompt_tokens": 6972
+ },
+ "[\"CR\", 3, 85, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 1,
+  "response": "philosopher",
+  "tokens": 3852,
+  "prompt_tokens": 3755
+ },
+ "[\"CR\", 3, 85, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 7815,
+  "prompt_tokens": 7404
+ },
+ "[\"CR\", 3, 90, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3851,
+  "prompt_tokens": 3457
+ },
+ "[\"CR\", 3, 90, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7822,
+  "prompt_tokens": 6770
+ },
+ "[\"CR\", 3, 95, \"ubcm_e5\", 4000, \"think\"]": {
+  "correct": 0,
+  "response": "",
+  "tokens": 3857,
+  "prompt_tokens": 3552
+ },
+ "[\"CR\", 3, 95, \"ubcm_e5\", 8000, \"think\"]": {
+  "correct": 1,
+  "response": "University of Oxford",
+  "tokens": 7820,
+  "prompt_tokens": 6987
+ }
+}

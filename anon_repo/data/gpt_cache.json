@@ -1,0 +1,1126 @@
+{
+ "ep000|ubcm|8000": {
+  "correct": 0.8333333333333334,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "veg": true,
+   "wheel": true
+  },
+  "tokens": 5867,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Ivory Tower Convention Center\"], \"restaurant\": \"Lotus Garden\"}, {\"day\": \"Day 2\", \"attractions\": [\"Sunset Pier\", \"Old Harbor Market\"], \"restaurant\": \"Green Leaf Kitchen\"}, {\"day\": \"Day 3\", \"attractions\": [\"Silver Harbor Yacht Club\"], \"restaurant\": \"Lotus Ga",
+  "prompt_tokens": 4624,
+  "reasoning_tokens": 0
+ },
+ "ep000|ubcm|4000": {
+  "correct": 0.8333333333333334,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "veg": true,
+   "wheel": true
+  },
+  "tokens": 3803,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Ivory Tower Convention Center\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Sunset Pier\",\"Old Harbor Market\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Silver Harbor Yacht Club\"],\"restaurant\":\"Lotus Garden\"}]}",
+  "prompt_tokens": 3089,
+  "reasoning_tokens": 0
+ },
+ "ep001|ubcm|4000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true,
+   "veg": true
+  },
+  "tokens": 3801,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Maritime History Hall\"], \"restaurant\": \"Lotus Garden\"}, {\"day\": \"Day 2\", \"attractions\": [\"Crystal Mall Megaplex\"], \"restaurant\": \"Green Leaf Kitchen\"}, {\"day\": \"Day 3\", \"attractions\": [\"Neon District Arcade\", \"Cedar Hill Observatory\"], \"restaurant\": \"Lotus",
+  "prompt_tokens": 3102,
+  "reasoning_tokens": 0
+ },
+ "ep001|ubcm|8000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true,
+   "veg": true
+  },
+  "tokens": 6874,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Maritime History Hall\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Crystal Mall Megaplex\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Neon District Arcade\",\"Cedar Hill Observatory\"],\"restaurant\":\"Lotus Garden\"}]}",
+  "prompt_tokens": 5374,
+  "reasoning_tokens": 0
+ },
+ "ep001|full|8000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true,
+   "veg": true
+  },
+  "tokens": 9930,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Maritime History Hall\"], \"restaurant\": \"Lotus Garden\"}, {\"day\": \"Day 2\", \"attractions\": [\"Crystal Mall Megaplex\"], \"restaurant\": \"Green Leaf Kitchen\"}, {\"day\": \"Day 3\", \"attractions\": [\"Neon District Arcade\", \"Cedar Hill Observatory\"], \"restaurant\": \"Lotus",
+  "prompt_tokens": 7630,
+  "reasoning_tokens": 0
+ },
+ "ep000|uniform|4000": {
+  "correct": 0.6,
+  "checks": {
+   "priority": false,
+   "avoids_closed": true,
+   "closed_day": null,
+   "budget": false,
+   "veg": true,
+   "wheel": true
+  },
+  "tokens": 3688,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Driftwood Beach Resort\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Green Leaf Kitchen\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 3\",\"attractions\":[\"Driftwood Beach Resort\"],\"restaurant\":\"Green Leaf Kitchen\"}]}",
+  "prompt_tokens": 2969,
+  "reasoning_tokens": 0
+ },
+ "ep000|full|8000": {
+  "correct": 0.8333333333333334,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "veg": true,
+   "wheel": true
+  },
+  "tokens": 9940,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Ivory Tower Convention Center\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Sunset Pier\",\"Old Harbor Market\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Silver Harbor Yacht Club\"],\"restaurant\":\"Lotus Garden\"}]}",
+  "prompt_tokens": 7638,
+  "reasoning_tokens": 0
+ },
+ "ep001|uniform|4000": {
+  "correct": 0.75,
+  "checks": {
+   "priority": false,
+   "avoids_closed": true,
+   "closed_day": null,
+   "budget": true,
+   "veg": true
+  },
+  "tokens": 3689,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Ivory Tower Convention Center\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Ivory Tower Convention Center\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Ivory Tower Convention Center\"],\"restaurant\":\"Lotus Garden\"}]}",
+  "prompt_tokens": 2969,
+  "reasoning_tokens": 0
+ },
+ "ep002|uniform|4000": {
+  "correct": 0.4,
+  "checks": {
+   "priority": false,
+   "avoids_closed": true,
+   "closed_day": null,
+   "budget": false,
+   "veg": false,
+   "wheel": true
+  },
+  "tokens": 3689,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Blue Heron Botanical Garden\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"(indoor) Green Leaf Kitchen - visit as attraction/shopping option\",\"(indoor) Rivertown Central Market\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"",
+  "prompt_tokens": 2970,
+  "reasoning_tokens": 0
+ },
+ "ep002|ubcm|4000": {
+  "correct": 0.8333333333333334,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "veg": true,
+   "wheel": true
+  },
+  "tokens": 3783,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Rivertown Museum of Art\"], \"restaurant\": \"Lotus Garden\"}, {\"day\": \"Day 2\", \"attractions\": [\"Lantern Alley\", \"Maritime History Hall\"], \"restaurant\": \"Green Leaf Kitchen\"}, {\"day\": \"Day 3\", \"attractions\": [\"Diamond Heights Casino\"], \"restaurant\": \"Lotus Gard",
+  "prompt_tokens": 3091,
+  "reasoning_tokens": 0
+ },
+ "ep002|full|8000": {
+  "correct": 0.8333333333333334,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "veg": true,
+   "wheel": true
+  },
+  "tokens": 9953,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Rivertown Museum of Art\", \"Lantern Alley\"], \"restaurant\": \"Lotus Garden\"}, {\"day\": \"Day 2\", \"attractions\": [\"Falcon Ridge Golf Club\"], \"restaurant\": \"Green Leaf Kitchen\"}, {\"day\": \"Day 3\", \"attractions\": [\"Diamond Heights Casino\"], \"restaurant\": \"Green Lea",
+  "prompt_tokens": 7649,
+  "reasoning_tokens": 0
+ },
+ "ep003|ubcm|4000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true,
+   "wheel": true
+  },
+  "tokens": 3686,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Driftwood Beach Resort\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Cedar Hill Observatory\",\"Old Harbor Market\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Hillcrest Winery\"],\"restaurant\":\"Lotus Garden\"}]}",
+  "prompt_tokens": 3015,
+  "reasoning_tokens": 0
+ },
+ "ep003|uniform|4000": {
+  "correct": 0.75,
+  "checks": {
+   "priority": false,
+   "avoids_closed": true,
+   "closed_day": null,
+   "budget": true,
+   "wheel": true
+  },
+  "tokens": 3686,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Diamond Heights Casino\"], \"restaurant\": \"Lotus Garden\"}, {\"day\": \"Day 2\", \"attractions\": [\"Diamond Heights Casino\"], \"restaurant\": \"Green Leaf Kitchen\"}, {\"day\": \"Day 3\", \"attractions\": [\"Diamond Heights Casino\"], \"restaurant\": \"Lotus Garden\"}]}",
+  "prompt_tokens": 2967,
+  "reasoning_tokens": 0
+ },
+ "ep003|ubcm|8000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "wheel": true
+  },
+  "tokens": 5861,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Driftwood Beach Resort\"], \"restaurant\": \"Lotus Garden\"}, {\"day\": \"Day 2\", \"attractions\": [\"Cedar Hill Observatory\", \"Old Harbor Market\"], \"restaurant\": \"Green Leaf Kitchen\"}, {\"day\": \"Day 3\", \"attractions\": [\"Royal Peacock Hotel\", \"Hillcrest Winery\"], \"res",
+  "prompt_tokens": 4618,
+  "reasoning_tokens": 0
+ },
+ "ep003|full|8000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true,
+   "wheel": true
+  },
+  "tokens": 9941,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Driftwood Beach Resort\"],\"restaurant\":\"Harborview Grill\"},{\"day\":\"Day 2\",\"attractions\":[\"Cedar Hill Observatory\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 3\",\"attractions\":[\"Old Harbor Market\"],\"restaurant\":\"Green Leaf Kitchen\"}]}",
+  "prompt_tokens": 7631,
+  "reasoning_tokens": 0
+ },
+ "ep004|ubcm|8000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true,
+   "wheel": true
+  },
+  "tokens": 5866,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Cedar Hill Observatory\"], \"restaurant\": \"Lotus Garden\"}, {\"day\": \"Day 2\", \"attractions\": [\"Northgate Aquarium\", \"Maritime History Hall\"], \"restaurant\": \"Green Leaf Kitchen\"}, {\"day\": \"Day 3\", \"attractions\": [\"Blue Heron Botanical Garden\"], \"restaurant\": \"P",
+  "prompt_tokens": 4617,
+  "reasoning_tokens": 0
+ },
+ "ep002|ubcm|8000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true,
+   "veg": true,
+   "wheel": true
+  },
+  "tokens": 5883,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Rivertown Museum of Art\",\"Lantern Alley\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Falcon Ridge Golf Club\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Maritime History Hall\"],\"restaurant\":\"Lotus Garden\"}]}",
+  "prompt_tokens": 4641,
+  "reasoning_tokens": 0
+ },
+ "ep004|uniform|4000": {
+  "correct": 0.75,
+  "checks": {
+   "priority": false,
+   "avoids_closed": true,
+   "closed_day": null,
+   "budget": true,
+   "wheel": true
+  },
+  "tokens": 3686,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Grand Summit Resort\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Grand Summit Resort\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Grand Summit Resort\"],\"restaurant\":\"Lotus Garden\"}]}",
+  "prompt_tokens": 2967,
+  "reasoning_tokens": 0
+ },
+ "ep004|ubcm|4000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true,
+   "wheel": true
+  },
+  "tokens": 3688,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Cedar Hill Observatory\",\"Blue Heron Botanical Garden\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Northgate Aquarium\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Blue Heron Botanical Garden\"],\"restaurant\":\"Lotus Garden\"}",
+  "prompt_tokens": 3013,
+  "reasoning_tokens": 0
+ },
+ "ep005|ubcm|4000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true,
+   "wheel": true
+  },
+  "tokens": 3685,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Crystal Mall Megaplex\",\"Lantern Alley\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Starlight Rooftop Lounge\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Diamond Heights Casino\"],\"restaurant\":\"Lotus Garden\"}]}",
+  "prompt_tokens": 3032,
+  "reasoning_tokens": 0
+ },
+ "ep005|uniform|4000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true,
+   "wheel": true
+  },
+  "tokens": 3688,
+  "response": "{\n  \"days\": [\n    {\n      \"day\": \"Day 1\",\n      \"attractions\": [\n        \"Crystal Mall Megaplex\"\n      ],\n      \"restaurant\": \"Lotus Garden\"\n    },\n    {\n      \"day\": \"Day 2\",\n      \"attractions\": [\n        \"Crystal Mall Megaplex\",\n        \"Green Leaf Kitchen\"\n      ],\n      \"restaurant\": \"Green Lea",
+  "prompt_tokens": 2970,
+  "reasoning_tokens": 0
+ },
+ "ep004|full|8000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true,
+   "wheel": true
+  },
+  "tokens": 9949,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Cedar Hill Observatory\",\"Northgate Aquarium\"],\"restaurant\":\"Harborview Grill\"},{\"day\":\"Day 2\",\"attractions\":[\"Blue Heron Botanical Garden\",\"Maritime History Hall\"],\"restaurant\":\"Prime Cut Steakhouse\"},{\"day\":\"Day 3\",\"attractions\":[\"Ivory Tower Convention Cente",
+  "prompt_tokens": 7634,
+  "reasoning_tokens": 0
+ },
+ "ep005|ubcm|8000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "wheel": true
+  },
+  "tokens": 6108,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Crystal Mall Megaplex\",\"Sunset Pier\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Lantern Alley\",\"Old Harbor Market\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Diamond Heights Casino\",\"Starlight Rooftop Lounge\"],\"restaur",
+  "prompt_tokens": 4822,
+  "reasoning_tokens": 0
+ },
+ "ep005|full|8000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true,
+   "wheel": true
+  },
+  "tokens": 9938,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Crystal Mall Megaplex\"], \"restaurant\": \"Harborview Grill\"}, {\"day\": \"Day 2\", \"attractions\": [\"Lantern Alley\"], \"restaurant\": \"Green Leaf Kitchen\"}, {\"day\": \"Day 3\", \"attractions\": [\"Old Harbor Market\", \"Sunset Pier\"], \"restaurant\": \"Lotus Garden\"}]}",
+  "prompt_tokens": 7648,
+  "reasoning_tokens": 0
+ },
+ "ep006|uniform|4000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": false,
+   "avoids_closed": true,
+   "closed_day": null,
+   "budget": true,
+   "veg": true,
+   "wheel": true
+  },
+  "tokens": 3688,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Clocktower Square\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Lotus Garden\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Clocktower Square\"],\"restaurant\":\"Green Leaf Kitchen\"}]}",
+  "prompt_tokens": 2969,
+  "reasoning_tokens": 0
+ },
+ "ep006|ubcm|8000": {
+  "correct": 0.8333333333333334,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "veg": true,
+   "wheel": true
+  },
+  "tokens": 5873,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Riverwalk Gallery\",\"Cedar Hill Observatory\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Crystal Mall Megaplex\",\"Grand Summit Resort\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Maritime History Hall\"],\"restaurant\":\"Lotus",
+  "prompt_tokens": 4630,
+  "reasoning_tokens": 0
+ },
+ "ep006|ubcm|4000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true,
+   "veg": true,
+   "wheel": true
+  },
+  "tokens": 3773,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Riverwalk Gallery\"], \"restaurant\": \"Lotus Garden\"}, {\"day\": \"Day 2\", \"attractions\": [\"Crystal Mall Megaplex\"], \"restaurant\": \"Green Leaf Kitchen\"}, {\"day\": \"Day 3\", \"attractions\": [\"Cedar Hill Observatory\", \"Maritime History Hall\"], \"restaurant\": \"Lotus Ga",
+  "prompt_tokens": 3080,
+  "reasoning_tokens": 0
+ },
+ "ep007|uniform|4000": {
+  "correct": 0.75,
+  "checks": {
+   "priority": false,
+   "avoids_closed": true,
+   "closed_day": null,
+   "budget": true,
+   "wheel": true
+  },
+  "tokens": 3689,
+  "response": "{\n  \"days\": [\n    {\n      \"day\": \"Day 1\",\n      \"attractions\": [\n        \"Cedar Hill Observatory\"\n      ],\n      \"restaurant\": \"Lotus Garden\"\n    },\n    {\n      \"day\": \"Day 2\",\n      \"attractions\": [\n        \"Green Leaf Kitchen\"\n      ],\n      \"restaurant\": \"Green Leaf Kitchen\"\n    },\n    {\n      \"d",
+  "prompt_tokens": 2970,
+  "reasoning_tokens": 0
+ },
+ "ep006|full|8000": {
+  "correct": 0.8333333333333334,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "veg": true,
+   "wheel": true
+  },
+  "tokens": 9948,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Riverwalk Gallery\", \"Cedar Hill Observatory\"], \"restaurant\": \"Lotus Garden\"}, {\"day\": \"Day 2\", \"attractions\": [\"Crystal Mall Megaplex\"], \"restaurant\": \"Green Leaf Kitchen\"}, {\"day\": \"Day 3\", \"attractions\": [\"Maritime History Hall\", \"Grand Summit Resort\"], ",
+  "prompt_tokens": 7642,
+  "reasoning_tokens": 0
+ },
+ "ep007|ubcm|8000": {
+  "correct": 0.6,
+  "checks": {
+   "priority": true,
+   "avoids_closed": false,
+   "closed_day": true,
+   "budget": false,
+   "wheel": true
+  },
+  "tokens": 5872,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Starlight Rooftop Lounge\", \"Driftwood Beach Resort\"], \"restaurant\": \"Lotus Garden\"}, {\"day\": \"Day 2\", \"attractions\": [\"Diamond Heights Casino\"], \"restaurant\": \"Green Leaf Kitchen\"}, {\"day\": \"Day 3\", \"attractions\": [\"Maritime History Hall\", \"Rivertown Museu",
+  "prompt_tokens": 4651,
+  "reasoning_tokens": 0
+ },
+ "ep008|uniform|4000": {
+  "correct": 0.75,
+  "checks": {
+   "priority": false,
+   "avoids_closed": true,
+   "closed_day": null,
+   "budget": true,
+   "wheel": true
+  },
+  "tokens": 3686,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Lantern Alley\"], \"restaurant\": \"Lotus Garden\"}, {\"day\": \"Day 2\", \"attractions\": [\"Lantern Alley\"], \"restaurant\": \"Green Leaf Kitchen\"}, {\"day\": \"Day 3\", \"attractions\": [\"Lantern Alley\"], \"restaurant\": \"Lotus Garden\"}]}",
+  "prompt_tokens": 2967,
+  "reasoning_tokens": 0
+ },
+ "ep007|full|8000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": false,
+   "budget": true,
+   "wheel": true
+  },
+  "tokens": 9954,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Maritime History Hall\"], \"restaurant\": \"Harborview Grill\"}, {\"day\": \"Day 2\", \"attractions\": [\"Starlight Rooftop Lounge\"], \"restaurant\": \"Lotus Garden\"}, {\"day\": \"Day 3\", \"attractions\": [\"Diamond Heights Casino\"], \"restaurant\": \"Green Leaf Kitchen\"}]}",
+  "prompt_tokens": 7667,
+  "reasoning_tokens": 0
+ },
+ "ep007|ubcm|4000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "wheel": true
+  },
+  "tokens": 3696,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Starlight Rooftop Lounge\", \"Driftwood Beach Resort\"], \"restaurant\": \"Lotus Garden\"}, {\"day\": \"Day 2\", \"attractions\": [\"Diamond Heights Casino\"], \"restaurant\": \"Green Leaf Kitchen\"}, {\"day\": \"Day 3\", \"attractions\": [\"Starlight Rooftop Lounge\"], \"restaurant\"",
+  "prompt_tokens": 3046,
+  "reasoning_tokens": 0
+ },
+ "ep008|ubcm|4000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true,
+   "wheel": true
+  },
+  "tokens": 3801,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Clocktower Square\",\"Old Harbor Market\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Ivory Tower Convention Center\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Blue Heron Botanical Garden\",\"Cedar Hill Observatory\"],\"restau",
+  "prompt_tokens": 3091,
+  "reasoning_tokens": 0
+ },
+ "ep009|uniform|4000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true
+  },
+  "tokens": 3688,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Emerald Bay Spa\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Emerald Bay Spa\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Emerald Bay Spa\"],\"restaurant\":\"Lotus Garden\"}]}",
+  "prompt_tokens": 2972,
+  "reasoning_tokens": 0
+ },
+ "ep008|full|8000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "wheel": true
+  },
+  "tokens": 9938,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Clocktower Square\",\"Old Harbor Market\"],\"restaurant\":\"Harborview Grill\"},{\"day\":\"Day 2\",\"attractions\":[\"Ivory Tower Convention Center\",\"Starlight Rooftop Lounge\"],\"restaurant\":\"Prime Cut Steakhouse\"},{\"day\":\"Day 3\",\"attractions\":[\"Blue Heron Botanical Garden\",",
+  "prompt_tokens": 7632,
+  "reasoning_tokens": 0
+ },
+ "ep009|ubcm|4000": {
+  "correct": 0.75,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false
+  },
+  "tokens": 3782,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Emerald Bay Spa\",\"Blue Heron Botanical Garden\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Cedar Hill Observatory\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Diamond Heights Casino\"],\"restaurant\":\"Lotus Garden\"}]}",
+  "prompt_tokens": 3087,
+  "reasoning_tokens": 0
+ },
+ "ep008|ubcm|8000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "wheel": true
+  },
+  "tokens": 6107,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Clocktower Square\",\"Old Harbor Market\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Ivory Tower Convention Center\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Blue Heron Botanical Garden\",\"Starlight Rooftop Lounge\"],\"rest",
+  "prompt_tokens": 4804,
+  "reasoning_tokens": 0
+ },
+ "ep009|ubcm|8000": {
+  "correct": 0.75,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false
+  },
+  "tokens": 6080,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Emerald Bay Spa\",\"Blue Heron Botanical Garden\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Cedar Hill Observatory\",\"Silk Road Bazaar\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Diamond Heights Casino\",\"Rivertown Museum ",
+  "prompt_tokens": 4791,
+  "reasoning_tokens": 0
+ },
+ "ep009|full|8000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true
+  },
+  "tokens": 9912,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Emerald Bay Spa\"], \"restaurant\": \"Harborview Grill\"}, {\"day\": \"Day 2\", \"attractions\": [\"Blue Heron Botanical Garden\", \"Cedar Hill Observatory\"], \"restaurant\": \"Lotus Garden\"}, {\"day\": \"Day 3\", \"attractions\": [\"Silk Road Bazaar\"], \"restaurant\": \"Green Leaf ",
+  "prompt_tokens": 7619,
+  "reasoning_tokens": 0
+ },
+ "ep010|ubcm|4000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "veg": true
+  },
+  "tokens": 3786,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Sunset Pier\",\"Driftwood Beach Resort\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Diamond Heights Casino\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Grand Summit Resort\"],\"restaurant\":\"Lotus Garden\"}]}",
+  "prompt_tokens": 3088,
+  "reasoning_tokens": 0
+ },
+ "ep010|uniform|4000": {
+  "correct": 0.75,
+  "checks": {
+   "priority": false,
+   "avoids_closed": true,
+   "closed_day": null,
+   "budget": true,
+   "veg": true
+  },
+  "tokens": 3689,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Northgate Aquarium\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Green Leaf Kitchen\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 3\",\"attractions\":[\"Northgate Aquarium\",\"Green Leaf Kitchen\"],\"restaurant\":\"Lotus Garden\"}]}",
+  "prompt_tokens": 2972,
+  "reasoning_tokens": 0
+ },
+ "ep010|ubcm|8000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "veg": true
+  },
+  "tokens": 6607,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Sunset Pier\",\"Driftwood Beach Resort\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Diamond Heights Casino\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Ivory Tower Convention Center\",\"Lantern Alley\"],\"restaurant\":\"Lotus Ga",
+  "prompt_tokens": 5171,
+  "reasoning_tokens": 0
+ },
+ "ep011|ubcm|4000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "veg": true
+  },
+  "tokens": 3791,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Royal Peacock Hotel\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Riverwalk Gallery\",\"Sunset Pier\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Ivory Tower Convention Center\"],\"restaurant\":\"Lotus Garden\"}]}",
+  "prompt_tokens": 3087,
+  "reasoning_tokens": 0
+ },
+ "ep010|full|8000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "veg": true
+  },
+  "tokens": 9916,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Sunset Pier\",\"Ivory Tower Convention Center\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Driftwood Beach Resort\",\"Diamond Heights Casino\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Lantern Alley\",\"Grand Summit Resort\"],",
+  "prompt_tokens": 7617,
+  "reasoning_tokens": 0
+ },
+ "ep011|uniform|4000": {
+  "correct": 0.75,
+  "checks": {
+   "priority": false,
+   "avoids_closed": true,
+   "closed_day": null,
+   "budget": true,
+   "veg": true
+  },
+  "tokens": 3687,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Northgate Aquarium\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Northgate Aquarium\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Northgate Aquarium\"],\"restaurant\":\"Lotus Garden\"}]}",
+  "prompt_tokens": 2968,
+  "reasoning_tokens": 0
+ },
+ "ep011|ubcm|8000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "veg": true
+  },
+  "tokens": 7114,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Royal Peacock Hotel\",\"Riverwalk Gallery\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Ivory Tower Convention Center\",\"Sunset Pier\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Cedar Hill Observatory\"],\"restaurant\":\"Lotus G",
+  "prompt_tokens": 5545,
+  "reasoning_tokens": 0
+ },
+ "ep011|full|8000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "veg": true
+  },
+  "tokens": 9922,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Royal Peacock Hotel\",\"Riverwalk Gallery\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Royal Peacock Hotel\",\"Cedar Hill Observatory\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Riverwalk Gallery\",\"Sunset Pier\"],\"restaurant",
+  "prompt_tokens": 7619,
+  "reasoning_tokens": 0
+ },
+ "ep012|uniform|4000": {
+  "correct": 0.75,
+  "checks": {
+   "priority": false,
+   "avoids_closed": true,
+   "closed_day": null,
+   "budget": true,
+   "veg": true
+  },
+  "tokens": 3689,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Maritime History Hall\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Maritime History Hall\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Maritime History Hall\"],\"restaurant\":\"Lotus Garden\"}]}",
+  "prompt_tokens": 2969,
+  "reasoning_tokens": 0
+ },
+ "ep012|ubcm|4000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true,
+   "veg": true
+  },
+  "tokens": 3794,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Old Harbor Market\",\"Rivertown Museum of Art\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Royal Peacock Hotel\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Crystal Mall Megaplex\",\"Rivertown Museum of Art\"],\"restaurant\":\"Lo",
+  "prompt_tokens": 3095,
+  "reasoning_tokens": 0
+ },
+ "ep012|ubcm|8000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "veg": true
+  },
+  "tokens": 6868,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Old Harbor Market\",\"Silk Road Bazaar\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Rivertown Museum of Art\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Crystal Mall Megaplex\",\"Royal Peacock Hotel\"],\"restaurant\":\"Lotus Gar",
+  "prompt_tokens": 5368,
+  "reasoning_tokens": 0
+ },
+ "ep012|full|8000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "veg": true
+  },
+  "tokens": 9921,
+  "response": "{\n  \"days\": [\n    {\n      \"day\": \"Day 1\",\n      \"attractions\": [\n        \"Old Harbor Market\",\n        \"Silk Road Bazaar\"\n      ],\n      \"restaurant\": \"Lotus Garden\"\n    },\n    {\n      \"day\": \"Day 2\",\n      \"attractions\": [\n        \"Rivertown Museum of Art\",\n        \"Crystal Mall Megaplex\"\n      ],\n ",
+  "prompt_tokens": 7623,
+  "reasoning_tokens": 0
+ },
+ "ep013|uniform|4000": {
+  "correct": 0.6666666666666666,
+  "checks": {
+   "priority": false,
+   "avoids_closed": true,
+   "closed_day": null,
+   "budget": true
+  },
+  "tokens": 3687,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Driftwood Beach Resort\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Driftwood Beach Resort\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Driftwood Beach Resort\"],\"restaurant\":\"Lotus Garden\"}]}",
+  "prompt_tokens": 2968,
+  "reasoning_tokens": 0
+ },
+ "ep013|ubcm|4000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true
+  },
+  "tokens": 3796,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Silver Harbor Yacht Club\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Crystal Mall Megaplex\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Rivertown Museum of Art\"],\"restaurant\":\"Lotus Garden\"}]}",
+  "prompt_tokens": 3095,
+  "reasoning_tokens": 0
+ },
+ "ep013|ubcm|8000": {
+  "correct": 0.75,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false
+  },
+  "tokens": 5846,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Silver Harbor Yacht Club\",\"Maritime History Hall\"],\"restaurant\":\"Prime Cut Steakhouse\"},{\"day\":\"Day 2\",\"attractions\":[\"Crystal Mall Megaplex\",\"Rivertown Museum of Art\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 3\",\"attractions\":[\"Falcon Ridge Golf Club\",\"Meadow",
+  "prompt_tokens": 4611,
+  "reasoning_tokens": 0
+ },
+ "ep013|full|8000": {
+  "correct": 0.75,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false
+  },
+  "tokens": 9922,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Silver Harbor Yacht Club\"],\"restaurant\":\"Harborview Grill\"},{\"day\":\"Day 2\",\"attractions\":[\"Rivertown Museum of Art\",\"Maritime History Hall\"],\"restaurant\":\"Prime Cut Steakhouse\"},{\"day\":\"Day 3\",\"attractions\":[\"Crystal Mall Megaplex\"],\"restaurant\":\"Green Leaf Ki",
+  "prompt_tokens": 7621,
+  "reasoning_tokens": 0
+ },
+ "ep014|uniform|4000": {
+  "correct": 0.6666666666666666,
+  "checks": {
+   "priority": false,
+   "avoids_closed": true,
+   "closed_day": null,
+   "budget": true
+  },
+  "tokens": 3690,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Cedar Hill Observatory\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Green Leaf Kitchen\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Cedar Hill Observatory\"],\"restaurant\":\"Lotus Garden\"}]}",
+  "prompt_tokens": 2969,
+  "reasoning_tokens": 0
+ },
+ "ep014|ubcm|8000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true
+  },
+  "tokens": 6080,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Sunset Pier\"], \"restaurant\": \"Lotus Garden\"}, {\"day\": \"Day 2\", \"attractions\": [\"Grand Summit Resort\"], \"restaurant\": \"Prime Cut Steakhouse\"}, {\"day\": \"Day 3\", \"attractions\": [\"Maritime History Hall\", \"Rivertown Museum of Art\"], \"restaurant\": \"Green Leaf Ki",
+  "prompt_tokens": 4782,
+  "reasoning_tokens": 0
+ },
+ "ep015|uniform|4000": {
+  "correct": 0.25,
+  "checks": {
+   "priority": false,
+   "avoids_closed": true,
+   "closed_day": null,
+   "budget": false,
+   "veg": false
+  },
+  "tokens": 3687,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Emerald Bay Spa\"], \"restaurant\": \"Lotus Garden\"}, {\"day\": \"Day 2\", \"attractions\": [\"Green Leaf Kitchen\"], \"restaurant\": \"Prime Cut Steakhouse\"}, {\"day\": \"Day 3\", \"attractions\": [\"Emerald Bay Spa\"], \"restaurant\": \"Lotus Garden\"}]}",
+  "prompt_tokens": 2968,
+  "reasoning_tokens": 0
+ },
+ "ep015|ubcm|4000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "veg": true
+  },
+  "tokens": 3797,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Riverwalk Gallery\", \"Lantern Alley\"], \"restaurant\": \"Lotus Garden\"}, {\"day\": \"Day 2\", \"attractions\": [\"Ivory Tower Convention Center\", \"Blue Heron Botanical Garden\"], \"restaurant\": \"Green Leaf Kitchen\"}, {\"day\": \"Day 3\", \"attractions\": [\"Blue Heron Botanic",
+  "prompt_tokens": 3093,
+  "reasoning_tokens": 0
+ },
+ "ep014|ubcm|4000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true
+  },
+  "tokens": 3782,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Sunset Pier\"], \"restaurant\": \"Lotus Garden\"}, {\"day\": \"Day 2\", \"attractions\": [\"Grand Summit Resort\"], \"restaurant\": \"Green Leaf Kitchen\"}, {\"day\": \"Day 3\", \"attractions\": [\"Maritime History Hall\", \"Crystal Mall Megaplex\"], \"restaurant\": \"Lotus Garden\"}]}",
+  "prompt_tokens": 3080,
+  "reasoning_tokens": 0
+ },
+ "ep014|full|8000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true
+  },
+  "tokens": 9914,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Rivertown Museum of Art\", \"Sunset Pier\"], \"restaurant\": \"Harborview Grill\"}, {\"day\": \"Day 2\", \"attractions\": [\"Grand Summit Resort\"], \"restaurant\": \"Prime Cut Steakhouse\"}, {\"day\": \"Day 3\", \"attractions\": [\"Maritime History Hall\", \"Crystal Mall Megaplex\"],",
+  "prompt_tokens": 7611,
+  "reasoning_tokens": 0
+ },
+ "ep015|ubcm|8000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "veg": true
+  },
+  "tokens": 6617,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Riverwalk Gallery\",\"Lantern Alley\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Ivory Tower Convention Center\",\"Driftwood Beach Resort\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Blue Heron Botanical Garden\"],\"restaurant",
+  "prompt_tokens": 5177,
+  "reasoning_tokens": 0
+ },
+ "ep015|full|8000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "veg": true
+  },
+  "tokens": 9925,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Riverwalk Gallery\",\"Lantern Alley\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Ivory Tower Convention Center\",\"Blue Heron Botanical Garden\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Driftwood Beach Resort\"],\"restaurant",
+  "prompt_tokens": 7621,
+  "reasoning_tokens": 0
+ },
+ "ep016|uniform|4000": {
+  "correct": 0.5,
+  "checks": {
+   "priority": false,
+   "avoids_closed": true,
+   "closed_day": null,
+   "budget": false,
+   "wheel": true
+  },
+  "tokens": 3690,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Silver Harbor Yacht Club\"], \"restaurant\": \"Lotus Garden\"}, {\"day\": \"Day 2\", \"attractions\": [\"Green Leaf Kitchen\"], \"restaurant\": \"Lotus Garden\"}, {\"day\": \"Day 3\", \"attractions\": [\"Silver Harbor Yacht Club\", \"Green Leaf Kitchen\"], \"restaurant\": \"Green Leaf ",
+  "prompt_tokens": 2969,
+  "reasoning_tokens": 0
+ },
+ "ep016|ubcm|8000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "wheel": true
+  },
+  "tokens": 5870,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Diamond Heights Casino\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Driftwood Beach Resort\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Silk Road Bazaar\"],\"restaurant\":\"Lotus Garden\"}]}",
+  "prompt_tokens": 4622,
+  "reasoning_tokens": 0
+ },
+ "ep016|ubcm|4000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "wheel": true
+  },
+  "tokens": 3694,
+  "response": "{\n  \"days\": [\n    {\n      \"day\": \"Day 1\",\n      \"attractions\": [\n        \"Diamond Heights Casino\"\n      ],\n      \"restaurant\": \"Lotus Garden\"\n    },\n    {\n      \"day\": \"Day 2\",\n      \"attractions\": [\n        \"Driftwood Beach Resort\"\n      ],\n      \"restaurant\": \"Green Leaf Kitchen\"\n    },\n    {\n    ",
+  "prompt_tokens": 3015,
+  "reasoning_tokens": 0
+ },
+ "ep016|full|8000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "wheel": true
+  },
+  "tokens": 9952,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Diamond Heights Casino\",\"Silk Road Bazaar\"],\"restaurant\":\"Harborview Grill\"},{\"day\":\"Day 2\",\"attractions\":[\"Driftwood Beach Resort\",\"Starlight Rooftop Lounge\"],\"restaurant\":\"Prime Cut Steakhouse\"},{\"day\":\"Day 3\",\"attractions\":[\"Falcon Ridge Golf Club\",\"Crystal",
+  "prompt_tokens": 7636,
+  "reasoning_tokens": 0
+ },
+ "ep017|uniform|4000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": false,
+   "avoids_closed": true,
+   "closed_day": null,
+   "budget": true,
+   "veg": true,
+   "wheel": true
+  },
+  "tokens": 3690,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Driftwood Beach Resort\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Driftwood Beach Resort\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Driftwood Beach Resort\"],\"restaurant\":\"Lotus Garden\"}]}",
+  "prompt_tokens": 2971,
+  "reasoning_tokens": 0
+ },
+ "ep017|ubcm|4000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true,
+   "veg": true,
+   "wheel": true
+  },
+  "tokens": 3780,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Rivertown Museum of Art\",\"Lantern Alley\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Neon District Arcade\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Cedar Hill Observatory\",\"Riverwalk Gallery\"],\"restaurant\":\"Lotus Gard",
+  "prompt_tokens": 3089,
+  "reasoning_tokens": 0
+ },
+ "ep017|ubcm|8000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true,
+   "veg": true,
+   "wheel": true
+  },
+  "tokens": 5880,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Rivertown Museum of Art\",\"Lantern Alley\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Neon District Arcade\",\"Silk Road Bazaar\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Cedar Hill Observatory\",\"Riverwalk Gallery\"],\"rest",
+  "prompt_tokens": 4639,
+  "reasoning_tokens": 0
+ },
+ "ep017|full|8000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true,
+   "veg": true,
+   "wheel": true
+  },
+  "tokens": 9954,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Rivertown Museum of Art\", \"Lantern Alley\"], \"restaurant\": \"Lotus Garden\"}, {\"day\": \"Day 2\", \"attractions\": [\"Neon District Arcade\"], \"restaurant\": \"Green Leaf Kitchen\"}, {\"day\": \"Day 3\", \"attractions\": [\"Riverwalk Gallery\"], \"restaurant\": \"Lotus Garden\"}]}",
+  "prompt_tokens": 7655,
+  "reasoning_tokens": 0
+ },
+ "ep018|uniform|4000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true,
+   "veg": false
+  },
+  "tokens": 3687,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Lantern Alley\",\"Lotus Garden\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Green Leaf Kitchen\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Prime Cut Steakhouse\"],\"restaurant\":\"Prime Cut Steakhouse\"}]}",
+  "prompt_tokens": 2968,
+  "reasoning_tokens": 0
+ },
+ "ep018|ubcm|4000": {
+  "correct": 1.0,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": true,
+   "veg": true
+  },
+  "tokens": 3785,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Lantern Alley\",\"Clocktower Square\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Ivory Tower Convention Center\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Northgate Aquarium\",\"Clocktower Square\"],\"restaurant\":\"Lotus Garde",
+  "prompt_tokens": 3083,
+  "reasoning_tokens": 0
+ },
+ "ep018|ubcm|8000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "veg": true
+  },
+  "tokens": 6606,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Lantern Alley\",\"Clocktower Square\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Ivory Tower Convention Center\",\"Starlight Rooftop Lounge\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Northgate Aquarium\",\"Maritime History H",
+  "prompt_tokens": 5170,
+  "reasoning_tokens": 0
+ },
+ "ep018|full|8000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "veg": true
+  },
+  "tokens": 9914,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Lantern Alley\",\"Clocktower Square\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Ivory Tower Convention Center\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Northgate Aquarium\",\"Starlight Rooftop Lounge\"],\"restaurant\":\"Lotu",
+  "prompt_tokens": 7613,
+  "reasoning_tokens": 0
+ },
+ "ep019|uniform|4000": {
+  "correct": 0.75,
+  "checks": {
+   "priority": false,
+   "avoids_closed": true,
+   "closed_day": null,
+   "budget": true,
+   "wheel": true
+  },
+  "tokens": 3688,
+  "response": "{\n  \"days\": [\n    {\n      \"day\": \"Day 1\",\n      \"attractions\": [\n        \"Starlight Rooftop Lounge\"\n      ],\n      \"restaurant\": \"Lotus Garden\"\n    },\n    {\n      \"day\": \"Day 2\",\n      \"attractions\": [\n        \"Green Leaf Kitchen\"\n      ],\n      \"restaurant\": \"Lotus Garden\"\n    },\n    {\n      \"day\":",
+  "prompt_tokens": 2972,
+  "reasoning_tokens": 0
+ },
+ "ep019|ubcm|4000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "wheel": true
+  },
+  "tokens": 3804,
+  "response": "{\"days\": [{\"day\": \"Day 1\", \"attractions\": [\"Rivertown Museum of Art\"], \"restaurant\": \"Green Leaf Kitchen\"}, {\"day\": \"Day 2\", \"attractions\": [\"Hillcrest Winery\"], \"restaurant\": \"Royal Peacock Hotel\"}, {\"day\": \"Day 3\", \"attractions\": [\"Royal Peacock Hotel\"], \"restaurant\": \"Lotus Garden\"}]}",
+  "prompt_tokens": 3109,
+  "reasoning_tokens": 0
+ },
+ "ep019|full|8000": {
+  "correct": 0.6,
+  "checks": {
+   "priority": true,
+   "avoids_closed": false,
+   "closed_day": true,
+   "budget": false,
+   "wheel": true
+  },
+  "tokens": 9930,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Rivertown Museum of Art\",\"Clocktower Square\"],\"restaurant\":\"Harborview Grill\"},{\"day\":\"Day 2\",\"attractions\":[\"Hillcrest Winery\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 3\",\"attractions\":[\"Northgate Aquarium\",\"Royal Peacock Hotel\"],\"restaurant\":\"Green Leaf Kit",
+  "prompt_tokens": 7636,
+  "reasoning_tokens": 0
+ },
+ "ep019|ubcm|8000": {
+  "correct": 0.8,
+  "checks": {
+   "priority": true,
+   "avoids_closed": true,
+   "closed_day": true,
+   "budget": false,
+   "wheel": true
+  },
+  "tokens": 5851,
+  "response": "{\"days\":[{\"day\":\"Day 1\",\"attractions\":[\"Rivertown Museum of Art\"],\"restaurant\":\"Lotus Garden\"},{\"day\":\"Day 2\",\"attractions\":[\"Hillcrest Winery\"],\"restaurant\":\"Green Leaf Kitchen\"},{\"day\":\"Day 3\",\"attractions\":[\"Royal Peacock Hotel\"],\"restaurant\":\"Prime Cut Steakhouse\"}]}",
+  "prompt_tokens": 4623,
+  "reasoning_tokens": 0
+ }
+}

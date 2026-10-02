@@ -1,0 +1,17 @@
+{
+ "constrained@4000": {
+  "mean_pct": 97.73,
+  "std_pct": 0.55,
+  "min_pct": 96.88
+ },
+ "constrained@8000": {
+  "mean_pct": 100.0,
+  "std_pct": 0.0,
+  "min_pct": 100.0
+ },
+ "constrained@16000": {
+  "mean_pct": 100.0,
+  "std_pct": 0.0,
+  "min_pct": 100.0
+ }
+}

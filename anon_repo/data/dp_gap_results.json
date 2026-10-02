@@ -1,0 +1,10 @@
+{
+  "episodes": 30,
+  "mean_pct_of_optimum": 97.67,
+  "std_pct": 0.53,
+  "min_pct": 96.85,
+  "quantum": 16,
+  "kappa": 0.8,
+  "m_min": 64,
+  "budget": 4000
+}

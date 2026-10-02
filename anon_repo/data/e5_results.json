@@ -1,0 +1,962 @@
+{
+ "CR|r0|q0|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Belgium",
+  "tokens": 3861,
+  "prompt_tokens": 3534
+ },
+ "CR|r0|q0|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Belgium",
+  "tokens": 6105,
+  "prompt_tokens": 5426
+ },
+ "CR|r0|q5|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Baldwin Wallace University",
+  "tokens": 3861,
+  "prompt_tokens": 3535
+ },
+ "CR|r0|q5|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Baldwin Wallace University",
+  "tokens": 6105,
+  "prompt_tokens": 5431
+ },
+ "CR|r0|q10|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "atheism",
+  "tokens": 3858,
+  "prompt_tokens": 3541
+ },
+ "CR|r0|q10|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "atheism",
+  "tokens": 6105,
+  "prompt_tokens": 5426
+ },
+ "CR|r0|q15|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3857,
+  "prompt_tokens": 3435
+ },
+ "CR|r0|q15|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 6105,
+  "prompt_tokens": 5425
+ },
+ "CR|r0|q20|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Persian",
+  "tokens": 3854,
+  "prompt_tokens": 3505
+ },
+ "CR|r0|q20|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Persian",
+  "tokens": 6105,
+  "prompt_tokens": 5429
+ },
+ "CR|r0|q25|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Adel al-Jubeir",
+  "tokens": 3855,
+  "prompt_tokens": 3467
+ },
+ "CR|r0|q25|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Adel al-Jubeir",
+  "tokens": 6105,
+  "prompt_tokens": 5433
+ },
+ "CR|r0|q30|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "New York City",
+  "tokens": 3839,
+  "prompt_tokens": 3411
+ },
+ "CR|r0|q30|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "New York City",
+  "tokens": 6105,
+  "prompt_tokens": 5440
+ },
+ "CR|r0|q35|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "The Fairly OddParents",
+  "tokens": 3856,
+  "prompt_tokens": 3532
+ },
+ "CR|r0|q35|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "The Fairly OddParents",
+  "tokens": 6105,
+  "prompt_tokens": 5428
+ },
+ "CR|r0|q40|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Philippe, Duke of Orléans",
+  "tokens": 3859,
+  "prompt_tokens": 3508
+ },
+ "CR|r0|q40|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Philippe, Duke of Orléans",
+  "tokens": 6105,
+  "prompt_tokens": 5428
+ },
+ "CR|r0|q45|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "London",
+  "tokens": 3866,
+  "prompt_tokens": 3565
+ },
+ "CR|r0|q45|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "London",
+  "tokens": 6105,
+  "prompt_tokens": 5428
+ },
+ "CR|r0|q50|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Mansourah, Algeria",
+  "tokens": 3851,
+  "prompt_tokens": 3578
+ },
+ "CR|r0|q50|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Mansourah, Algeria",
+  "tokens": 6105,
+  "prompt_tokens": 5433
+ },
+ "CR|r0|q55|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Sweden",
+  "tokens": 3856,
+  "prompt_tokens": 3384
+ },
+ "CR|r0|q55|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Sweden",
+  "tokens": 6105,
+  "prompt_tokens": 5424
+ },
+ "CR|r0|q60|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Berlin",
+  "tokens": 3860,
+  "prompt_tokens": 3548
+ },
+ "CR|r0|q60|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Berlin",
+  "tokens": 6105,
+  "prompt_tokens": 5427
+ },
+ "CR|r0|q65|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Narendra Modi",
+  "tokens": 3859,
+  "prompt_tokens": 3466
+ },
+ "CR|r0|q65|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Narendra Modi",
+  "tokens": 6105,
+  "prompt_tokens": 5427
+ },
+ "CR|r0|q70|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Botevgrad",
+  "tokens": 3854,
+  "prompt_tokens": 3493
+ },
+ "CR|r0|q70|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Botevgrad",
+  "tokens": 6105,
+  "prompt_tokens": 5429
+ },
+ "CR|r0|q75|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "interdenominational organization",
+  "tokens": 3863,
+  "prompt_tokens": 3529
+ },
+ "CR|r0|q75|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "interdenominational organization",
+  "tokens": 6105,
+  "prompt_tokens": 5427
+ },
+ "CR|r0|q80|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Antarctica",
+  "tokens": 3857,
+  "prompt_tokens": 3464
+ },
+ "CR|r0|q80|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Antarctica",
+  "tokens": 6105,
+  "prompt_tokens": 5427
+ },
+ "CR|r0|q85|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3850,
+  "prompt_tokens": 3413
+ },
+ "CR|r0|q85|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 6105,
+  "prompt_tokens": 5427
+ },
+ "CR|r0|q90|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "English and French",
+  "tokens": 3861,
+  "prompt_tokens": 3515
+ },
+ "CR|r0|q90|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "English, French",
+  "tokens": 6105,
+  "prompt_tokens": 5428
+ },
+ "CR|r0|q95|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Mekere Morauta",
+  "tokens": 3846,
+  "prompt_tokens": 3493
+ },
+ "CR|r0|q95|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Mekere Morauta",
+  "tokens": 6105,
+  "prompt_tokens": 5426
+ },
+ "CR|r1|q0|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Taipei",
+  "tokens": 3858,
+  "prompt_tokens": 3390
+ },
+ "CR|r1|q0|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Taipei",
+  "tokens": 7814,
+  "prompt_tokens": 6955
+ },
+ "CR|r1|q5|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "South America",
+  "tokens": 3843,
+  "prompt_tokens": 3256
+ },
+ "CR|r1|q5|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "South America",
+  "tokens": 7806,
+  "prompt_tokens": 6758
+ },
+ "CR|r1|q10|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Portland",
+  "tokens": 3863,
+  "prompt_tokens": 3712
+ },
+ "CR|r1|q10|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Portland",
+  "tokens": 7822,
+  "prompt_tokens": 7228
+ },
+ "CR|r1|q15|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3856,
+  "prompt_tokens": 3414
+ },
+ "CR|r1|q15|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7815,
+  "prompt_tokens": 6859
+ },
+ "CR|r1|q20|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "Indonesia",
+  "tokens": 3851,
+  "prompt_tokens": 3410
+ },
+ "CR|r1|q20|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "Indonesia",
+  "tokens": 7806,
+  "prompt_tokens": 6849
+ },
+ "CR|r1|q25|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Italian",
+  "tokens": 3845,
+  "prompt_tokens": 3545
+ },
+ "CR|r1|q25|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "English and Italian",
+  "tokens": 7807,
+  "prompt_tokens": 7001
+ },
+ "CR|r1|q30|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Australian hip hop",
+  "tokens": 3856,
+  "prompt_tokens": 3544
+ },
+ "CR|r1|q30|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Australian hip hop",
+  "tokens": 7820,
+  "prompt_tokens": 7139
+ },
+ "CR|r1|q35|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Melbourne",
+  "tokens": 3848,
+  "prompt_tokens": 3431
+ },
+ "CR|r1|q35|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Melbourne",
+  "tokens": 7805,
+  "prompt_tokens": 7035
+ },
+ "CR|r1|q40|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Pune",
+  "tokens": 3850,
+  "prompt_tokens": 3776
+ },
+ "CR|r1|q40|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Pune",
+  "tokens": 7809,
+  "prompt_tokens": 7287
+ },
+ "CR|r1|q45|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Plovdiv",
+  "tokens": 3851,
+  "prompt_tokens": 3281
+ },
+ "CR|r1|q45|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Plovdiv",
+  "tokens": 7808,
+  "prompt_tokens": 6749
+ },
+ "CR|r1|q50|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "North America",
+  "tokens": 3841,
+  "prompt_tokens": 3686
+ },
+ "CR|r1|q50|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "North America",
+  "tokens": 7805,
+  "prompt_tokens": 7126
+ },
+ "CR|r1|q55|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3838,
+  "prompt_tokens": 3767
+ },
+ "CR|r1|q55|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7800,
+  "prompt_tokens": 7380
+ },
+ "CR|r1|q60|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Danish",
+  "tokens": 3855,
+  "prompt_tokens": 3680
+ },
+ "CR|r1|q60|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "English, Danish",
+  "tokens": 7824,
+  "prompt_tokens": 7255
+ },
+ "CR|r1|q65|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Berlin",
+  "tokens": 3859,
+  "prompt_tokens": 3680
+ },
+ "CR|r1|q65|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Berlin",
+  "tokens": 7824,
+  "prompt_tokens": 7268
+ },
+ "CR|r1|q70|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Amposta",
+  "tokens": 3834,
+  "prompt_tokens": 3424
+ },
+ "CR|r1|q70|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Amposta",
+  "tokens": 7796,
+  "prompt_tokens": 6849
+ },
+ "CR|r1|q75|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "888 7th Avenue",
+  "tokens": 3853,
+  "prompt_tokens": 3433
+ },
+ "CR|r1|q75|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "888 7th Avenue",
+  "tokens": 7810,
+  "prompt_tokens": 6989
+ },
+ "CR|r1|q80|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Ole Johan Vierdal",
+  "tokens": 3847,
+  "prompt_tokens": 3717
+ },
+ "CR|r1|q80|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Ole Johan Vierdal",
+  "tokens": 7813,
+  "prompt_tokens": 7136
+ },
+ "CR|r1|q85|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "British Broadcasting Corporation",
+  "tokens": 3854,
+  "prompt_tokens": 3428
+ },
+ "CR|r1|q85|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "British Broadcasting Corporation",
+  "tokens": 7818,
+  "prompt_tokens": 6756
+ },
+ "CR|r1|q90|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "Marcapata",
+  "tokens": 3832,
+  "prompt_tokens": 3642
+ },
+ "CR|r1|q90|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "Marcapata",
+  "tokens": 7794,
+  "prompt_tokens": 7192
+ },
+ "CR|r1|q95|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Japan",
+  "tokens": 3846,
+  "prompt_tokens": 3226
+ },
+ "CR|r1|q95|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Japan",
+  "tokens": 7813,
+  "prompt_tokens": 6579
+ },
+ "CR|r2|q0|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "German",
+  "tokens": 3859,
+  "prompt_tokens": 3452
+ },
+ "CR|r2|q0|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "",
+  "tokens": 7823,
+  "prompt_tokens": 6952
+ },
+ "CR|r2|q5|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3857,
+  "prompt_tokens": 3399
+ },
+ "CR|r2|q5|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "",
+  "tokens": 7827,
+  "prompt_tokens": 6876
+ },
+ "CR|r2|q10|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Duluth",
+  "tokens": 3847,
+  "prompt_tokens": 3847
+ },
+ "CR|r2|q10|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Duluth",
+  "tokens": 7811,
+  "prompt_tokens": 7442
+ },
+ "CR|r2|q15|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "Rurouni Kenshin",
+  "tokens": 3844,
+  "prompt_tokens": 3793
+ },
+ "CR|r2|q15|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "The Fairly OddParents",
+  "tokens": 7813,
+  "prompt_tokens": 7290
+ },
+ "CR|r2|q20|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "German",
+  "tokens": 3853,
+  "prompt_tokens": 3497
+ },
+ "CR|r2|q20|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "German",
+  "tokens": 7824,
+  "prompt_tokens": 7033
+ },
+ "CR|r2|q25|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Mexico City",
+  "tokens": 3866,
+  "prompt_tokens": 3293
+ },
+ "CR|r2|q25|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Mexico City",
+  "tokens": 7830,
+  "prompt_tokens": 6781
+ },
+ "CR|r2|q30|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Ethiopian Orthodox Tewahedo Church",
+  "tokens": 3867,
+  "prompt_tokens": 3230
+ },
+ "CR|r2|q30|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Ethiopian Orthodox Tewahedo Church",
+  "tokens": 7839,
+  "prompt_tokens": 6681
+ },
+ "CR|r2|q35|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "New York City",
+  "tokens": 3852,
+  "prompt_tokens": 3776
+ },
+ "CR|r2|q35|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "New York City",
+  "tokens": 7808,
+  "prompt_tokens": 7465
+ },
+ "CR|r2|q40|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Pune",
+  "tokens": 3849,
+  "prompt_tokens": 3921
+ },
+ "CR|r2|q40|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "",
+  "tokens": 7814,
+  "prompt_tokens": 7564
+ },
+ "CR|r2|q45|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3843,
+  "prompt_tokens": 3312
+ },
+ "CR|r2|q45|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Russellville",
+  "tokens": 7811,
+  "prompt_tokens": 6791
+ },
+ "CR|r2|q50|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "Berlin",
+  "tokens": 3857,
+  "prompt_tokens": 3490
+ },
+ "CR|r2|q50|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "Berlin",
+  "tokens": 7827,
+  "prompt_tokens": 7010
+ },
+ "CR|r2|q55|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3843,
+  "prompt_tokens": 3811
+ },
+ "CR|r2|q55|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7804,
+  "prompt_tokens": 7389
+ },
+ "CR|r2|q60|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "San Jose",
+  "tokens": 3860,
+  "prompt_tokens": 3240
+ },
+ "CR|r2|q60|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "San Jose",
+  "tokens": 7820,
+  "prompt_tokens": 6705
+ },
+ "CR|r2|q65|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Connachta",
+  "tokens": 3846,
+  "prompt_tokens": 3822
+ },
+ "CR|r2|q65|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "",
+  "tokens": 7804,
+  "prompt_tokens": 7391
+ },
+ "CR|r2|q70|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Guangzhou",
+  "tokens": 3853,
+  "prompt_tokens": 3756
+ },
+ "CR|r2|q70|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Guangzhou",
+  "tokens": 7819,
+  "prompt_tokens": 7417
+ },
+ "CR|r2|q75|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3855,
+  "prompt_tokens": 3755
+ },
+ "CR|r2|q75|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7816,
+  "prompt_tokens": 7269
+ },
+ "CR|r2|q80|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Europe",
+  "tokens": 3840,
+  "prompt_tokens": 3702
+ },
+ "CR|r2|q80|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Europe",
+  "tokens": 7799,
+  "prompt_tokens": 7175
+ },
+ "CR|r2|q85|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "India",
+  "tokens": 3849,
+  "prompt_tokens": 3245
+ },
+ "CR|r2|q85|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "India",
+  "tokens": 7815,
+  "prompt_tokens": 6611
+ },
+ "CR|r2|q90|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "South America",
+  "tokens": 3844,
+  "prompt_tokens": 3613
+ },
+ "CR|r2|q90|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Asia",
+  "tokens": 7800,
+  "prompt_tokens": 7134
+ },
+ "CR|r2|q95|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3841,
+  "prompt_tokens": 3884
+ },
+ "CR|r2|q95|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7802,
+  "prompt_tokens": 7469
+ },
+ "CR|r3|q0|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3865,
+  "prompt_tokens": 3390
+ },
+ "CR|r3|q0|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7828,
+  "prompt_tokens": 6644
+ },
+ "CR|r3|q5|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "English",
+  "tokens": 3848,
+  "prompt_tokens": 3425
+ },
+ "CR|r3|q5|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "English",
+  "tokens": 7810,
+  "prompt_tokens": 6857
+ },
+ "CR|r3|q10|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3851,
+  "prompt_tokens": 3570
+ },
+ "CR|r3|q10|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7806,
+  "prompt_tokens": 7113
+ },
+ "CR|r3|q15|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3858,
+  "prompt_tokens": 3077
+ },
+ "CR|r3|q15|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Long Beach",
+  "tokens": 7833,
+  "prompt_tokens": 6268
+ },
+ "CR|r3|q20|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "Harald V of Norway",
+  "tokens": 3843,
+  "prompt_tokens": 3518
+ },
+ "CR|r3|q20|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "Alassane Dramane Ouattara",
+  "tokens": 7814,
+  "prompt_tokens": 6915
+ },
+ "CR|r3|q25|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3838,
+  "prompt_tokens": 3871
+ },
+ "CR|r3|q25|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7794,
+  "prompt_tokens": 7679
+ },
+ "CR|r3|q30|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Spain",
+  "tokens": 3860,
+  "prompt_tokens": 3309
+ },
+ "CR|r3|q30|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Spain",
+  "tokens": 7828,
+  "prompt_tokens": 6726
+ },
+ "CR|r3|q35|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3851,
+  "prompt_tokens": 4071
+ },
+ "CR|r3|q35|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7808,
+  "prompt_tokens": 7952
+ },
+ "CR|r3|q40|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "Picard",
+  "tokens": 3854,
+  "prompt_tokens": 3369
+ },
+ "CR|r3|q40|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "Picard",
+  "tokens": 7826,
+  "prompt_tokens": 6634
+ },
+ "CR|r3|q45|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "London",
+  "tokens": 3866,
+  "prompt_tokens": 3807
+ },
+ "CR|r3|q45|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "London",
+  "tokens": 7833,
+  "prompt_tokens": 7476
+ },
+ "CR|r3|q50|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "David Potts",
+  "tokens": 3853,
+  "prompt_tokens": 3216
+ },
+ "CR|r3|q50|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "David Potts",
+  "tokens": 7811,
+  "prompt_tokens": 6626
+ },
+ "CR|r3|q55|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "London",
+  "tokens": 3843,
+  "prompt_tokens": 3604
+ },
+ "CR|r3|q55|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "London",
+  "tokens": 7801,
+  "prompt_tokens": 7268
+ },
+ "CR|r3|q60|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3862,
+  "prompt_tokens": 3175
+ },
+ "CR|r3|q60|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7833,
+  "prompt_tokens": 6409
+ },
+ "CR|r3|q65|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3856,
+  "prompt_tokens": 3752
+ },
+ "CR|r3|q65|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7812,
+  "prompt_tokens": 7371
+ },
+ "CR|r3|q70|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3853,
+  "prompt_tokens": 3479
+ },
+ "CR|r3|q70|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7816,
+  "prompt_tokens": 6978
+ },
+ "CR|r3|q75|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3841,
+  "prompt_tokens": 3630
+ },
+ "CR|r3|q75|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7799,
+  "prompt_tokens": 7296
+ },
+ "CR|r3|q80|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3850,
+  "prompt_tokens": 3475
+ },
+ "CR|r3|q80|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "American English",
+  "tokens": 7813,
+  "prompt_tokens": 6972
+ },
+ "CR|r3|q85|ubcm_e5|4000": {
+  "correct": 1,
+  "response": "philosopher",
+  "tokens": 3852,
+  "prompt_tokens": 3755
+ },
+ "CR|r3|q85|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "",
+  "tokens": 7815,
+  "prompt_tokens": 7404
+ },
+ "CR|r3|q90|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 3851,
+  "prompt_tokens": 3457
+ },
+ "CR|r3|q90|ubcm_e5|8000": {
+  "correct": 0,
+  "response": "unknown",
+  "tokens": 7822,
+  "prompt_tokens": 6770
+ },
+ "CR|r3|q95|ubcm_e5|4000": {
+  "correct": 0,
+  "response": "",
+  "tokens": 3857,
+  "prompt_tokens": 3552
+ },
+ "CR|r3|q95|ubcm_e5|8000": {
+  "correct": 1,
+  "response": "University of Oxford",
+  "tokens": 7820,
+  "prompt_tokens": 6987
+ }
+}
