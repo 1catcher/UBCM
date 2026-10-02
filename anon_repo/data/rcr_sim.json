@@ -1,0 +1,40 @@
+{
+ "ubcm|4000": {
+  "mean": 0.9221,
+  "std": 0.0094,
+  "tokens": 3726
+ },
+ "rcr_style|4000": {
+  "mean": 0.7573,
+  "std": 0.0,
+  "tokens": 3604,
+  "vs_ubcm_p": 0.0,
+  "vs_ubcm_t": 78.533
+ },
+ "truncation|4000": {
+  "mean": 0.6653,
+  "std": 0.0,
+  "tokens": 3688,
+  "vs_ubcm_p": 0.0,
+  "vs_ubcm_t": 122.375
+ },
+ "ubcm|8000": {
+  "mean": 0.8973,
+  "std": 0.0049,
+  "tokens": 6186
+ },
+ "rcr_style|8000": {
+  "mean": 0.8825,
+  "std": 0.0015,
+  "tokens": 7679,
+  "vs_ubcm_p": 0.0,
+  "vs_ubcm_t": 15.39
+ },
+ "truncation|8000": {
+  "mean": 0.8559,
+  "std": 0.0,
+  "tokens": 7642,
+  "vs_ubcm_p": 0.0,
+  "vs_ubcm_t": 38.102
+ }
+}

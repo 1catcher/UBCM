@@ -7198,5 +7198,725 @@
   "response": "University of Oxford",
   "tokens": 7820,
   "prompt_tokens": 6987
+ },
+ "AR|r0|q0|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3915,
+  "response": "France",
+  "prompt_tokens": 3391
+ },
+ "AR|r0|q0|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7928,
+  "response": "France",
+  "prompt_tokens": 6840
+ },
+ "AR|r0|q0|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15946,
+  "response": "France",
+  "prompt_tokens": 13602
+ },
+ "AR|r0|q5|retrieval|4000": {
+  "correct": 0,
+  "tokens": 3860,
+  "response": "Duke William II of Normandy",
+  "prompt_tokens": 3428
+ },
+ "AR|r0|q5|retrieval|8000": {
+  "correct": 0,
+  "tokens": 7892,
+  "response": "Duke William II of Normandy",
+  "prompt_tokens": 6816
+ },
+ "AR|r0|q5|retrieval|16000": {
+  "correct": 0,
+  "tokens": 15808,
+  "response": "Duke William II of Normandy",
+  "prompt_tokens": 13094
+ },
+ "AR|r0|q10|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3850,
+  "response": "911",
+  "prompt_tokens": 3431
+ },
+ "AR|r0|q10|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7807,
+  "response": "911",
+  "prompt_tokens": 6760
+ },
+ "AR|r0|q10|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15841,
+  "response": "911",
+  "prompt_tokens": 13146
+ },
+ "AR|r0|q15|retrieval|4000": {
+  "correct": 0,
+  "tokens": 3873,
+  "response": "Normandy, a region in France.",
+  "prompt_tokens": 3385
+ },
+ "AR|r0|q15|retrieval|8000": {
+  "correct": 0,
+  "tokens": 7799,
+  "response": "Normandy",
+  "prompt_tokens": 6776
+ },
+ "AR|r0|q15|retrieval|16000": {
+  "correct": 0,
+  "tokens": 15962,
+  "response": "Normandy",
+  "prompt_tokens": 13545
+ },
+ "AR|r0|q20|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3685,
+  "response": "Alexius Komnenos",
+  "prompt_tokens": 3063
+ },
+ "AR|r0|q20|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7587,
+  "response": "Alexius Komnenos",
+  "prompt_tokens": 6312
+ },
+ "AR|r0|q20|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15811,
+  "response": "Alexius Komnenos",
+  "prompt_tokens": 12953
+ },
+ "AR|r0|q25|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3898,
+  "response": "Robert Guiscard",
+  "prompt_tokens": 3545
+ },
+ "AR|r0|q25|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7833,
+  "response": "Robert Guiscard",
+  "prompt_tokens": 6946
+ },
+ "AR|r0|q25|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15914,
+  "response": "Robert Guiscard",
+  "prompt_tokens": 13934
+ },
+ "AR|r0|q30|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3760,
+  "response": "Deabolis",
+  "prompt_tokens": 3545
+ },
+ "AR|r0|q30|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7877,
+  "response": "Deabolis",
+  "prompt_tokens": 7200
+ },
+ "AR|r0|q30|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15780,
+  "response": "Deabolis",
+  "prompt_tokens": 14074
+ },
+ "AR|r0|q35|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3897,
+  "response": "Duke Richard II of Normandy",
+  "prompt_tokens": 3562
+ },
+ "AR|r0|q35|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7787,
+  "response": "Duke Richard II of Normandy",
+  "prompt_tokens": 6826
+ },
+ "AR|r0|q35|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15864,
+  "response": "Duke Richard II of Normandy",
+  "prompt_tokens": 13431
+ },
+ "AR|r0|q40|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3875,
+  "response": "Robert of Jumièges",
+  "prompt_tokens": 3233
+ },
+ "AR|r0|q40|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7732,
+  "response": "Robert of Jumièges",
+  "prompt_tokens": 6394
+ },
+ "AR|r0|q40|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15689,
+  "response": "Robert of Jumièges",
+  "prompt_tokens": 12783
+ },
+ "AR|r0|q45|retrieval|4000": {
+  "correct": 0,
+  "tokens": 3824,
+  "response": "Middle English",
+  "prompt_tokens": 3281
+ },
+ "AR|r0|q45|retrieval|8000": {
+  "correct": 0,
+  "tokens": 7819,
+  "response": "Middle English",
+  "prompt_tokens": 6639
+ },
+ "AR|r0|q45|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15856,
+  "response": "Modern English",
+  "prompt_tokens": 13266
+ },
+ "AR|r0|q50|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3525,
+  "response": "King Malcolm III of Scotland",
+  "prompt_tokens": 3240
+ },
+ "AR|r0|q50|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7800,
+  "response": "King Malcolm III of Scotland",
+  "prompt_tokens": 6878
+ },
+ "AR|r0|q50|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15654,
+  "response": "King Malcolm III of Scotland",
+  "prompt_tokens": 13275
+ },
+ "AR|r0|q55|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3742,
+  "response": "Hereford",
+  "prompt_tokens": 3171
+ },
+ "AR|r0|q55|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7459,
+  "response": "Hereford",
+  "prompt_tokens": 6072
+ },
+ "AR|r0|q55|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15847,
+  "response": "Hereford",
+  "prompt_tokens": 12876
+ },
+ "AR|r0|q60|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3765,
+  "response": "William of Montreuil",
+  "prompt_tokens": 3259
+ },
+ "AR|r0|q60|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7809,
+  "response": "William of Montreuil",
+  "prompt_tokens": 6606
+ },
+ "AR|r0|q60|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15878,
+  "response": "William of Montreuil",
+  "prompt_tokens": 13377
+ },
+ "AR|r0|q65|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3768,
+  "response": "A storm dispersed the fleet.",
+  "prompt_tokens": 3245
+ },
+ "AR|r0|q65|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7865,
+  "response": "A storm dispersed the fleet.",
+  "prompt_tokens": 6575
+ },
+ "AR|r0|q65|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15914,
+  "response": "A storm dispersed the fleet.",
+  "prompt_tokens": 13053
+ },
+ "AR|r0|q70|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3828,
+  "response": "silver chains",
+  "prompt_tokens": 3252
+ },
+ "AR|r0|q70|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7870,
+  "response": "silver chains",
+  "prompt_tokens": 6492
+ },
+ "AR|r0|q70|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15931,
+  "response": "silver chains",
+  "prompt_tokens": 13164
+ },
+ "AR|r0|q75|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3912,
+  "response": "Maciot de Bethencourt",
+  "prompt_tokens": 3129
+ },
+ "AR|r0|q75|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7729,
+  "response": "Maciot de Bethencourt",
+  "prompt_tokens": 6254
+ },
+ "AR|r0|q75|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15756,
+  "response": "Maciot de Bethencourt",
+  "prompt_tokens": 12936
+ },
+ "AR|r0|q80|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3884,
+  "response": "Early Gothic",
+  "prompt_tokens": 3436
+ },
+ "AR|r0|q80|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7722,
+  "response": "Early Gothic",
+  "prompt_tokens": 6633
+ },
+ "AR|r0|q80|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15795,
+  "response": "Early Gothic",
+  "prompt_tokens": 13279
+ },
+ "AR|r0|q85|retrieval|4000": {
+  "correct": 0,
+  "tokens": 3675,
+  "response": "1562 to 1598",
+  "prompt_tokens": 3169
+ },
+ "AR|r0|q85|retrieval|8000": {
+  "correct": 0,
+  "tokens": 7769,
+  "response": "1562 to 1598",
+  "prompt_tokens": 6511
+ },
+ "AR|r0|q85|retrieval|16000": {
+  "correct": 0,
+  "tokens": 15847,
+  "response": "1562 to 1598",
+  "prompt_tokens": 13274
+ },
+ "AR|r0|q90|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3805,
+  "response": "11th century",
+  "prompt_tokens": 3156
+ },
+ "AR|r0|q90|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7913,
+  "response": "11th century",
+  "prompt_tokens": 6433
+ },
+ "AR|r0|q90|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15955,
+  "response": "11th century",
+  "prompt_tokens": 12987
+ },
+ "AR|r0|q95|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3596,
+  "response": "singing",
+  "prompt_tokens": 3151
+ },
+ "AR|r0|q95|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7812,
+  "response": "singing",
+  "prompt_tokens": 6702
+ },
+ "AR|r0|q95|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15748,
+  "response": "singing",
+  "prompt_tokens": 12959
+ },
+ "AR|r1|q0|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3783,
+  "response": "Yes",
+  "prompt_tokens": 3608
+ },
+ "AR|r1|q0|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7805,
+  "response": "Yes",
+  "prompt_tokens": 7348
+ },
+ "AR|r1|q0|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15855,
+  "response": "Yes",
+  "prompt_tokens": 14746
+ },
+ "AR|r1|q5|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3876,
+  "response": "YG Entertainment",
+  "prompt_tokens": 3938
+ },
+ "AR|r1|q5|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7756,
+  "response": "YG Entertainment",
+  "prompt_tokens": 7482
+ },
+ "AR|r1|q5|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15763,
+  "response": "YG Entertainment",
+  "prompt_tokens": 15131
+ },
+ "AR|r1|q10|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3787,
+  "response": "Kansas Song",
+  "prompt_tokens": 3229
+ },
+ "AR|r1|q10|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7766,
+  "response": "Kansas Song",
+  "prompt_tokens": 6866
+ },
+ "AR|r1|q10|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15826,
+  "response": "Kansas Song",
+  "prompt_tokens": 14065
+ },
+ "AR|r1|q15|retrieval|4000": {
+  "correct": 0,
+  "tokens": 3899,
+  "response": "1,000",
+  "prompt_tokens": 3670
+ },
+ "AR|r1|q15|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7886,
+  "response": "9,984",
+  "prompt_tokens": 7170
+ },
+ "AR|r1|q15|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15900,
+  "response": "9,984",
+  "prompt_tokens": 14566
+ },
+ "AR|r1|q20|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3865,
+  "response": "Pedro Rodríguez",
+  "prompt_tokens": 3899
+ },
+ "AR|r1|q20|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7909,
+  "response": "Pedro Rodríguez",
+  "prompt_tokens": 7528
+ },
+ "AR|r1|q20|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15867,
+  "response": "Pedro Rodríguez",
+  "prompt_tokens": 14631
+ },
+ "AR|r1|q25|retrieval|4000": {
+  "correct": 0,
+  "tokens": 3762,
+  "response": "Lee Hazlewood",
+  "prompt_tokens": 3679
+ },
+ "AR|r1|q25|retrieval|8000": {
+  "correct": 0,
+  "tokens": 7921,
+  "response": "Lee Hazlewood; Jim Shoulders",
+  "prompt_tokens": 7583
+ },
+ "AR|r1|q25|retrieval|16000": {
+  "correct": 0,
+  "tokens": 15925,
+  "response": "Lee Hazlewood",
+  "prompt_tokens": 14716
+ },
+ "AR|r1|q30|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3752,
+  "response": "2000",
+  "prompt_tokens": 3755
+ },
+ "AR|r1|q30|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7833,
+  "response": "2000",
+  "prompt_tokens": 7529
+ },
+ "AR|r1|q30|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15312,
+  "response": "2000",
+  "prompt_tokens": 14538
+ },
+ "AR|r1|q35|retrieval|4000": {
+  "correct": 0,
+  "tokens": 3715,
+  "response": "1923",
+  "prompt_tokens": 3392
+ },
+ "AR|r1|q35|retrieval|8000": {
+  "correct": 0,
+  "tokens": 7699,
+  "response": "1923",
+  "prompt_tokens": 6844
+ },
+ "AR|r1|q35|retrieval|16000": {
+  "correct": 0,
+  "tokens": 15856,
+  "response": "1923",
+  "prompt_tokens": 14125
+ },
+ "AR|r1|q40|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3729,
+  "response": "Scotch Collie",
+  "prompt_tokens": 3366
+ },
+ "AR|r1|q40|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7621,
+  "response": "Scotch Collie",
+  "prompt_tokens": 6909
+ },
+ "AR|r1|q40|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15861,
+  "response": "Scotch Collie",
+  "prompt_tokens": 13950
+ },
+ "AR|r1|q45|retrieval|4000": {
+  "correct": 0,
+  "tokens": 3798,
+  "response": "Firth of Forth",
+  "prompt_tokens": 3621
+ },
+ "AR|r1|q45|retrieval|8000": {
+  "correct": 0,
+  "tokens": 7915,
+  "response": "Firth of Forth",
+  "prompt_tokens": 7357
+ },
+ "AR|r1|q45|retrieval|16000": {
+  "correct": 0,
+  "tokens": 15819,
+  "response": "Firth of Forth",
+  "prompt_tokens": 14477
+ },
+ "AR|r1|q50|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3743,
+  "response": "2009 Big 12 Conference",
+  "prompt_tokens": 3520
+ },
+ "AR|r1|q50|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7621,
+  "response": "2009 Big 12 Conference football season",
+  "prompt_tokens": 7070
+ },
+ "AR|r1|q50|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15834,
+  "response": "2009 Big 12 Conference football season",
+  "prompt_tokens": 14084
+ },
+ "AR|r1|q55|retrieval|4000": {
+  "correct": 0,
+  "tokens": 3875,
+  "response": "Adelaide",
+  "prompt_tokens": 3475
+ },
+ "AR|r1|q55|retrieval|8000": {
+  "correct": 0,
+  "tokens": 7878,
+  "response": "Adelaide",
+  "prompt_tokens": 7099
+ },
+ "AR|r1|q55|retrieval|16000": {
+  "correct": 0,
+  "tokens": 15833,
+  "response": "Adelaide",
+  "prompt_tokens": 14012
+ },
+ "AR|r1|q60|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3846,
+  "response": "Shortest player ever to play in the National Basketball Association",
+  "prompt_tokens": 3606
+ },
+ "AR|r1|q60|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7894,
+  "response": "Shortest player ever to play in the National Basketball Association",
+  "prompt_tokens": 7332
+ },
+ "AR|r1|q60|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15918,
+  "response": "Shortest player ever to play in the National Basketball Association",
+  "prompt_tokens": 14643
+ },
+ "AR|r1|q65|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3812,
+  "response": "Charmed",
+  "prompt_tokens": 3528
+ },
+ "AR|r1|q65|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7867,
+  "response": "Charmed",
+  "prompt_tokens": 7365
+ },
+ "AR|r1|q65|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15950,
+  "response": "Charmed",
+  "prompt_tokens": 14980
+ },
+ "AR|r1|q70|retrieval|4000": {
+  "correct": 0,
+  "tokens": 3823,
+  "response": "Teen Titans",
+  "prompt_tokens": 3514
+ },
+ "AR|r1|q70|retrieval|8000": {
+  "correct": 0,
+  "tokens": 7861,
+  "response": "Teen Titans",
+  "prompt_tokens": 7163
+ },
+ "AR|r1|q70|retrieval|16000": {
+  "correct": 0,
+  "tokens": 15904,
+  "response": "Teen Titans",
+  "prompt_tokens": 14683
+ },
+ "AR|r1|q75|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3773,
+  "response": "John John Florence",
+  "prompt_tokens": 3641
+ },
+ "AR|r1|q75|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7817,
+  "response": "John John Florence",
+  "prompt_tokens": 7379
+ },
+ "AR|r1|q75|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15777,
+  "response": "John John Florence",
+  "prompt_tokens": 14929
+ },
+ "AR|r1|q80|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3740,
+  "response": "Newport",
+  "prompt_tokens": 3582
+ },
+ "AR|r1|q80|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7903,
+  "response": "Newport",
+  "prompt_tokens": 7471
+ },
+ "AR|r1|q80|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15914,
+  "response": "Newport",
+  "prompt_tokens": 14555
+ },
+ "AR|r1|q85|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3802,
+  "response": "April 1, 1949",
+  "prompt_tokens": 3341
+ },
+ "AR|r1|q85|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7835,
+  "response": "April 1, 1949",
+  "prompt_tokens": 6874
+ },
+ "AR|r1|q85|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15671,
+  "response": "April 1, 1949",
+  "prompt_tokens": 13923
+ },
+ "AR|r1|q90|retrieval|4000": {
+  "correct": 1,
+  "tokens": 1839,
+  "response": "The Conversation",
+  "prompt_tokens": 1665
+ },
+ "AR|r1|q90|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7898,
+  "response": "The Conversation",
+  "prompt_tokens": 6696
+ },
+ "AR|r1|q90|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15884,
+  "response": "The Conversation",
+  "prompt_tokens": 13892
+ },
+ "AR|r1|q95|retrieval|4000": {
+  "correct": 1,
+  "tokens": 3908,
+  "response": "Fairfax County",
+  "prompt_tokens": 3663
+ },
+ "AR|r1|q95|retrieval|8000": {
+  "correct": 1,
+  "tokens": 7887,
+  "response": "Fairfax County",
+  "prompt_tokens": 7157
+ },
+ "AR|r1|q95|retrieval|16000": {
+  "correct": 1,
+  "tokens": 15924,
+  "response": "Fairfax County",
+  "prompt_tokens": 14424
  }
 }
